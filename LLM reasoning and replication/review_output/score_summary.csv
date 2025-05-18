@@ -1,0 +1,5 @@
+Round,Total Score (gpt-4.1),Average Score (gpt-4.1),Total Score (gemini-2.5),Average Score (gemini-2.5),Total Score (claude-3.7),Average Score (claude-3.7),Combined Total,Combined Average
+0,86.8,4.34,87.9,4.39,86.2,4.31,260.9,4.35
+1,90.5,4.52,89.8,4.49,90.0,4.5,270.3,4.5
+2,93.8,4.69,89.2,4.46,91.3,4.57,274.3,4.57
+3,92.3,4.61,92.8,4.64,92.9,4.64,277.9,4.63

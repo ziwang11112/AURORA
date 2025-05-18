@@ -1,0 +1,108 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_paper_round0.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Warning--I didn't find a database entry for "refFVVRef98"
+Warning--I didn't find a database entry for "refQARef99"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--no number and no volume in ref40
+Warning--page numbers missing in both pages and numpages fields in ref40
+Warning--no number and no volume in ref25
+Warning--page numbers missing in both pages and numpages fields in ref25
+Warning--no number and no volume in ref32
+Warning--page numbers missing in both pages and numpages fields in ref32
+Warning--no number and no volume in ref30
+Warning--page numbers missing in both pages and numpages fields in ref30
+Warning--no number and no volume in ref14
+Warning--page numbers missing in both pages and numpages fields in ref14
+Warning--no number and no volume in ref79
+Warning--page numbers missing in both pages and numpages fields in ref79
+Warning--no number and no volume in ref81
+Warning--page numbers missing in both pages and numpages fields in ref81
+Warning--no number and no volume in ref55
+Warning--page numbers missing in both pages and numpages fields in ref55
+Warning--no number and no volume in ref70
+Warning--page numbers missing in both pages and numpages fields in ref70
+Warning--no number and no volume in ref96
+Warning--page numbers missing in both pages and numpages fields in ref96
+Warning--no number and no volume in ref80
+Warning--page numbers missing in both pages and numpages fields in ref80
+Warning--no number and no volume in ref69
+Warning--page numbers missing in both pages and numpages fields in ref69
+Warning--no number and no volume in ref95
+Warning--page numbers missing in both pages and numpages fields in ref95
+Warning--no number and no volume in ref54
+Warning--page numbers missing in both pages and numpages fields in ref54
+Warning--no number and no volume in ref15
+Warning--page numbers missing in both pages and numpages fields in ref15
+Warning--no number and no volume in ref13
+Warning--page numbers missing in both pages and numpages fields in ref13
+Warning--no number and no volume in ref26
+Warning--page numbers missing in both pages and numpages fields in ref26
+Warning--no number and no volume in ref53
+Warning--page numbers missing in both pages and numpages fields in ref53
+Warning--page numbers missing in both pages and numpages fields in ref1
+Warning--page numbers missing in both pages and numpages fields in ref31
+Warning--no number and no volume in ref94
+Warning--page numbers missing in both pages and numpages fields in ref94
+Warning--no number and no volume in ref41
+Warning--page numbers missing in both pages and numpages fields in ref41
+Warning--no number and no volume in ref42
+Warning--page numbers missing in both pages and numpages fields in ref42
+Warning--no number and no volume in ref68
+Warning--page numbers missing in both pages and numpages fields in ref68
+Warning--no number and no volume in ref27
+Warning--page numbers missing in both pages and numpages fields in ref27
+Warning--no number and no volume in ref33
+Warning--page numbers missing in both pages and numpages fields in ref33
+You've used 93 entries,
+            6056 wiz_defined-function locations,
+            2056 strings with 39592 characters,
+and the built_in function-call counts, 121926 in all, are:
+= -- 18642
+> -- 4828
+< -- 0
++ -- 1696
+- -- 1622
+* -- 9453
+:= -- 11554
+add.period$ -- 474
+call.type$ -- 93
+change.case$ -- 886
+chr.to.int$ -- 86
+cite$ -- 143
+duplicate$ -- 9102
+empty$ -- 6381
+format.name$ -- 1971
+if$ -- 31478
+int.to.chr$ -- 9
+int.to.str$ -- 1
+missing$ -- 372
+newline$ -- 1001
+num.names$ -- 644
+pop$ -- 3429
+preamble$ -- 1
+purify$ -- 1616
+quote$ -- 0
+skip$ -- 3155
+stack$ -- 0
+substring$ -- 8222
+swap$ -- 1068
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1467
+warning$ -- 50
+while$ -- 485
+width$ -- 0
+write$ -- 1997
+(There were 52 warnings)
