@@ -1,0 +1,576 @@
+# Agentic Document Generation
+# 
+# Agentic Citation Preparation
+# topic_identify_agent = Agent(
+    role="Topic Identification Agent",
+    goal="Extract precise and effective keywords from the user's research topic.",
+    verbose=False,
+    model=llm,
+    tools=[],
+    backstory=(
+        "You are an expert in academic publishing and scholarly research. "
+        "You specialize in identifying key terms and concepts from user-provided research topics."
+    ),
+    human_input=True,
+    allow_delegation=False,
+    memory=False
+)
+
+def topic_identify_keywords_task(topic: str) -> Task:
+    return Task(
+        description=(
+            f"Analyze the user's provided research topic: '{topic}'. "
+            "Identify and list the most effective and precise keywords "
+            "for academic citation searches."
+        ),
+        expected_output="A comma‑separated string of optimized keywords.",
+        agent=topic_identify_agent,
+        model=llm,
+        human_input=True
+    )
+    
+journal_search_agent = Agent(
+    role="Journal Recommendation Specialist",
+    goal="Identify reputable journals suitable for the given research topic.",
+    verbose=False,
+    model=llm,
+    tools=[search_tool, scrape_tool],
+    backstory=(
+        "You are an expert in academic publishing and literature review. Your role is to identify high-quality, "
+        "peer-reviewed journals with strong reputations, high impact factor and h-index scores."
+        "You provide only the journal names in a clean format suitable for programmatic use."
+    ),
+    allow_delegation=False,
+    memory=False
+)
+
+# Define the task to retrieve topic-specific journal names as an array
+def find_suitable_journals_task(topic):
+    """
+    Task for the agent to find high-quality, topic-relevant journal names for a given research topic.
+
+    Args:
+        topic (str): The research topic to find suitable journals for.
+
+    Returns:
+        Task: A task that retrieves only highly relevant journal names and stores them in an array.
+    """
+    return Task(
+        description=(
+            f"Search for 3-5 highly relevant, high-impact, reputable journals related to the topic: '{topic}'. "
+            "Prioritize major journals regardless of access type, focusing on quality and reputation. "
+            "In addition, find at least one fully open-access journal and one preprint server (e.g., arXiv, bioRxiv, TechRxiv) if they contain substantial research on the topic. "
+            "Use trusted academic databases like Google Scholar, JSTOR, or IEEE Xplore. "
+            "Return only journal names in a structured array format without any extra metadata."
+        ),
+        expected_output=(
+            "An array containing 3-5 journal or repository names highly relevant to the given topic. "
+            "The list must include 3-5 major high-quality journals (regardless of access type), at least one fully open-access journal, and one preprint server if applicable. "
+            "Journals must be strictly topic-focused. "
+            #"Exclude hybrid journals where substantial content is behind a paywall unless no better option is available."
+        ),
+        agent=journal_search_agent,
+        model=llm,
+        human_input=False
+    )
+# Define the web search agent with a specific role and goal
+web_search_agent = Agent(
+    role="High-Quality Research Paper Finder",
+    goal="Locate high-quality research papers from reputable journals with a high h-index related to a specific topic.",
+    verbose=False,
+    model=llm,
+    tools=[search_tool,scrape_tool],
+    backstory=(
+        "As a Research Specialist, your role is to identify credible and authoritative journal articles. "
+        "You use online tools and databases to locate papers from provided journals. "
+        "Your output provides well-formatted citations ready for academic use."
+    ),
+    allow_delegation=False,
+    memory=False
+)
+def find_high_quality_papers_task(batch_size, topic, source):
+    return Task(
+        description=(
+            f"Search for {batch_size} recent (published in the last 8 years) high-quality, peer-reviewed research papers "
+            f"highly related to the topic '{topic}' from the source '{source}'. Use reputable academic databases or open-access journals "
+            "if necessary. For each paper, extract and format the citation in IEEE style (or another journal-specific style if applicable) "
+            "that includes the following details:\n"
+            "- Complete list of authors\n"
+            "- Title of the paper\n"
+            "- Publication venue (conference or journal name)\n"
+            "- Volume and issue (if available), along with page numbers\n"
+            "- Publication year\n"
+            "- Direct URL to access the paper"
+        ),
+        expected_output="A list of formatted citations including authors, title, venue, volume/issue (if applicable), publication year, and URL.",
+        agent=web_search_agent,
+        model=llm
+    )
+    # Define the citation deduplication agent with clear instructions for removing duplicate citations.
+deduplicated_agent = Agent(
+    role="citation deduplicator",
+    goal="Remove duplicate citations from a list while keeping one representative entry for each unique citation.",
+    verbose=True,
+    model=llm,
+    tools=[search_tool,scrape_tool ],  # Document processing tools
+    backstory=(
+        "An expert agent specialized in deduplicating citation lists. The agent identifies duplicates based on "
+        "the core citation content and removes redundant entries (even if there are slight differences in formatting, "
+        "capitalization, or punctuation), ensuring that each unique citation appears only once. The output should be "
+        "a list where each element is a string that begins with the original citation index followed by the citation text."
+    ),
+    allow_delegation=False,
+    memory=False
+)
+# Function to create a task that deduplicates the citation CSV.
+def deduplicated_task(citation_list):
+    return Task(
+        description=(
+            "Given the following citation list in CSV format, remove all duplicate citations so that only one instance "
+            "of each unique citation remains. Remove entries that are duplicates even if they differ slightly in formatting. "
+            "Ensure that the final output is a list of correct format of citation string do not include index. "
+            "This list will later be saved as a CSV file named 'deduplicated_citations.csv'.\n\n"
+            f"Citation List:\n{citation_list}"
+        ),
+        expected_output="A Python list of deduplicated citation strings with duplicates removed.",
+        agent=deduplicated_agent,
+
+    )
+    
+validate_agent = Agent(
+    role="Citation Deduplication Validator",
+    goal="Double-check that all citation duplicates are removed, even if they differ in formatting.",
+    verbose=True,
+    model=llm,
+    tools=[search_tool, scrape_tool],
+    backstory=(
+        "You are an expert in quality control of academic citation data. You examine deduplicated citation lists and validate "
+        "whether any duplicates still remain, even if they differ slightly in punctuation, author order, or formatting. "
+        "You produce a final clean list with all remaining duplicates removed."
+    ),
+    allow_delegation=False,
+    memory=False
+)
+def deduplicated_task(citation_list):
+    return Task(
+        description=(
+            "Given the following citation list in CSV format, remove all duplicate citations so that only one instance "
+            "of each unique citation remains. Remove entries that are duplicates even if they differ slightly in formatting. "
+            "Ensure that the final output is a list of correct format of citation string do not include index. "
+            "This list will later be saved as a CSV file named 'deduplicated_citations.csv'.\n\n"
+            f"Citation List:\n{citation_list}"
+        ),
+        expected_output="A Python list of deduplicated citation strings with duplicates removed.",
+        agent=deduplicated_agent,
+
+    )
+    
+       
+ # Knowledge base constraction
+ 
+ search_agent = Agent(
+    role="Academic Content Retriever",
+    goal="Collect the key textual content from an academic paper, including abstract, introduction, and if available, full text sections via HTML scraping or preview.",
+    verbose=True,
+    model=llm,
+    tools=[search_tool, scrape_tool],  # pdf_reader_tool removed
+    backstory=(
+        "When given a citation and optional link, attempt to scrape the HTML version of the paper page. "
+        "extract the abstract, introduction, methods, results, discussion, and conclusion. "
+        "If only partial content is available, extract the partial content. "
+        "Always structure the output in JSON with fields: abstract, introduction, methods, results, discussion, conclusion, and so on."
+    ),
+    allow_delegation=True,
+    max_rpm=450000
+)
+
+
+def search_task(link, citation):
+    return Task(
+        description=(         
+            f"1. If the direct link `{link}` is provided, attempt to retrieve structured content from the paper.\n"
+            f"2. **If the direct link fails**, search using the authors and title from citation: `{citation}`:\n" 
+            f"   - If full text is accessible, extract all of: abstract, introduction, methods, results, discussion, challenge, future work and conclusion.\n"
+            f"   - If only partial content is visible, extract just partial content.\n"
+            f"3. Return a JSON object with the fields:\n"
+            f"   - `abstract`, `introduction`, `methods`, `results`, `discussion`, `challenges`, `future_work`, `conclusion`, and other fields)."
+           ),
+        expected_output="A structured JSON object with extracted paper content.",
+        agent=search_agent,
+        model=llm,
+        human_input=False
+    )   
+    
+summary_agent = Agent(
+    role="Paper Keypoint Summarizer",
+    goal="Write a one-paragraph summary of an academic paper using extracted fields (abstract, intro, etc.), with LaTeX formatting for equations or tables if relevant.",
+    verbose=True,
+    model=llm,
+    tools=[],
+    backstory=(
+        "From search agent's output which is JSON object with keys: abstract, introduction, methods, results, discussion, conclusion, and others. "
+        "summarize the paper.. "
+        "If only abstract and introduction are available, summarize those instead. "
+        "Embed critical equations using `$...$` or `$$...$$`, and format compact tables inline using LaTeX tabular syntax. "
+        "If all fields are missing or empty, return exactly:\n"
+        "`Summary unavailable due to missing data`"
+    ),
+    allow_delegation=True,
+    max_rpm=450000,
+    max_execution_time=60,
+    memory=False
+)
+
+
+def summary_task():
+    return Task(
+        description=(
+            "summarize the paper base on search agent's output which is JSON object with fields: abstract, introduction, methods, results, discussion, conclusion, and available (either 'full' or 'partial').\n\n"
+            "• Use inline LaTeX for important equations (`$...$`) or small tables (with `tabular`).\n"
+            "• If both abstract and introduction are missing or empty, return:\n"
+            "`Summary unavailable due to missing data`\n\n"
+            "Return only the paragraph. Do not include headings or extra commentary."
+        ),
+        expected_output="A concise summary  with optional LaTeX inline formatting.",
+        agent=summary_agent,
+        model=llm,
+        human_input=False
+    )
+    
+# Structured Outline Generation
+ # Define the structure agent
+structure_agent = Agent(
+    role="Research Paper Organizer",
+    goal="Generate a professional outline for a survey paper based on provided summaries and citations.",
+    verbose=False,
+    model=llm,
+    backstory="You specialize in analyzing research summaries and organizing them into coherent structures for survey papers.",
+    allow_delegation=True
+)
+
+def structure_agent_task(batch_summaries_and_citations, topic):
+    return Task(
+        description=(
+            f"Input: {batch_summaries_and_citations}\n"
+            f"Analyze the provided batch of summaries and citation numbers to extract key themes related to {topic}. "
+            "Group the summaries into thematic sections and generate a structured outline. "
+            "Ensure that all citations are included and formatted using square brackets []. "
+            "The language should be precise, well-structured, and aligned with the tone of a professional survey paper."
+        ),
+        expected_output="A structured outline including sections and subsections with corresponding citation numbers.",
+        agent=structure_agent,
+        human_input=False
+    )
+
+merge_agent = Agent(
+    role="outline merger",
+    goal="Merge two outlines into a single outline, preserving all citations separately.",
+    verbose=True,
+    memory=True,
+    model=llm,
+    backstory="You excel at combining research outlines step-by-step while ensuring all citations remain intact.",
+    allow_delegation=False
+)
+def merge_two_outlines(outline1, outline2, step):
+    cleaned_outline1 = strip_references(outline1)
+    cleaned_outline2 = strip_references(outline2)
+
+    citations1 = extract_citations(cleaned_outline1)
+    citations2 = extract_citations(cleaned_outline2)
+    all_citations = citations1.union(citations2)
+
+    task_description = f"""### **Task: Merge Step {step}**
+🔹 Merge the following **two outlines** into a **single cohesive outline**.
+🔹 **Preserve ALL citation numbers** from both outlines, ensuring none are lost.
+🔹 Format citations **separately** in square brackets (e.g., [1][2][3], NOT [1, 2, 3]).
+🔹 Group similar themes (e.g., Introduction, Range Search, Similarity Search, Clustering) without strict numbering yet.
+🔹 Maintain logical flow and professional tone.
+🔹 **Do NOT include a reference section**; only include citations within the outline.
+
+### **Input Outlines:**
+#### Outline 1:
+{cleaned_outline1}
+
+#### Outline 2:
+{cleaned_outline2}
+
+### **Expected Output:**
+✅ A merged outline with all citations preserved and formatted separately."""
+
+merge_task = Task(description=task_description, expected_output="A merged outline with all citations preserved.", 
+    agent=merge_agent, model=llm)
+
+validate_agent = Agent(
+    role="research outline validator",
+    goal="Ensure all citations from the original outlines are present and formatted separately in the merged outline.",
+    verbose=True,
+    memory=True,
+    model=llm,
+    backstory="You ensure no citations are lost and are correctly formatted during the merging process.",
+    allow_delegation=False
+)
+
+
+#### Wrtitng and Editing
+
+# Define the writer agent responsible for completing sections of the research paper
+writer_agent = Agent(
+    role="Senior Research Scientist",
+    goal="Produce publication-quality paper sections with rigorous academic standards based on the outline, using provided summaries and citations.",
+    verbose=False,
+    model=llm,
+    Memory=False,
+    backstory="You are a post-doc level researcher with publications in top journals such as Nature and Cell. Recipient of NSF CAREER Award and multiple best paper prizes.Your expertise spans advanced AI applications in healthcare, pharmaceuticals, and scientific domains.",
+    allow_delegation=False
+)
+editor_agent = Agent(
+    role="Research Editor",
+    goal="Refine and enhance research paper sections by improving clarity, coherence, citation consistency, and academic rigor.",
+    verbose=False,
+    model=llm,
+    Memory=False,
+    backstory=(
+        "You are an experienced journal editor who has reviewed numerous top-tier research papers for leading scientific publications. "
+        "Your expertise includes reorganizing content and presenting information in clear formats—including tables when beneficial "
+        "for overviews, summaries, or numerical data comparisons."
+    ),
+    allow_delegation=False
+)
+def editor_agent_task():
+    """
+    Task for the editor agent to enhance clarity, coherence, structure, and academic rigor
+    in the generated research paper section, while integrating LaTeX tables only where clearly justified.
+    """
+
+    return Task(
+        description=(
+            "### **Editorial Enhancement Task Overview**\n"
+            "You are an academic research editor tasked with polishing a research paper section. Your goals are to:\n"
+            "- Improve clarity, logical flow, and academic tone\n"
+            "- Enhance sentence structure and transitions between paragraphs\n"
+            "- Integrate **LaTeX tables** ONLY when they meaningfully improve comprehension\n\n"
+
+            "### **Table Usage Rules:**\n"
+            "✔ Use tables **very sparingly** — only for dense comparisons or structured data that benefits from grid-based layout.\n"
+            "✔ All tables must use valid **LaTeX tabular format**, wrapped in a `table` environment.\n"
+            "✔ Every table must include a **caption** and a **label** (e.g., `\\label{tab:method_comparison}`).\n"
+            "✔ All table references in the narrative must use **LaTeX-style references** like `Table~\\ref{tab:method_comparison}`.\n"
+            "✘ Do **not** insert tables for explanatory paragraphs, long descriptive sentences, or conceptual text.\n"
+            "   - Instead, use well-formatted `\\begin{itemize} ... \\end{itemize}` bullet lists to improve readability.\n"
+            "   - Tables should only be used to improve **visual clarity**, not for convenience or layout padding.\n"
+            "✘ Do **not** use natural language like 'Table 1 shows...'; always use `Table~\\ref{...}`.\n"
+            "✘ Do **not** duplicate content from the main paragraph into a table.\n"
+            "✘ Do **not** modify or reinterpret citation usage.\n\n"
+
+            "### **Expected Final Output:**\n"
+            "A refined and publication-quality version of the research paper section with:\n"
+            "- Fluent narrative structure and transitions\n"
+            "- High academic rigor and improved clarity\n"
+            "- Only essential LaTeX tables that improve comprehension\n"
+            "- No tables that simply repeat or hold long narrative content\n"
+            "- All tables referenced using `Table~\\ref{...}` syntax\n"
+            "- Fully compliant academic formatting in LaTeX."
+        ),
+        expected_output=(
+            "A polished academic section with enhanced clarity and structure, LaTeX tables only when truly beneficial, "
+            "and all visual choices made for clarity and reader comprehension."
+        ),
+        agent=editor_agent,
+        model=llm
+    )
+
+
+
+
+
+
+def writer_agent_task(outline_section, summary_info, citation_list):
+    """
+    Task definition for the writer agent to generate a research paper section with critical analysis,
+    logical structure, and precise citation placement while ensuring conclusions are added only when necessary.
+    
+    Parameters:
+        outline_section (str): The cleaned and properly formatted outline section.
+        summary_info (str): Summaries of relevant research articles.
+        citation_list (list): List of citation numbers to include in the writing.
+    """
+    
+    # ✅ Ensure section numbering is formatted correctly before passing to the agent
+    cleaned_outline_section = re.sub(r'Section\s+\d+:\s+', '', outline_section)  # Remove redundant "Section 7: 7."
+    ref_citation_keys = [f"ref{int(c)}" for c in citation_list]
+    return Task(
+        description=(
+            "### **Task Overview**\n"            
+            "You are provided with a **structured research outline section**, relevant research summaries, and citation numbers. "
+            "Your task is to write a **publication-quality section** that is **logically structured, critically engaging, and academically rigorous**.\n\n"
+
+            "### **Provided Information**\n"
+            f"🔹 **Outline Section (Cleaned):**\n{cleaned_outline_section}\n\n"
+            f"🔹 **Summaries of Relevant Research:**\n{summary_info}\n\n"
+            f"🔹 **Citations to Include:** {', '.join(ref_citation_keys)}\n\n"
+
+            "### **Writing Strategy & Guidelines**\n"
+            "1️⃣ **Develop a Coherent, Logical Argument**\n"
+            "   - Do **not simply summarize** research; instead, **synthesize key findings** to develop a strong analytical narrative.\n"
+            "   - Ensure **each paragraph builds upon the previous one**, forming a logically progressive discussion.\n\n"
+
+            "2️⃣ **Demonstrate Critical Thinking**\n"
+            "   - Evaluate existing research: **What are its strengths and weaknesses?**\n"
+            "   - Compare findings from different sources, identifying trends, contradictions, and open challenges.\n"
+            "   - Go beyond surface-level analysis to discuss **why certain approaches succeed or fail**.\n\n"
+
+            "3️⃣ **Ensure Effective Citation Usage**\n"
+            "   - Use **IEEE format** `[X]`, or LaTeX-style `\\cite{refX}`.\n"
+            "   - Include only the citation keys provided above.\n"
+            "   - **All citations must appear immediately after the sentence or claim they support.**\n"
+            "   - Never list citations in bulk at the end of paragraphs.\n"
+            "   - Use citations to support specific insights or claims, not as general placeholders.\n"
+            "   - Group related references only when they support the same exact point.\n\n"
+
+            "4️⃣ **Avoid Unnecessary Conclusions**\n"
+            "   - **Only include conclusions in major sections** (e.g., a full chapter, a large review discussion, or the final section of a topic).\n"
+            "   - **Do not add conclusions to purely methodological sections** or intermediate discussions.\n"
+            "   - When writing a conclusion, ensure it **synthesizes insights rather than simply restating findings**.\n\n"
+
+            "5️⃣ **Enhance Readability & Academic Precision**\n"
+            "   - Use concise, precise academic language suited for a research audience.\n"
+            "   - Ensure smooth transitions between ideas, maintaining a professional and logical flow.\n\n"
+
+            "### **Expected Output**\n"
+            "A **structured, critically engaging research paper section** that:\n"
+            "✔ Builds a logically sound, high-level analytical argument.\n"
+            "✔ Synthesizes multiple sources effectively instead of summarizing.\n"
+            "✔ Uses **accurate and properly placed** citations.\n"
+            "✔ **Avoids unnecessary conclusions** and redundant references.\n"
+            "✔ Meets the academic standards for **publication in a top-tier journal**.\n\n"
+            "✘ Do **not** include reference section.\n\n"
+            "Ensure the final output is **clear, precise, and logically structured**."
+        ),
+        expected_output="A **highly analytical, well-structured** research paper section with strong insights, effective citations, and no unnecessary conclusions.",
+        agent=writer_agent,
+        model=llm,
+        output_file=None  # Collect the output in code for further processing
+    )
+
+title_agent = Agent(
+    role="Survey Title Composer",
+    goal="Generate a concise, scoped title for a technical survey paper based on its outline.",
+    model=llm,
+    verbose=False,
+    backstory="You write titles for academic survey papers based on their structure and themes."
+)
+
+abstract_agent = Agent(
+    role="Survey Abstract Writer",
+    goal="Generate a fluent, professional abstract summarizing the full research paper body.",
+    model=llm,
+    verbose=False,
+    backstory="You write academic abstracts that summarize motivation, scope, contributions, and insights."
+)
+def title_task(outline_text):
+    return Task(
+        description=(
+            "Generate a clear, specific, and scoped title for a  survey paper based on the following outline.\n"
+            "Avoid generic phrases like 'An Overview of...' or 'A Review of...'. Make it scholarly and focused.\n\n"
+            f"{outline_text}"
+        ),
+        expected_output="A well-formed academic paper title in latex such as \title{}.",
+        agent=title_agent,
+        model=llm
+    )
+
+def abstract_task(full_body):
+    return Task(
+        description=(
+            "Write a concise academic abstract (under 200 words) summarizing the following full paper body.\n"
+            "Include motivation, scope, key contributions, and conclusions. Use professional academic language.\n\n"
+            f"{full_body}"
+        ),
+        expected_output="A fluent academic abstract for the paper.",
+        agent=abstract_agent,
+        model=llm
+    )
+
+    #Self-evluation and refinement 
+
+    # === Define Reviewer Agents
+reviewer_agent_gpt = Agent(
+    role="Survey Reviewer GPT-4",
+    goal="Review academic survey using rubric.",
+    backstory="An experienced academic peer reviewer specializing in evaluating AI survey papers.",
+    verbose=True,
+    model=llm_gpt,
+    tools=[pdf_reader_tool],
+    allow_delegation=False,
+    memory=False
+)
+
+reviewer_agent_gemini = Agent(
+    role="Survey Reviewer Gemini",
+    goal="Review academic survey using rubric.",
+    backstory="An experienced academic peer reviewer specializing in evaluating AI survey papers.",
+     verbose=True,
+    model=llm_gemini,
+    tools=[pdf_reader_tool],
+    allow_delegation=False,
+    memory=False
+)
+reviewer_agent_claude = Agent(
+    role="Survey Reviewer Claude",
+    goal="Review academic survey using rubric.",
+    backstory="An experienced academic peer reviewer specializing in evaluating AI survey papers.",
+    verbose=True,
+    model=llm_claude,
+    tools=[pdf_reader_tool],
+    allow_delegation=False,
+    memory=False
+)
+
+
+def review_chunk_task(chunk_text: str, chunk_label: str, rubric_text: str) -> Task:
+    return Task(
+        description=(
+            f"You are reviewing a section of an academic survey paper labeled: {chunk_label}.\n\n"
+            f"=== SECTION START ===\n{chunk_text}\n=== SECTION END ===\n\n"
+            "Use the rubric below strictly. Score each sub-criterion from 1 to 5. Do not skip any. Do not add new criteria.\n\n"
+            f"{rubric_text}\n\n"
+            "Return a JSON object with the following structure:\n"
+            "{\n"
+            '  "scores": [\n'
+            '    {\n'
+            '      "category": "CategoryName",\n'
+            '      "comment": "General comment for this category (required if any sub-score is < 5)",\n'
+            '      "Sub-Criterion-A": 4,\n'
+            '      "Sub-Criterion-B": 5,\n'
+            '      ...\n'
+            '    },\n'
+            '    ...\n'
+            '  ],\n'
+            '  "section_feedback": [\n'
+            '    {\n'
+            '      "section": "<Please identify and write the section title shown in this chunk>",\n'
+            '      "Strengths": [...],\n'
+            '      "Weaknesses": [...],\n'
+            '      "Suggestions": [...]\n'
+            '    }\n'
+            '  ],\n'
+            '  "overall_evaluation": {\n'
+            '    "summary": "...",\n'
+            '    "major_strengths": [...],\n'
+            '    "major_weaknesses": [...],\n'
+            '    "recommendations": [...],\n'
+            '    "final_score": number,\n'
+            '    "recommendation": "accept | minor revision | major revision | reject"\n'
+            '  }\n'
+            "}\n\n"
+            "Important Instructions:\n"
+            "- In the `section` field, use your best judgment to name the section or subsection from the text (e.g., 'Introduction', '2.3 Methods', '3.2.1 Survey Automation')\n"
+            "- For every sub-criterion scored less than 5, briefly explain the reasoning in the `comment` field.\n"
+            "- Do NOT invent new sub-criteria.\n"
+            "- Return ONLY valid raw JSON. No markdown, no quotes, no explanations outside the JSON block."
+        ),
+        expected_output="Rubric-based JSON review for this chunk.",
+        agent=None,
+        model=None,
+        human_input=False
+    )
