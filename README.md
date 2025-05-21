@@ -17,9 +17,9 @@ AURORA is a modular, multi-agent framework for automated academic survey generat
 ├── citation/                          # Source citations extracted or curated
 ├── partial_outlines/                 # Intermediate outline results
 ├── references/                       # Final BibTeX references
-├── survey_paper.tex                  # Final LaTeX survey document
+├── survey_paper.tex                  # LaTeX survey document Before ARL 
 ├── review_output/                    # Excel logs and feedback per round (scores, suggestions)
-├── pdf_output/                       # Compiled PDFs per refinement round (e.g., final_paper_round0.pdf, ...)
+├── pdf_output/                       # Compiled PDFs per refinement round (Last round is the Final PDF/LaTex. e.g., final_paper_round3.pdf, ...)
 ├── topics/                           # Research area list (aligned with human-written survey comparisons)
 ├── [research area folders]/          # One folder per survey topic (e.g., LLM reasoning, synthetic data, etc.)
 │   └── Contains citations, papers, and outputs per area
