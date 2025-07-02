@@ -1,0 +1,76 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_paper_round4.aux
+The style file: unsrt.bst
+Illegal, another \bibstyle command---line 447 of file final_paper_round4.aux
+ : \bibstyle
+ :          {ACM-Reference-Format}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 448 of file final_paper_round4.aux
+ : \bibdata
+ :         {references}
+I'm skipping whatever remains of this command
+Database file #1: references.bib
+Repeated entry---line 260 of file references.bib
+ : @article{ref2
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 356 of file references.bib
+ : @incollection{ref2
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 409 of file references.bib
+ : @article{ref2
+ :              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 419 of file references.bib
+ : @article{ref2
+ :              ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "ref35"
+Warning--I didn't find a database entry for "ref41"
+Warning--I didn't find a database entry for "ref40"
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "ref26"
+You've used 40 entries,
+            1791 wiz_defined-function locations,
+            664 strings with 9641 characters,
+and the built_in function-call counts, 8654 in all, are:
+= -- 764
+> -- 393
+< -- 0
++ -- 148
+- -- 108
+* -- 620
+:= -- 1442
+add.period$ -- 124
+call.type$ -- 40
+change.case$ -- 40
+chr.to.int$ -- 0
+cite$ -- 40
+duplicate$ -- 339
+empty$ -- 851
+format.name$ -- 108
+if$ -- 1869
+int.to.chr$ -- 0
+int.to.str$ -- 40
+missing$ -- 36
+newline$ -- 207
+num.names$ -- 40
+pop$ -- 62
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 129
+stack$ -- 0
+substring$ -- 641
+swap$ -- 40
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 85
+width$ -- 42
+write$ -- 445
+(There were 6 error messages)
