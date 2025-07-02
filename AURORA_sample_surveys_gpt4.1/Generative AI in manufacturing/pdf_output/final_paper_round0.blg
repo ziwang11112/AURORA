@@ -1,0 +1,79 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_paper_round0.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Warning--I'm ignoring ref32's extra "note" field
+--line 349 of file references.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--no number and no volume in ref55
+Warning--page numbers missing in both pages and numpages fields in ref55
+Warning--empty year in ref9
+Warning--using n.d. in ref9
+Warning--no number and no volume in ref10
+Warning--page numbers missing in both pages and numpages fields in ref10
+Warning--page numbers missing in both pages and numpages fields in ref36
+Warning--empty publisher in ref56
+Warning--no number and no volume in ref13
+Warning--page numbers missing in both pages and numpages fields in ref13
+Warning--page numbers missing in both pages and numpages fields in ref75
+Warning--no number and no volume in ref39
+Warning--page numbers missing in both pages and numpages fields in ref39
+Warning--no number and no volume in ref15
+Warning--page numbers missing in both pages and numpages fields in ref15
+Warning--empty year in ref43
+Warning--using n.d. in ref43
+Warning--empty year in ref94
+Warning--using n.d. in ref94
+Warning--no number and no volume in ref54
+Warning--page numbers missing in both pages and numpages fields in ref54
+You've used 93 entries,
+            6056 wiz_defined-function locations,
+            2098 strings with 41386 characters,
+and the built_in function-call counts, 112573 in all, are:
+= -- 17707
+> -- 3322
+< -- 0
++ -- 1118
+- -- 1139
+* -- 7833
+:= -- 10106
+add.period$ -- 474
+call.type$ -- 93
+change.case$ -- 680
+chr.to.int$ -- 93
+cite$ -- 114
+duplicate$ -- 9102
+empty$ -- 6394
+format.name$ -- 1447
+if$ -- 29439
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 342
+newline$ -- 984
+num.names$ -- 653
+pop$ -- 3148
+preamble$ -- 1
+purify$ -- 1409
+quote$ -- 0
+skip$ -- 3214
+stack$ -- 0
+substring$ -- 8469
+swap$ -- 1055
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1614
+warning$ -- 21
+while$ -- 606
+width$ -- 0
+write$ -- 1993
+(There were 22 warnings)

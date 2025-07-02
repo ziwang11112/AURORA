@@ -1,4 +1,0 @@
-Round 0: 260.9
-Round 1: 270.3
-Round 2: 274.3
-Round 3: 277.9

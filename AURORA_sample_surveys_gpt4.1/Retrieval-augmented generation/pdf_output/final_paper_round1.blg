@@ -1,0 +1,99 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_paper_round1.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Warning--I didn't find a database entry for "smith2019"
+Warning--I didn't find a database entry for "a2020"
+Warning--I didn't find a database entry for "b2021"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--no number and no volume in ref35
+Warning--page numbers missing in both pages and numpages fields in ref35
+Warning--empty publisher in ref36
+Warning--empty address in ref36
+Warning--page numbers missing in both pages and numpages fields in ref36
+Warning--page numbers missing in both pages and numpages fields in ref39
+Warning--page numbers missing in both pages and numpages fields in ref16
+Warning--no number and no volume in ref62
+Warning--page numbers missing in both pages and numpages fields in ref62
+Warning--no number and no volume in ref8
+Warning--page numbers missing in both pages and numpages fields in ref8
+Warning--no number and no volume in ref46
+Warning--page numbers missing in both pages and numpages fields in ref46
+Warning--no number and no volume in ref37
+Warning--page numbers missing in both pages and numpages fields in ref37
+Warning--no number and no volume in ref28
+Warning--page numbers missing in both pages and numpages fields in ref28
+Warning--no number and no volume in ref60
+Warning--page numbers missing in both pages and numpages fields in ref60
+Warning--empty publisher in ref10
+Warning--empty address in ref10
+Warning--page numbers missing in both pages and numpages fields in ref10
+Warning--no number and no volume in ref33
+Warning--page numbers missing in both pages and numpages fields in ref33
+Warning--no number and no volume in ref61
+Warning--page numbers missing in both pages and numpages fields in ref61
+Warning--no number and no volume in ref26
+Warning--page numbers missing in both pages and numpages fields in ref26
+Warning--page numbers missing in both pages and numpages fields in ref15
+Warning--page numbers missing in both pages and numpages fields in ref14
+Warning--no number and no volume in ref47
+Warning--page numbers missing in both pages and numpages fields in ref47
+Warning--articleno or eid field, but no numpages field, in ref42
+Warning--INFO: reduced pages = [1-44] to numpages = [44]
+Warning--no number and no volume in ref9
+Warning--page numbers missing in both pages and numpages fields in ref9
+Warning--no number and no volume in ref32
+Warning--page numbers missing in both pages and numpages fields in ref32
+Warning--no number and no volume in ref45
+Warning--page numbers missing in both pages and numpages fields in ref45
+You've used 64 entries,
+            6056 wiz_defined-function locations,
+            1878 strings with 34178 characters,
+and the built_in function-call counts, 83776 in all, are:
+= -- 12434
+> -- 3599
+< -- 0
++ -- 1260
+- -- 1227
+* -- 6648
+:= -- 8162
+add.period$ -- 323
+call.type$ -- 64
+change.case$ -- 641
+chr.to.int$ -- 89
+cite$ -- 103
+duplicate$ -- 6156
+empty$ -- 4323
+format.name$ -- 1464
+if$ -- 21365
+int.to.chr$ -- 5
+int.to.str$ -- 1
+missing$ -- 253
+newline$ -- 730
+num.names$ -- 445
+pop$ -- 2468
+preamble$ -- 1
+purify$ -- 1147
+quote$ -- 0
+skip$ -- 2113
+stack$ -- 0
+substring$ -- 5219
+swap$ -- 678
+text.length$ -- 27
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1057
+warning$ -- 40
+while$ -- 326
+width$ -- 0
+write$ -- 1408
+(There were 43 warnings)

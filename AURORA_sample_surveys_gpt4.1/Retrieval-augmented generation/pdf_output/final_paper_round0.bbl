@@ -1,0 +1,1066 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{64}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Abaho et~al\mbox{.}(2024)]%
+        {ref12}
+\bibfield{author}{\bibinfo{person}{Maurice Abaho}, \bibinfo{person}{Jialiang
+  Guo}, {and} \bibinfo{person}{Sebastien Harpe}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Enhanced Dense Retrieval Knowledge Graph
+  Augmentation}.
+\newblock \bibinfo{journal}{\emph{Journal of Artificial Intelligence Research}}
+   \bibinfo{volume}{80} (\bibinfo{year}{2024}), \bibinfo{pages}{1139--1178}.
+\newblock
+\urldef\tempurl%
+\url{https://jair.org/index.php/jair/article/view/14365}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Baek et~al\mbox{.}(2023)]%
+        {ref35}
+\bibfield{author}{\bibinfo{person}{J. Baek}, \bibinfo{person}{A.~Fikri Aji},
+  {and} \bibinfo{person}{A. Saffari}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Knowledge-Augmented Language Model Prompting for
+  Zero-Shot Knowledge Graph Question Answering}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2306.04136}}
+  (\bibinfo{year}{2023}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2306.04136}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Baek et~al\mbox{.}(2024)]%
+        {ref36}
+\bibfield{author}{\bibinfo{person}{J. Baek}, \bibinfo{person}{N.
+  Chandrasekaran}, \bibinfo{person}{S. Cucerzan}, \bibinfo{person}{A. Herring},
+  {and} \bibinfo{person}{S.~K. Jauhar}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Knowledge-Augmented Large Language Models for
+  Personalized Contextual Query Suggestion}. In
+  \bibinfo{booktitle}{\emph{Proceedings of The Web Conference (WWW) 2024}}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2311.06318}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv preprint arXiv:2311.06318, to appear}.
+
+
+\bibitem[Bai et~al\mbox{.}(2024)]%
+        {ref20}
+\bibfield{author}{\bibinfo{person}{C. Bai}, \bibinfo{person}{X. Fan},
+  \bibinfo{person}{J. Liu}, \bibinfo{person}{W. Tang}, \bibinfo{person}{H.
+  Huang}, {and} \bibinfo{person}{J. Yin}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Graph Convolutional Network Discrete Hashing for
+  Cross-Modal Retrieval}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Neural Networks and
+  Learning Systems}} \bibinfo{volume}{35}, \bibinfo{number}{4}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{1714--1727}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9779852}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Bai et~al\mbox{.}(2025)]%
+        {ref29}
+\bibfield{author}{\bibinfo{person}{X. Bai}, \bibinfo{person}{S. He},
+  \bibinfo{person}{Y. Li}, \bibinfo{person}{Y. Xie}, \bibinfo{person}{X.
+  Zhang}, \bibinfo{person}{W. Du}, {and} \bibinfo{person}{J.-R. Li}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Construction of a knowledge graph for framework
+  material enabled by large language models and its application}.
+\newblock \bibinfo{journal}{\emph{npj Computational Materials}}
+  \bibinfo{volume}{11} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41524-025-01540-6}{doi:\nolinkurl{10.1038/s41524-025-01540-6}}
+
+
+\bibitem[Bergman et~al\mbox{.}(2020)]%
+        {ref41}
+\bibfield{author}{\bibinfo{person}{O. Bergman}, \bibinfo{person}{T. Israeli},
+  {and} \bibinfo{person}{S. Whittaker}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Factors hindering shared files retrieval}.
+\newblock \bibinfo{journal}{\emph{Aslib Journal of Information Management}}
+  \bibinfo{volume}{72}, \bibinfo{number}{1} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{130--147}.
+\newblock
+\href{https://doi.org/10.1108/AJIM-05-2019-0120}{doi:\nolinkurl{10.1108/AJIM-05-2019-0120}}
+
+
+\bibitem[Bergman and Shnaper-Reinberg(2025)]%
+        {ref39}
+\bibfield{author}{\bibinfo{person}{O. Bergman} {and} \bibinfo{person}{E.
+  Shnaper-Reinberg}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{The effect of cooking recipe storage on their
+  retrieval}.
+\newblock \bibinfo{journal}{\emph{Journal of Documentation}}
+  \bibinfo{volume}{ahead-of-print}, \bibinfo{number}{ahead-of-print}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1108/JD-01-2025-0031}{doi:\nolinkurl{10.1108/JD-01-2025-0031}}
+
+
+\bibitem[Bergman et~al\mbox{.}(2019)]%
+        {ref40}
+\bibfield{author}{\bibinfo{person}{O. Bergman}, \bibinfo{person}{S. Whittaker},
+  {and} \bibinfo{person}{Y. Frishman}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Let’s get personal: the little nudge that
+  improves document retrieval in the Cloud}.
+\newblock \bibinfo{journal}{\emph{Journal of Documentation}}
+  \bibinfo{volume}{75}, \bibinfo{number}{2} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{379--396}.
+\newblock
+\href{https://doi.org/10.1108/JD-06-2018-0098}{doi:\nolinkurl{10.1108/JD-06-2018-0098}}
+
+
+\bibitem[Castagna et~al\mbox{.}(2024)]%
+        {ref13}
+\bibfield{author}{\bibinfo{person}{Federico Castagna}, \bibinfo{person}{Sara
+  Tonelli}, {and} \bibinfo{person}{Serena Villata}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Computational Argumentation-based Chatbots: a
+  Survey}.
+\newblock \bibinfo{journal}{\emph{Journal of Artificial Intelligence Research}}
+   \bibinfo{volume}{80} (\bibinfo{year}{2024}), \bibinfo{pages}{1269--1330}.
+\newblock
+\href{https://doi.org/10.1613/jair.1.15407}{doi:\nolinkurl{10.1613/jair.1.15407}}
+
+
+\bibitem[Chakraborty et~al\mbox{.}(2023)]%
+        {ref25}
+\bibfield{author}{\bibinfo{person}{Tanmoy Chakraborty},
+  \bibinfo{person}{Valerio~La Gatta}, \bibinfo{person}{Vincenzo Moscato}, {and}
+  \bibinfo{person}{Giancarlo Sperl\`i}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Information retrieval algorithms and neural ranking
+  models to detect previously fact-checked information}.
+\newblock \bibinfo{journal}{\emph{Neurocomputing}}  \bibinfo{volume}{557}
+  (\bibinfo{year}{2023}), \bibinfo{pages}{126680}.
+\newblock
+\href{https://doi.org/10.1016/j.neucom.2023.126680}{doi:\nolinkurl{10.1016/j.neucom.2023.126680}}
+
+
+\bibitem[Chen et~al\mbox{.}(2024)]%
+        {ref16}
+\bibfield{author}{\bibinfo{person}{H. Chen}, \bibinfo{person}{Z. Chen},
+  \bibinfo{person}{Y. Zhao}, \bibinfo{person}{M. Wang}, \bibinfo{person}{L.
+  Li}, \bibinfo{person}{M. Zhang}, {and} \bibinfo{person}{M. Zhang}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Retrieval-style In-Context Learning for Few-shot
+  Hierarchical Text Classification}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{12} (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://transacl.org/index.php/tacl/article/view/6137}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Dammak and Kammoun(2021)]%
+        {ref44}
+\bibfield{author}{\bibinfo{person}{F. Dammak} {and} \bibinfo{person}{H.
+  Kammoun}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Combining semi-supervised and active learning to
+  rank algorithms: application to Document Retrieval}.
+\newblock \bibinfo{journal}{\emph{Information Retrieval Journal}}
+  \bibinfo{volume}{24} (\bibinfo{year}{2021}), \bibinfo{pages}{371--399}.
+\newblock
+\urldef\tempurl%
+\url{https://link.springer.com/article/10.1007/s10791-021-09403-7}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Dundar and Garcia-Dorado(2017)]%
+        {ref62}
+\bibfield{author}{\bibinfo{person}{A. Dundar} {and} \bibinfo{person}{I.
+  Garcia-Dorado}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Context Augmentation for Convolutional Neural
+  Networks}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:1712.01653}}
+  (\bibinfo{year}{2017}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/1712.01653}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Ehrett et~al\mbox{.}(2024)]%
+        {ref57}
+\bibfield{author}{\bibinfo{person}{C. Ehrett}, \bibinfo{person}{S. Hegde},
+  \bibinfo{person}{K. Andre}, \bibinfo{person}{D. Liu}, {and}
+  \bibinfo{person}{T. Wilson}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Leveraging Open-Source Large Language Models for
+  Data Augmentation in Hospital Staff Surveys: Mixed Methods Study}.
+\newblock \bibinfo{journal}{\emph{JMIR Medical Education}}
+  \bibinfo{volume}{10}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{e51433}.
+\newblock
+\href{https://doi.org/10.2196/51433}{doi:\nolinkurl{10.2196/51433}}
+
+
+\bibitem[Fu and Frank(2024)]%
+        {ref18}
+\bibfield{author}{\bibinfo{person}{Xiyan Fu} {and} \bibinfo{person}{Anette
+  Frank}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Exploring Continual Learning of Compositional
+  Generalization in NLI}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{12} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{912--932}.
+\newblock
+\href{https://doi.org/10.1162/tacl_a_00680}{doi:\nolinkurl{10.1162/tacl_a_00680}}
+
+
+\bibitem[Gao et~al\mbox{.}(2024)]%
+        {ref8}
+\bibfield{author}{\bibinfo{person}{Y. Gao}, \bibinfo{person}{Y. Xiong},
+  \bibinfo{person}{X. Gao}, \bibinfo{person}{K. Jia}, \bibinfo{person}{J. Pan},
+  \bibinfo{person}{Y. Bi}, \bibinfo{person}{Y. Dai}, \bibinfo{person}{J. Sun},
+  \bibinfo{person}{M. Wang}, {and} \bibinfo{person}{H. Wang}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Retrieval-Augmented Generation for Large Language
+  Models: A Survey}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2312.10997}}
+  (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2312.10997}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Gilbert et~al\mbox{.}(2024)]%
+        {ref48}
+\bibfield{author}{\bibinfo{person}{Stephen Gilbert},
+  \bibinfo{person}{Jakob~Nikolas Kather}, {and} \bibinfo{person}{Aidan Hogan}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Augmented non-hallucinating large language models
+  as medical information curators}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}}  \bibinfo{volume}{7}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{Article number: 100}.
+\newblock
+\href{https://doi.org/10.1038/s41746-024-01081-0}{doi:\nolinkurl{10.1038/s41746-024-01081-0}}
+
+
+\bibitem[Guetterman et~al\mbox{.}(2018)]%
+        {ref56}
+\bibfield{author}{\bibinfo{person}{T.~C. Guetterman}, \bibinfo{person}{T.
+  Chang}, \bibinfo{person}{M. DeJonckheere}, \bibinfo{person}{T. Basu},
+  \bibinfo{person}{E. Scruggs}, {and} \bibinfo{person}{V.~G.~Vinod
+  Vydiswaran}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Augmenting Qualitative Text Analysis with Natural
+  Language Processing: Methodological Study}.
+\newblock \bibinfo{journal}{\emph{Journal of Medical Internet Research}}
+  \bibinfo{volume}{20}, \bibinfo{number}{6} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{e231}.
+\newblock
+\href{https://doi.org/10.2196/jmir.9702}{doi:\nolinkurl{10.2196/jmir.9702}}
+
+
+\bibitem[Gui et~al\mbox{.}(2024)]%
+        {ref38}
+\bibfield{author}{\bibinfo{person}{Zhipeng Gui}, \bibinfo{person}{Xinjie Liu},
+  \bibinfo{person}{Anqi Zhao}, \bibinfo{person}{Yuhan Jiang},
+  \bibinfo{person}{Zhipeng Ling}, \bibinfo{person}{Xiaohui Hu},
+  \bibinfo{person}{Fa Li}, \bibinfo{person}{Zelong Yang},
+  \bibinfo{person}{Huayi Wu}, {and} \bibinfo{person}{Shuangming Zhao}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Map retrieval intention recognition based on
+  relevance feedback and geographic semantic guidance: For better understanding
+  user retrieval demands}.
+\newblock \bibinfo{journal}{\emph{Information Processing \& Management}}
+  \bibinfo{volume}{61}, \bibinfo{number}{6} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{103767}.
+\newblock
+\href{https://doi.org/10.1016/J.IPM.2024.103767}{doi:\nolinkurl{10.1016/J.IPM.2024.103767}}
+
+
+\bibitem[Guo et~al\mbox{.}(2024)]%
+        {ref51}
+\bibfield{author}{\bibinfo{person}{Y. Guo}, \bibinfo{person}{Q. Zhang},
+  \bibinfo{person}{Z. Xie}, {and} \bibinfo{person}{S. Jiang}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Evaluating large language models for health-related
+  text classification and question answering: A comparative study of
+  domain-specific and general-purpose models}.
+\newblock \bibinfo{journal}{\emph{Journal of the American Medical Informatics
+  Association}} \bibinfo{volume}{31}, \bibinfo{number}{10}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{2181--2192}.
+\newblock
+\href{https://doi.org/10.1093/jamia/ocad243}{doi:\nolinkurl{10.1093/jamia/ocad243}}
+
+
+\bibitem[Gupta et~al\mbox{.}(2022)]%
+        {ref31}
+\bibfield{author}{\bibinfo{person}{T. Gupta}, \bibinfo{person}{M. Zaki},
+  \bibinfo{person}{N.~M.~Anoop Krishnan}, {and} \bibinfo{person}{Mausam}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{MatSciBERT: A materials domain language model for
+  text mining and information extraction}.
+\newblock \bibinfo{journal}{\emph{npj Computational Materials}}
+  \bibinfo{volume}{8} (\bibinfo{year}{2022}), \bibinfo{pages}{Article no. 102}.
+\newblock
+\urldef\tempurl%
+\url{https://www.nature.com/articles/s41524-022-00784-w}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Hindi et~al\mbox{.}(2025)]%
+        {ref63}
+\bibfield{author}{\bibinfo{person}{M. Hindi}, \bibinfo{person}{A. Smith},
+  \bibinfo{person}{T. Chen}, {and} \bibinfo{person}{P. Brown}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Enhancing the Precision and Interpretability of
+  Retrieval-Augmented Generation (RAG) in Legal Technology: A Survey}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Neural Networks and
+  Learning Systems}} \bibinfo{volume}{36}, \bibinfo{number}{2}
+  (\bibinfo{year}{2025}), \bibinfo{pages}{215--231}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/iel8/6287639/10820123/10921633.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Huang et~al\mbox{.}(2022)]%
+        {ref4}
+\bibfield{author}{\bibinfo{person}{L. Huang}, \bibinfo{person}{J. Yang}, {and}
+  \bibinfo{person}{Z.~H. Zhang}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{A Comprehensive Review on Retrieval-Augmented
+  Language Models}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Neural Networks and
+  Learning Systems}} \bibinfo{volume}{33}, \bibinfo{number}{5}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{2348--2361}.
+\newblock
+
+
+\bibitem[Hung et~al\mbox{.}(2024)]%
+        {ref53}
+\bibfield{author}{\bibinfo{person}{T.~K.~W. Hung}, \bibinfo{person}{G.~J.
+  Kuperman}, \bibinfo{person}{E.~J. Sherman}, \bibinfo{person}{A.~L. Ho},
+  \bibinfo{person}{C. Weng}, \bibinfo{person}{D.~G. Pfister}, {and}
+  \bibinfo{person}{J.~J. Mao}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Performance of Retrieval-Augmented Large Language
+  Models to Recommend Head and Neck Cancer Clinical Trials}.
+\newblock \bibinfo{journal}{\emph{Journal of Medical Internet Research}}
+  \bibinfo{volume}{26}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{e60695}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmir.org/2024/1/e60695}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Huseynova and Isbarov(2024)]%
+        {ref46}
+\bibfield{author}{\bibinfo{person}{K. Huseynova} {and} \bibinfo{person}{J.
+  Isbarov}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Enhanced document retrieval with topic embeddings}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2408.10435}}
+  (\bibinfo{date}{Aug} \bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2408.10435}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Izacard et~al\mbox{.}(2023)]%
+        {ref22}
+\bibfield{author}{\bibinfo{person}{G. Izacard}, \bibinfo{person}{S. Touvron},
+  \bibinfo{person}{F. Barbieri}, \bibinfo{person}{A. Hosseini},
+  \bibinfo{person}{N. Goyal}, \bibinfo{person}{F.~M. Sellam},
+  \bibinfo{person}{K. Singh}, \bibinfo{person}{E. Grave}, \bibinfo{person}{T.
+  Kocisky}, \bibinfo{person}{E.~J.~M. Tromp}, \bibinfo{person}{C. Lacroix},
+  \bibinfo{person}{F. Raiss}, \bibinfo{person}{F. Belinkov},
+  \bibinfo{person}{N. Parikh}, \bibinfo{person}{E.~M. Khalifa},
+  \bibinfo{person}{M.~B.~A. Haddad}, \bibinfo{person}{A. Paria},
+  \bibinfo{person}{N.~H.~E. Cesa-Bianchi}, {and} \bibinfo{person}{S. Edunov}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Atlas: Few-shot Learning with Retrieval Augmented
+  Language Models}.
+\newblock \bibinfo{journal}{\emph{Journal of Machine Learning Research}}
+  \bibinfo{volume}{24}, \bibinfo{number}{68} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{1--65}.
+\newblock
+\urldef\tempurl%
+\url{http://www.jmlr.org/papers/volume24/23-0037/23-0037.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Jaeger(2017)]%
+        {ref23}
+\bibfield{author}{\bibinfo{person}{H. Jaeger}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Using Conceptors to Manage Neural Long-Term
+  Memories for Temporal Patterns}.
+\newblock \bibinfo{journal}{\emph{Journal of Machine Learning Research}}
+  \bibinfo{volume}{18}, \bibinfo{number}{13} (\bibinfo{year}{2017}),
+  \bibinfo{pages}{1--43}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmlr.org/papers/volume18/15-449/15-449.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Kang et~al\mbox{.}(2023)]%
+        {ref37}
+\bibfield{author}{\bibinfo{person}{M. Kang}, \bibinfo{person}{J.~M. Kwak},
+  \bibinfo{person}{J. Baek}, {and} \bibinfo{person}{S.~J. Hwang}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Knowledge Graph-Augmented Language Models for
+  Knowledge-Grounded Dialogue Generation}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2305.18846}}
+  (\bibinfo{year}{2023}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2305.18846}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Ke et~al\mbox{.}(2025)]%
+        {ref2}
+\bibfield{author}{\bibinfo{person}{Y.~H. Ke}, \bibinfo{person}{L. Jin},
+  \bibinfo{person}{K. Elangovan}, \bibinfo{person}{H.~R. Abdullah},
+  \bibinfo{person}{N. Liu}, \bibinfo{person}{A.~T.~H. Sia},
+  \bibinfo{person}{C.~R. Soh}, \bibinfo{person}{J.~Y.~M. Tung},
+  \bibinfo{person}{J.~C.~L. Ong}, \bibinfo{person}{C.-F. Kuo},
+  \bibinfo{person}{S.-C. Wu}, \bibinfo{person}{V.~P. Kovacheva}, {and}
+  \bibinfo{person}{D.~S.~W. Ting}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Retrieval augmented generation for 10 large
+  language models and its generalizability in assessing medical fitness}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}}  \bibinfo{volume}{8}
+  (\bibinfo{year}{2025}), \bibinfo{pages}{Article no. 187}.
+\newblock
+\urldef\tempurl%
+\url{https://www.nature.com/articles/s41746-025-01519-z}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Killingback et~al\mbox{.}(2025)]%
+        {ref28}
+\bibfield{author}{\bibinfo{person}{Julian Killingback}, \bibinfo{person}{Hansi
+  Zeng}, {and} \bibinfo{person}{Hamed Zamani}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Hypencoder: Hypernetworks for Information
+  Retrieval}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2502.05364}}
+  (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2502.05364}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Kim et~al\mbox{.}(2024)]%
+        {ref60}
+\bibfield{author}{\bibinfo{person}{H. Kim}, \bibinfo{person}{D. Kim},
+  \bibinfo{person}{P. Ahn}, \bibinfo{person}{S. Suh}, \bibinfo{person}{H. Cho},
+  {and} \bibinfo{person}{J. Kim}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{ContextMix: A context-aware data augmentation
+  method for industrial visual inspection systems}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2401.10050}}
+  (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2401.10050}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accepted to EAAI}.
+
+
+\bibitem[Lewis et~al\mbox{.}(2020)]%
+        {ref10}
+\bibfield{author}{\bibinfo{person}{P. Lewis}, \bibinfo{person}{E. Perez},
+  \bibinfo{person}{A. Piktus}, \bibinfo{person}{F. Petroni},
+  \bibinfo{person}{V. Karpukhin}, \bibinfo{person}{N. Goyal},
+  \bibinfo{person}{H. Küttler}, \bibinfo{person}{M. Lewis},
+  \bibinfo{person}{W. Yih}, \bibinfo{person}{T. Rocktäschel},
+  \bibinfo{person}{S. Riedel}, {and} \bibinfo{person}{D. Kiela}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Retrieval-Augmented Generation for
+  Knowledge-Intensive NLP Tasks}. In \bibinfo{booktitle}{\emph{Advances in
+  Neural Information Processing Systems (NeurIPS)}}, Vol.~\bibinfo{volume}{33}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2005.11401}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv:2005.11401}.
+
+
+\bibitem[Li et~al\mbox{.}(2025)]%
+        {ref54}
+\bibfield{author}{\bibinfo{person}{Hai Li}, \bibinfo{person}{Jingyi Huang},
+  \bibinfo{person}{Mengmeng Ji}, \bibinfo{person}{Yuyi Yang}, {and}
+  \bibinfo{person}{Ruopeng An}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Use of Retrieval-Augmented Large Language Model for
+  COVID-19 Fact-Checking: Development and Usability Study}.
+\newblock \bibinfo{journal}{\emph{Journal of Medical Internet Research}}
+  \bibinfo{volume}{27} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.2196/66098}{doi:\nolinkurl{10.2196/66098}}
+
+
+\bibitem[Li et~al\mbox{.}(2023)]%
+        {ref34}
+\bibfield{author}{\bibinfo{person}{Lei Li}, \bibinfo{person}{Yongfeng Zhang},
+  {and} \bibinfo{person}{Li Chen}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Personalized Prompt Learning for Explainable
+  Recommendation}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Information Systems}}
+  \bibinfo{volume}{41}, \bibinfo{number}{4} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{1--26}.
+\newblock
+\href{https://doi.org/10.1145/3524097}{doi:\nolinkurl{10.1145/3524097}}
+
+
+\bibitem[Li et~al\mbox{.}(2024)]%
+        {ref6}
+\bibfield{author}{\bibinfo{person}{Y. Li}, \bibinfo{person}{J. Zhao},
+  \bibinfo{person}{M. Li}, \bibinfo{person}{Y. Dang}, \bibinfo{person}{E. Yu},
+  \bibinfo{person}{J. Li}, \bibinfo{person}{Z. Sun}, \bibinfo{person}{U.
+  Hussein}, \bibinfo{person}{J. Wen}, \bibinfo{person}{A.~M. Abdelhameed},
+  \bibinfo{person}{J. Mai}, \bibinfo{person}{S. Li}, \bibinfo{person}{Y. Yu},
+  \bibinfo{person}{X. Hu}, \bibinfo{person}{D. Yang}, \bibinfo{person}{J.
+  Feng}, \bibinfo{person}{Z. Li}, \bibinfo{person}{J. He}, \bibinfo{person}{W.
+  Tao}, \bibinfo{person}{T. Duan}, \bibinfo{person}{Y. Lou},
+  \bibinfo{person}{F. Li}, {and} \bibinfo{person}{C. Tao}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{RefAI: a GPT-powered retrieval-augmented generative
+  tool for biomedical literature recommendation and summarization}.
+\newblock \bibinfo{journal}{\emph{Journal of the American Medical Informatics
+  Association}} \bibinfo{volume}{31}, \bibinfo{number}{9}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{2030--2039}.
+\newblock
+\href{https://doi.org/10.1093/jamia/ocae129}{doi:\nolinkurl{10.1093/jamia/ocae129}}
+
+
+\bibitem[Lin et~al\mbox{.}(2024)]%
+        {ref33}
+\bibfield{author}{\bibinfo{person}{Jianghao Lin}, \bibinfo{person}{Xinyi Dai},
+  \bibinfo{person}{Yunjia Xi}, \bibinfo{person}{Weiwen Liu},
+  \bibinfo{person}{Bo Chen}, \bibinfo{person}{Xiangyang Li},
+  \bibinfo{person}{Chenxu Zhu}, \bibinfo{person}{Huifeng Guo},
+  \bibinfo{person}{Yong Yu}, \bibinfo{person}{Ruiming Tang}, {and}
+  \bibinfo{person}{Weinan Zhang}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{How Can Recommender Systems Benefit from Large
+  Language Models: A Survey}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Information Systems}}
+  (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2306.05817}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Lin et~al\mbox{.}(2023)]%
+        {ref61}
+\bibfield{author}{\bibinfo{person}{Y.-T. Lin}, \bibinfo{person}{A. Papangelis},
+  \bibinfo{person}{S. Kim}, \bibinfo{person}{S. Lee}, \bibinfo{person}{D.
+  Hazarika}, \bibinfo{person}{M. Namazifar}, \bibinfo{person}{D. Jin},
+  \bibinfo{person}{Y. Liu}, {and} \bibinfo{person}{D. Hakkani-Tur}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Selective In-Context Data Augmentation for Intent
+  Detection using Pointwise V-Information}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2302.05096}}
+  (\bibinfo{year}{2023}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2302.05096}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accepted at EACL 2023}.
+
+
+\bibitem[Liu et~al\mbox{.}(2025a)]%
+        {ref52}
+\bibfield{author}{\bibinfo{person}{S. Liu}, \bibinfo{person}{H. Chen},
+  \bibinfo{person}{T. Wang}, \bibinfo{person}{C. Zhang}, \bibinfo{person}{Y.
+  Wang}, \bibinfo{person}{H. Wei}, \bibinfo{person}{D. Wang},
+  \bibinfo{person}{X. Yu}, \bibinfo{person}{Y. Zhang}, {and}
+  \bibinfo{person}{M. Huang}.} \bibinfo{year}{2025}\natexlab{a}.
+\newblock \showarticletitle{A systematic review, meta-analysis, and clinical
+  development of retrieval-augmented generation for large language
+  model–enabled question answering in clinical practice}.
+\newblock \bibinfo{journal}{\emph{Journal of the American Medical Informatics
+  Association}} \bibinfo{volume}{32}, \bibinfo{number}{4}
+  (\bibinfo{year}{2025}), \bibinfo{pages}{605--619}.
+\newblock
+\href{https://doi.org/10.1093/jamia/ocad348}{doi:\nolinkurl{10.1093/jamia/ocad348}}
+
+
+\bibitem[Liu et~al\mbox{.}(2025b)]%
+        {ref5}
+\bibfield{author}{\bibinfo{person}{S. Liu}, \bibinfo{person}{A.~B. McCoy},
+  {and} \bibinfo{person}{A. Wright}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{Improving large language model applications in
+  biomedicine with retrieval-augmented generation: a systematic review,
+  meta-analysis, and clinical development guidelines}.
+\newblock \bibinfo{journal}{\emph{Journal of the American Medical Informatics
+  Association}} \bibinfo{volume}{32}, \bibinfo{number}{4}
+  (\bibinfo{year}{2025}), \bibinfo{pages}{605--615}.
+\newblock
+\href{https://doi.org/10.1093/jamia/ocaf008}{doi:\nolinkurl{10.1093/jamia/ocaf008}}
+
+
+\bibitem[Liu et~al\mbox{.}(2025c)]%
+        {ref64}
+\bibfield{author}{\bibinfo{person}{X. Liu}, \bibinfo{person}{Y. Wang},
+  \bibinfo{person}{H. Wu}, {and} \bibinfo{person}{L. Chen}.}
+  \bibinfo{year}{2025}\natexlab{c}.
+\newblock \showarticletitle{RAG4DS: Retrieval-Augmented Generation for Data
+  Spaces—A Unified Lifecycle, Challenges, and Opportunities}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Neural Networks and
+  Learning Systems}} \bibinfo{volume}{36}, \bibinfo{number}{1}
+  (\bibinfo{year}{2025}), \bibinfo{pages}{77--92}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/iel8/6287639/10820123/10902131.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Liu et~al\mbox{.}(2024)]%
+        {ref26}
+\bibfield{author}{\bibinfo{person}{Yu-An Liu}, \bibinfo{person}{Ruqing Zhang},
+  \bibinfo{person}{Jiafeng Guo}, \bibinfo{person}{Maarten de Rijke},
+  \bibinfo{person}{Yixing Fan}, {and} \bibinfo{person}{Xueqi Cheng}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Robust Neural Information Retrieval: An Adversarial
+  and Out-of-distribution Perspective}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2407.06992}}
+  (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2407.06992}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Lopez et~al\mbox{.}(2025)]%
+        {ref3}
+\bibfield{author}{\bibinfo{person}{Ivan Lopez}, \bibinfo{person}{Akshay
+  Swaminathan}, \bibinfo{person}{Karthik Vedula}, \bibinfo{person}{Sanjana
+  Narayanan}, \bibinfo{person}{Fateme~Nateghi Haredasht},
+  \bibinfo{person}{Stephen~P. Ma}, \bibinfo{person}{April~S. Liang},
+  \bibinfo{person}{Steven Tate}, \bibinfo{person}{Manoj Maddali},
+  \bibinfo{person}{Robert~Joseph Gallo}, \bibinfo{person}{Nigam~H. Shah}, {and}
+  \bibinfo{person}{Jonathan~H. Chen}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Clinical entity augmented retrieval for clinical
+  information extraction}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}}  \bibinfo{volume}{8}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41746-024-01377-1}{doi:\nolinkurl{10.1038/s41746-024-01377-1}}
+
+
+\bibitem[Ong et~al\mbox{.}(2024)]%
+        {ref1}
+\bibfield{author}{\bibinfo{person}{Chin~Siang Ong},
+  \bibinfo{person}{Nicholas~T. Obey}, \bibinfo{person}{Yanan Zheng},
+  \bibinfo{person}{Arman Cohan}, {and} \bibinfo{person}{Eric~B. Schneider}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{SurgeryLLM: a retrieval-augmented generation large
+  language model framework for surgical decision support and workflow
+  enhancement}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}}  \bibinfo{volume}{7}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{Article number: 364}.
+\newblock
+\href{https://doi.org/10.1038/s41746-024-01391-3}{doi:\nolinkurl{10.1038/s41746-024-01391-3}}
+
+
+\bibitem[Parry et~al\mbox{.}(2025)]%
+        {ref27}
+\bibfield{author}{\bibinfo{person}{Andrew Parry}, \bibinfo{person}{Catherine
+  Chen}, \bibinfo{person}{Carsten Eickhoff}, {and} \bibinfo{person}{Sean
+  MacAvaney}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{title}{MechIR: A Mechanistic Interpretability Framework for
+  Information Retrieval}.
+\newblock \bibinfo{howpublished}{arXiv preprint arXiv:2501.10165}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2501.10165}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Demo paper, Proceedings of the European Conference on Information
+  Retrieval (ECIR) 2025}.
+
+
+\bibitem[Payne et~al\mbox{.}(2024)]%
+        {ref50}
+\bibfield{author}{\bibinfo{person}{V.~L. Payne}, \bibinfo{person}{U. Sattar},
+  \bibinfo{person}{M. Wright}, \bibinfo{person}{E. Hill},
+  \bibinfo{person}{J.~M. Butler}, \bibinfo{person}{B. Macpherson},
+  \bibinfo{person}{A. Jeppesen}, \bibinfo{person}{G.~Del Fiol}, {and}
+  \bibinfo{person}{K. Madaras-Kelly}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Clinician perspectives on how situational context
+  and augmented intelligence design features impact perceived usefulness of
+  sepsis prediction scores embedded within a simulated electronic health
+  record}.
+\newblock \bibinfo{journal}{\emph{Journal of the American Medical Informatics
+  Association}} \bibinfo{volume}{31}, \bibinfo{number}{6}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{1331--1340}.
+\newblock
+\href{https://doi.org/10.1093/jamia/ocae089}{doi:\nolinkurl{10.1093/jamia/ocae089}}
+
+
+\bibitem[Prince et~al\mbox{.}(2024)]%
+        {ref30}
+\bibfield{author}{\bibinfo{person}{Michael~H. Prince}, \bibinfo{person}{Henry
+  Chan}, \bibinfo{person}{Aikaterini Vriza}, \bibinfo{person}{Tao Zhou},
+  \bibinfo{person}{Varuni~K. Sastry}, \bibinfo{person}{Yanqi Luo},
+  \bibinfo{person}{Matthew~T. Dearing}, \bibinfo{person}{Ross~J. Harder},
+  \bibinfo{person}{Rama~K. Vasudevan}, {and} \bibinfo{person}{Mathew~J.
+  Cherukara}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Opportunities for retrieval and tool augmented
+  large language models in scientific facilities}.
+\newblock \bibinfo{journal}{\emph{npj Computational Materials}}
+  \bibinfo{volume}{10} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1038/s41524-024-01423-2}{doi:\nolinkurl{10.1038/s41524-024-01423-2}}
+
+
+\bibitem[Ram et~al\mbox{.}(2023)]%
+        {ref15}
+\bibfield{author}{\bibinfo{person}{Ori Ram}, \bibinfo{person}{Yoav Levine},
+  \bibinfo{person}{Itay Dalmedigos}, \bibinfo{person}{Dor Muhlgay},
+  \bibinfo{person}{Amnon Shashua}, \bibinfo{person}{Kevin Leyton-Brown}, {and}
+  \bibinfo{person}{Yoav Shoham}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{In-Context Retrieval-Augmented Language Models}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{11} (\bibinfo{year}{2023}).
+\newblock
+\urldef\tempurl%
+\url{https://transacl.org/index.php/tacl/article/view/5039}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Rubin and Berant(2024)]%
+        {ref14}
+\bibfield{author}{\bibinfo{person}{Ohad Rubin} {and} \bibinfo{person}{Jonathan
+  Berant}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Retrieval-Pretrained Transformer: Long-range
+  Language Modeling with Self-retrieval}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{12} (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://transacl.org/index.php/tacl/article/view/6313}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Solanki(2025)]%
+        {ref47}
+\bibfield{author}{\bibinfo{person}{M. Solanki}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Efficient Document Retrieval with G-Retriever}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2504.14955}}
+  (\bibinfo{date}{April} \bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2504.14955}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Staszewski et~al\mbox{.}(2022)]%
+        {ref21}
+\bibfield{author}{\bibinfo{person}{P. Staszewski}, \bibinfo{person}{M.
+  Jaworski}, \bibinfo{person}{J. Cao}, {and} \bibinfo{person}{L. Rutkowski}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{A New Approach to Descriptors Generation for Image
+  Retrieval by Analyzing Activations of Deep Neural Network Layers}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Neural Networks and
+  Learning Systems}} \bibinfo{volume}{33}, \bibinfo{number}{7}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{3075--3083}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9451541}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Trabelsi et~al\mbox{.}(2021)]%
+        {ref43}
+\bibfield{author}{\bibinfo{person}{M. Trabelsi}, \bibinfo{person}{Z. Chen},
+  \bibinfo{person}{B.~D. Davison}, {and} \bibinfo{person}{J. Heflin}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Neural ranking models for document retrieval}.
+\newblock \bibinfo{journal}{\emph{Information Retrieval Journal}}
+  \bibinfo{volume}{24} (\bibinfo{year}{2021}), \bibinfo{pages}{400--444}.
+\newblock
+\urldef\tempurl%
+\url{https://link.springer.com/article/10.1007/s10791-021-09398-0}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Upadhyay and Viviani(2025)]%
+        {ref42}
+\bibfield{author}{\bibinfo{person}{R. Upadhyay} {and} \bibinfo{person}{M.
+  Viviani}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Enhancing Health Information Retrieval with RAG by
+  prioritizing topical relevance and factual accuracy}.
+\newblock \bibinfo{journal}{\emph{Information Retrieval Journal (now Discover
+  Computing)}}  \bibinfo{volume}{28}, Article \bibinfo{articleno}{27}
+  (\bibinfo{year}{2025}), \bibinfo{numpages}{44}~pages.
+\newblock
+\urldef\tempurl%
+\url{https://link.springer.com/article/10.1007/s10791-025-09505-5}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Uria et~al\mbox{.}(2016)]%
+        {ref24}
+\bibfield{author}{\bibinfo{person}{Benigno Uria}, \bibinfo{person}{Iain
+  Murray}, \bibinfo{person}{Stephan Ren}, \bibinfo{person}{Risto Piché},
+  \bibinfo{person}{Aaron Courville}, {and} \bibinfo{person}{Hugo Larochelle}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Neural Autoregressive Distribution Estimation}.
+\newblock \bibinfo{journal}{\emph{Journal of Machine Learning Research}}
+  \bibinfo{volume}{17}, \bibinfo{number}{205} (\bibinfo{year}{2016}),
+  \bibinfo{pages}{1--37}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmlr.org/papers/volume17/16-272/16-272.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Wang et~al\mbox{.}(2023a)]%
+        {ref58}
+\bibfield{author}{\bibinfo{person}{Chenyang Wang}, \bibinfo{person}{Weizhi Ma},
+  \bibinfo{person}{Chong Chen}, \bibinfo{person}{Min Zhang},
+  \bibinfo{person}{Yiqun Liu}, {and} \bibinfo{person}{Shaoping Ma}.}
+  \bibinfo{year}{2023}\natexlab{a}.
+\newblock \showarticletitle{Sequential Recommendation with Multiple Contrast
+  Signals}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Information Systems}}
+  \bibinfo{volume}{41}, \bibinfo{number}{1} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{1--27}.
+\newblock
+\href{https://doi.org/10.1145/3522673}{doi:\nolinkurl{10.1145/3522673}}
+
+
+\bibitem[Wang et~al\mbox{.}(2024)]%
+        {ref55}
+\bibfield{author}{\bibinfo{person}{D. Wang}, \bibinfo{person}{J. Liang},
+  \bibinfo{person}{J. Ye}, \bibinfo{person}{J. Li}, \bibinfo{person}{J. Li},
+  \bibinfo{person}{Q. Zhang}, \bibinfo{person}{Q. Hu}, \bibinfo{person}{C.
+  Pan}, \bibinfo{person}{D. Wang}, \bibinfo{person}{Z. Liu},
+  \bibinfo{person}{W. Shi}, \bibinfo{person}{D. Shi}, \bibinfo{person}{F. Li},
+  \bibinfo{person}{B. Qu}, {and} \bibinfo{person}{Y. Zheng}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Enhancement of the Performance of Large Language
+  Models in Diabetes Education through Retrieval-Augmented Generation:
+  Comparative Study}.
+\newblock \bibinfo{journal}{\emph{Journal of Medical Internet Research}}
+  \bibinfo{volume}{26}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{e58041}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmir.org/2024/1/e58041/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Wang et~al\mbox{.}(2023b)]%
+        {ref59}
+\bibfield{author}{\bibinfo{person}{Dong Wang}, \bibinfo{person}{Weizhi Ma},
+  \bibinfo{person}{Chong Chen}, \bibinfo{person}{Min Zhang},
+  \bibinfo{person}{Yiqun Liu}, {and} \bibinfo{person}{Shaoping Ma}.}
+  \bibinfo{year}{2023}\natexlab{b}.
+\newblock \showarticletitle{Large-Scale Pre-Training for Sequential
+  Recommendation with Contrastive Learning}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Information Systems}}
+  \bibinfo{volume}{41}, \bibinfo{number}{2} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{1--23}.
+\newblock
+\href{https://doi.org/10.1145/3570620}{doi:\nolinkurl{10.1145/3570620}}
+
+
+\bibitem[Wang et~al\mbox{.}(2025)]%
+        {ref9}
+\bibfield{author}{\bibinfo{person}{H. Wang}, \bibinfo{person}{A. Prasad},
+  \bibinfo{person}{E. Stengel-Eskin}, {and} \bibinfo{person}{M. Bansal}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Retrieval-Augmented Generation with Conflicting
+  Evidence}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2504.13079}}
+  (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2504.13079}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Wei et~al\mbox{.}(2025)]%
+        {ref11}
+\bibfield{author}{\bibinfo{person}{Chuyuan Wei}, \bibinfo{person}{Ke Duan},
+  \bibinfo{person}{Shengda Zhuo}, \bibinfo{person}{Hongchun Wang},
+  \bibinfo{person}{Shuqiang Huang}, {and} \bibinfo{person}{Jie Liu}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Enhanced Recommendation Systems with
+  Retrieval-Augmented Large Language Model}.
+\newblock \bibinfo{journal}{\emph{Journal of Artificial Intelligence Research}}
+   \bibinfo{volume}{82} (\bibinfo{year}{2025}), \bibinfo{pages}{1--27}.
+\newblock
+\urldef\tempurl%
+\url{https://jair.org/index.php/jair/article/view/17809}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Wu et~al\mbox{.}(2019)]%
+        {ref17}
+\bibfield{author}{\bibinfo{person}{Yu Wu}, \bibinfo{person}{Wei Wu},
+  \bibinfo{person}{Chen Xing}, \bibinfo{person}{Can Xu},
+  \bibinfo{person}{Zhoujun Li}, {and} \bibinfo{person}{Ming Zhou}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{A Sequential Matching Framework for Multi-Turn
+  Response Selection in Retrieval-Based Chatbots}.
+\newblock \bibinfo{journal}{\emph{Computational Linguistics}}
+  \bibinfo{volume}{45}, \bibinfo{number}{1} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{163--197}.
+\newblock
+\href{https://doi.org/10.1162/coli_a_00345}{doi:\nolinkurl{10.1162/coli_a_00345}}
+
+
+\bibitem[Xu et~al\mbox{.}(2025)]%
+        {ref32}
+\bibfield{author}{\bibinfo{person}{Lanling Xu}, \bibinfo{person}{Junjie Zhang},
+  \bibinfo{person}{Bingqian Li}, \bibinfo{person}{Jinpeng Wang},
+  \bibinfo{person}{Sheng Chen}, \bibinfo{person}{Wayne~Xin Zhao}, {and}
+  \bibinfo{person}{Ji-Rong Wen}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Tapping the Potential of Large Language Models as
+  Recommender Systems: A Comprehensive Framework and Empirical Analysis}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Information Systems}}
+  (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2401.04997}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Yang et~al\mbox{.}(2023)]%
+        {ref45}
+\bibfield{author}{\bibinfo{person}{T. Yang}, \bibinfo{person}{M. Song},
+  \bibinfo{person}{Z. Zhang}, \bibinfo{person}{H. Huang}, \bibinfo{person}{W.
+  Deng}, \bibinfo{person}{F. Sun}, {and} \bibinfo{person}{Q. Zhang}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Auto Search Indexer for End-to-End Document
+  Retrieval}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2310.12455}}
+  (\bibinfo{date}{Oct.} \bibinfo{year}{2023}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2310.12455}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Zhan et~al\mbox{.}(2025)]%
+        {ref7}
+\bibfield{author}{\bibinfo{person}{Z. Zhan}, \bibinfo{person}{S. Zhou},
+  \bibinfo{person}{M. Li}, {and} \bibinfo{person}{R. Zhang}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{RAMIE: retrieval-augmented multi-task information
+  extraction with large language models on dietary supplements}.
+\newblock \bibinfo{journal}{\emph{Journal of the American Medical Informatics
+  Association}} \bibinfo{volume}{32}, \bibinfo{number}{3}
+  (\bibinfo{year}{2025}), \bibinfo{pages}{545--554}.
+\newblock
+\href{https://doi.org/10.1093/jamia/ocaf002}{doi:\nolinkurl{10.1093/jamia/ocaf002}}
+
+
+\bibitem[Zhang et~al\mbox{.}(2025)]%
+        {ref49}
+\bibfield{author}{\bibinfo{person}{Gongbo Zhang}, \bibinfo{person}{Zihan Xu},
+  \bibinfo{person}{Qiao Jin}, \bibinfo{person}{Fangyi Chen},
+  \bibinfo{person}{Yilu Fang}, \bibinfo{person}{Yi Liu},
+  \bibinfo{person}{Justin~F. Rousseau}, \bibinfo{person}{Ziyang Xu},
+  \bibinfo{person}{Zhiyong Lu}, \bibinfo{person}{Chunhua Weng}, {and}
+  \bibinfo{person}{Yifan Peng}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Leveraging long context in retrieval augmented
+  language models for medical question answering}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}}  \bibinfo{volume}{8}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1038/s41746-025-01651-w}{doi:\nolinkurl{10.1038/s41746-025-01651-w}}
+
+
+\bibitem[Zhen et~al\mbox{.}(2022)]%
+        {ref19}
+\bibfield{author}{\bibinfo{person}{L. Zhen}, \bibinfo{person}{P. Hu},
+  \bibinfo{person}{X. Peng}, \bibinfo{person}{R.~S.~M. Goh}, {and}
+  \bibinfo{person}{J.~T. Zhou}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Deep Multimodal Transfer Learning for Cross-Modal
+  Retrieval}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Neural Networks and
+  Learning Systems}} \bibinfo{volume}{33}, \bibinfo{number}{2}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{798--810}.
+\newblock
+\href{https://doi.org/10.1109/TNNLS.2020.3032604}{doi:\nolinkurl{10.1109/TNNLS.2020.3032604}}
+
+
+\end{thebibliography}

@@ -1,0 +1,1642 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{102}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Aerts et~al\mbox{.}(2020)]%
+        {ref44}
+\bibfield{author}{\bibinfo{person}{O. Aerts}, \bibinfo{person}{S.~W.
+  Griffiths}, \bibinfo{person}{M.~W.~A. van Timmeren}, {and}
+  \bibinfo{person}{et al.}} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{The Image Biomarker Standardisation Initiative:
+  Standardized Quantitative Radiomics for High Throughput Image-based
+  Phenotyping}.
+\newblock \bibinfo{journal}{\emph{Radiology}} \bibinfo{volume}{295},
+  \bibinfo{number}{2} (\bibinfo{year}{2020}), \bibinfo{pages}{328--338}.
+\newblock
+\href{https://doi.org/10.1148/radiol.2020191145}{doi:\nolinkurl{10.1148/radiol.2020191145}}
+
+
+\bibitem[Ahmad et~al\mbox{.}(2024)]%
+        {ref98}
+\bibfield{author}{\bibinfo{person}{Ijaz Ahmad}, \bibinfo{person}{Zhenzhen Liu},
+  \bibinfo{person}{Lin Li}, \bibinfo{person}{Inam Ullah},
+  \bibinfo{person}{Sunday~Timothy Aboyeji}, \bibinfo{person}{Xin Wang},
+  \bibinfo{person}{Oluwarotimi~W. Samuel}, \bibinfo{person}{Guanglin Li},
+  \bibinfo{person}{Yuan Tao}, \bibinfo{person}{Yan Chen}, {and}
+  \bibinfo{person}{Shixiong Chen}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Robust Epileptic Seizure Detection Based on
+  Biomedical Signals Using an Advanced Multi-View Deep Feature Learning
+  Approach}.
+\newblock \bibinfo{journal}{\emph{IEEE Journal of Biomedical and Health
+  Informatics}} \bibinfo{volume}{28}, \bibinfo{number}{10}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{To appear}.
+\newblock
+\href{https://doi.org/10.1109/JBHI.2024.3350919}{doi:\nolinkurl{10.1109/JBHI.2024.3350919}}
+
+
+\bibitem[Ahmadirouhani et~al\mbox{.}(2018)]%
+        {ref74}
+\bibfield{author}{\bibinfo{person}{R. Ahmadirouhani}, \bibinfo{person}{M.~H.
+  Karimpour}, \bibinfo{person}{B. Rahimi}, \bibinfo{person}{A.
+  Malekzadeh-Shafaroudi}, \bibinfo{person}{A.~Beiranvand Pour}, {and}
+  \bibinfo{person}{B. Pradhan}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Integration of SPOT-5 and ASTER satellite data for
+  structural tracing and hydrothermal alteration mineral mapping: implications
+  for Cu--Au prospecting}.
+\newblock \bibinfo{journal}{\emph{International Journal of Image and Data
+  Fusion}} \bibinfo{volume}{9}, \bibinfo{number}{3} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{239--253}.
+\newblock
+\href{https://doi.org/10.1080/19479832.2018.1469548}{doi:\nolinkurl{10.1080/19479832.2018.1469548}}
+
+
+\bibitem[Alonso et~al\mbox{.}(2019)]%
+        {ref59}
+\bibfield{author}{\bibinfo{person}{C.~M. Alonso}, \bibinfo{person}{M. Llop},
+  \bibinfo{person}{C. Sargas}, \bibinfo{person}{L. Pedrola},
+  \bibinfo{person}{J. Panadero}, \bibinfo{person}{D. Hervás},
+  \bibinfo{person}{J. Cervera}, \bibinfo{person}{E. Such}, \bibinfo{person}{M.
+  Ibáñez}, \bibinfo{person}{R. Ayala}, \bibinfo{person}{J. Martínez-López},
+  \bibinfo{person}{E. Onecha}, \bibinfo{person}{I. de Juan},
+  \bibinfo{person}{S. Palanca}, \bibinfo{person}{D. Martínez-Cuadrón},
+  \bibinfo{person}{R. Rodríguez-Veiga}, \bibinfo{person}{B. Boluda},
+  \bibinfo{person}{P. Montesinos}, \bibinfo{person}{G. Sanz},
+  \bibinfo{person}{M.~A. Sanz}, {and} \bibinfo{person}{E. Barragán}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Clinical Utility of a Next-Generation Sequencing
+  Panel for Acute Myeloid Leukemia Diagnostics}.
+\newblock \bibinfo{journal}{\emph{The Journal of Molecular Diagnostics}}
+  \bibinfo{volume}{21}, \bibinfo{number}{2} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{228--240}.
+\newblock
+\href{https://doi.org/10.1016/j.jmoldx.2018.09.009}{doi:\nolinkurl{10.1016/j.jmoldx.2018.09.009}}
+
+
+\bibitem[Antillon et~al\mbox{.}(2020)]%
+        {ref69}
+\bibfield{author}{\bibinfo{person}{M. Antillon}, \bibinfo{person}{M.
+  McFarland}, \bibinfo{person}{J. Ndung'u}, \bibinfo{person}{E. Sutherland},
+  \bibinfo{person}{M.E. Chappuis}, \bibinfo{person}{S. Snijders},
+  \bibinfo{person}{A. Hope}, \bibinfo{person}{W.J. de Vlas}, {and}
+  \bibinfo{person}{E.M. Castaño}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Cost-effectiveness of sleeping sickness elimination
+  campaigns in the Democratic Republic of Congo: a transmission model-based
+  economic evaluation}.
+\newblock \bibinfo{journal}{\emph{medRxiv}} (\bibinfo{year}{2020}).
+\newblock
+\href{https://doi.org/10.1101/2020.08.25.20181982}{doi:\nolinkurl{10.1101/2020.08.25.20181982}}
+
+
+\bibitem[Appleton et~al\mbox{.}(2025)]%
+        {ref76}
+\bibfield{author}{\bibinfo{person}{R.~J. Appleton}, \bibinfo{person}{B.~C.
+  Barnes}, {and} \bibinfo{person}{A. Strachan}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Data Fusion of Deep Learned Molecular Embeddings
+  for Property Prediction}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2504.07297}}
+  (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2504.07297}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Atilla et~al\mbox{.}(2023)]%
+        {ref22}
+\bibfield{author}{\bibinfo{person}{F. Atilla}, \bibinfo{person}{B. Klomberg},
+  \bibinfo{person}{B. Cardoso}, {and} \bibinfo{person}{N. Cohn}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Background check: cross-cultural differences in the
+  spatial context of comic scenes}.
+\newblock \bibinfo{journal}{\emph{Multimodal Communication}}
+  \bibinfo{volume}{12}, \bibinfo{number}{3} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{179--189}.
+\newblock
+\urldef\tempurl%
+\url{https://www.degruyter.com/document/doi/10.1515/mc-2023-2010/html}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Badawy et~al\mbox{.}(2023)]%
+        {ref90}
+\bibfield{author}{\bibinfo{person}{Mohammed Badawy}, \bibinfo{person}{Nagy
+  Ramadan}, {and} \bibinfo{person}{Hesham~Ahmed Hefny}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Healthcare predictive analytics using machine
+  learning and deep learning techniques: a survey}.
+\newblock \bibinfo{journal}{\emph{Journal of Electrical Systems and Information
+  Technology}}  \bibinfo{volume}{10} (\bibinfo{year}{2023}).
+\newblock
+\href{https://doi.org/10.1186/s43067-023-00108-y}{doi:\nolinkurl{10.1186/s43067-023-00108-y}}
+
+
+\bibitem[Bakas et~al\mbox{.}(2019)]%
+        {ref52}
+\bibfield{author}{\bibinfo{person}{S. Bakas}, \bibinfo{person}{M. Reyes},
+  \bibinfo{person}{A. Jakab}, \bibinfo{person}{S. Bauer}, \bibinfo{person}{M.
+  Rempfler}, \bibinfo{person}{A. Crimi}, \bibinfo{person}{R. Shinohara},
+  {et~al\mbox{.}}} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Identifying the best machine learning algorithms
+  for brain tumor segmentation, progression assessment, and overall survival
+  prediction in the BRATS challenge}.
+\newblock \bibinfo{journal}{\emph{Medical Image Analysis}}
+  \bibinfo{volume}{55} (\bibinfo{year}{2019}), \bibinfo{pages}{80--91}.
+\newblock
+\href{https://doi.org/10.1016/j.media.2019.04.015}{doi:\nolinkurl{10.1016/j.media.2019.04.015}}
+
+
+\bibitem[Barker et~al\mbox{.}(2024)]%
+        {ref82}
+\bibfield{author}{\bibinfo{person}{W. Barker}, \bibinfo{person}{W. Chang},
+  \bibinfo{person}{J. Everson}, \bibinfo{person}{M. Gabriel},
+  \bibinfo{person}{V. Patel}, \bibinfo{person}{C. Richwine}, {and}
+  \bibinfo{person}{C. Strawley}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{The Evolution of Health Information Technology for
+  Enhanced Patient-Centric Care in the United States: Data-Driven Descriptive
+  Study}.
+\newblock \bibinfo{journal}{\emph{Journal of Medical Internet Research}}
+  \bibinfo{volume}{26}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{e59791}.
+\newblock
+\href{https://doi.org/10.2196/59791}{doi:\nolinkurl{10.2196/59791}}
+
+
+\bibitem[Bateman and Schmidt-Borcherding(2018)]%
+        {ref25}
+\bibfield{author}{\bibinfo{person}{J.~A. Bateman} {and} \bibinfo{person}{F.
+  Schmidt-Borcherding}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{The Communicative Effectiveness of Education
+  Videos: Towards an Empirically-Motivated Multimodal Account}.
+\newblock \bibinfo{journal}{\emph{Multimodal Technologies and Interaction}}
+  \bibinfo{volume}{2}, \bibinfo{number}{3} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{59}.
+\newblock
+\urldef\tempurl%
+\url{https://www.mdpi.com/2414-4088/2/3/59}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Bateman and Tseng(2023)]%
+        {ref23}
+\bibfield{author}{\bibinfo{person}{J.~A. Bateman} {and} \bibinfo{person}{C.-I.
+  Tseng}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Multimodal discourse analysis as a method for
+  revealing narrative strategies in news videos}.
+\newblock \bibinfo{journal}{\emph{Multimodal Communication}}
+  \bibinfo{volume}{12}, \bibinfo{number}{3} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{261--285}.
+\newblock
+\href{https://doi.org/10.1515/mc-2023-2017}{doi:\nolinkurl{10.1515/mc-2023-2017}}
+
+
+\bibitem[Benielli et~al\mbox{.}(2022)]%
+        {ref40}
+\bibfield{author}{\bibinfo{person}{D. Benielli}, \bibinfo{person}{H. Berry},
+  {and} \bibinfo{person}{J. Morlier}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{scikit-multimodallearn: A Python Toolbox for
+  Multimodal Machine Learning}.
+\newblock \bibinfo{journal}{\emph{Journal of Machine Learning Research}}
+  \bibinfo{volume}{23}, \bibinfo{number}{279} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{1--6}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmlr.org/papers/volume23/21-0791/21-0791.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Biancardi et~al\mbox{.}(2024)]%
+        {ref21}
+\bibfield{author}{\bibinfo{person}{Béatrice Biancardi},
+  \bibinfo{person}{Maurizio Mancini}, \bibinfo{person}{Brian Ravenet}, {and}
+  \bibinfo{person}{Giovanna Varni}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Modelling the 'transactive memory system' in
+  multimodal multiparty interactions}.
+\newblock \bibinfo{journal}{\emph{Journal on Multimodal User Interfaces}}
+  \bibinfo{volume}{18}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{103--117}.
+\newblock
+\href{https://doi.org/10.1007/s12193-023-00399-w}{doi:\nolinkurl{10.1007/s12193-023-00399-w}}
+
+
+\bibitem[Byrne(2024)]%
+        {ref17}
+\bibfield{author}{\bibinfo{person}{F. Byrne}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{A diffractive approach to multimodal transcription:
+  Materialising entanglements between humans and non-humans}.
+\newblock \bibinfo{journal}{\emph{Multimodality \& Society}}
+  (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1177/26349795241291369}{doi:\nolinkurl{10.1177/26349795241291369}}
+
+
+\bibitem[Bürgisser et~al\mbox{.}(2024)]%
+        {ref13}
+\bibfield{author}{\bibinfo{person}{N. Bürgisser}, \bibinfo{person}{E. Chalot},
+  \bibinfo{person}{S. Mehouachi}, \bibinfo{person}{C.~P. Buclin},
+  \bibinfo{person}{K. Lauper}, \bibinfo{person}{D.~S. Courvoisier}, {and}
+  \bibinfo{person}{D. Mongin}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Large language models for accurate disease
+  detection in electronic health records}.
+\newblock \bibinfo{journal}{\emph{medRxiv}} (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://www.medrxiv.org/content/10.1101/2024.07.27.24311106v1}
+\showURL{%
+\tempurl}
+
+
+\bibitem[C. et~al\mbox{.}(2024)]%
+        {ref88}
+\bibfield{author}{\bibinfo{person}{Kavyashree C.}, \bibinfo{person}{H.~S.
+  Vimala}, {and} \bibinfo{person}{Shreyas J.}} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{A systematic review of artificial intelligence
+  techniques for oral cancer detection}.
+\newblock \bibinfo{journal}{\emph{Healthcare Analytics}}  \bibinfo{volume}{7}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{100304}.
+\newblock
+\href{https://doi.org/10.1016/j.health.2024.100304}{doi:\nolinkurl{10.1016/j.health.2024.100304}}
+
+
+\bibitem[Chatzichristos et~al\mbox{.}(2022)]%
+        {ref103}
+\bibfield{author}{\bibinfo{person}{Christos Chatzichristos},
+  \bibinfo{person}{Lauren Swinnen}, \bibinfo{person}{Jaiver Macea},
+  \bibinfo{person}{Miguel Bhagubai}, \bibinfo{person}{Wim~Van Paesschen}, {and}
+  \bibinfo{person}{Maarten~De Vos}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Multimodal detection of typical absence seizures in
+  home environment with wearable electrodes}.
+\newblock \bibinfo{journal}{\emph{Frontiers in Signal Processing}}
+  \bibinfo{volume}{2} (\bibinfo{year}{2022}), \bibinfo{pages}{1014700}.
+\newblock
+\href{https://doi.org/10.3389/frsip.2022.1014700}{doi:\nolinkurl{10.3389/frsip.2022.1014700}}
+
+
+\bibitem[Chen et~al\mbox{.}(2024)]%
+        {ref48}
+\bibfield{author}{\bibinfo{person}{Z. Chen}, \bibinfo{person}{Y. Zheng}, {and}
+  \bibinfo{person}{J.~C. Gee}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{TransMatch: A Transformer-Based Multilevel
+  Dual-Stream Feature Matching Network for Unsupervised Deformable Image
+  Registration}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Medical Imaging}}
+  \bibinfo{volume}{43}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{15--27}.
+\newblock
+\href{https://doi.org/10.1109/TMI.2023.3324623}{doi:\nolinkurl{10.1109/TMI.2023.3324623}}
+
+
+\bibitem[Dharmarathne et~al\mbox{.}(2024)]%
+        {ref87}
+\bibfield{author}{\bibinfo{person}{G. Dharmarathne}, \bibinfo{person}{T.~N.
+  Jayasinghe}, \bibinfo{person}{M. Bogahawaththa}, \bibinfo{person}{D.
+  Meddage}, {and} \bibinfo{person}{U. Rathnayake}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{A novel machine learning approach for diagnosing
+  diabetes with a self-explainable interface}.
+\newblock \bibinfo{journal}{\emph{Healthcare Analytics}}  \bibinfo{volume}{7}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{100301}.
+\newblock
+\href{https://doi.org/10.1016/j.health.2024.100301}{doi:\nolinkurl{10.1016/j.health.2024.100301}}
+
+
+\bibitem[Dibeklio\u{g}lu et~al\mbox{.}(2021)]%
+        {ref19}
+\bibfield{author}{\bibinfo{person}{Hamdi Dibeklio\u{g}lu},
+  \bibinfo{person}{Elif Surer}, \bibinfo{person}{Albert~Ali Salah}, {and}
+  \bibinfo{person}{Thierry Dutoit}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Behavior and usability analysis for multimodal user
+  interfaces}.
+\newblock \bibinfo{journal}{\emph{Journal on Multimodal User Interfaces}}
+  \bibinfo{volume}{15} (\bibinfo{year}{2021}), \bibinfo{pages}{335--336}.
+\newblock
+\href{https://doi.org/10.1007/s12193-021-00372-0}{doi:\nolinkurl{10.1007/s12193-021-00372-0}}
+
+
+\bibitem[Diez-Olivan et~al\mbox{.}(2019)]%
+        {ref72}
+\bibfield{author}{\bibinfo{person}{A. Diez-Olivan}, \bibinfo{person}{J.~Del
+  Ser}, \bibinfo{person}{D. Galar}, {and} \bibinfo{person}{B. Sierra}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Data fusion and machine learning for industrial
+  prognosis: Trends and perspectives towards Industry 4.0}.
+\newblock \bibinfo{journal}{\emph{Information Fusion}}  \bibinfo{volume}{50}
+  (\bibinfo{date}{Jan.} \bibinfo{year}{2019}), \bibinfo{pages}{92--111}.
+\newblock
+\href{https://doi.org/10.1016/j.inffus.2018.10.005}{doi:\nolinkurl{10.1016/j.inffus.2018.10.005}}
+
+
+\bibitem[Ding et~al\mbox{.}(2022)]%
+        {ref38}
+\bibfield{author}{\bibinfo{person}{D. Ding}, \bibinfo{person}{S. Li},
+  \bibinfo{person}{B. Narasimhan}, {and} \bibinfo{person}{R. Tibshirani}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Cooperative learning for multiview analysis}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{4} (\bibinfo{year}{2022}), \bibinfo{pages}{263--271}.
+\newblock
+\urldef\tempurl%
+\url{https://www.nature.com/articles/s42256-022-00497-6}
+\showURL{%
+\tempurl}
+
+
+\bibitem[do~Nascimento et~al\mbox{.}(2021)]%
+        {ref83}
+\bibfield{author}{\bibinfo{person}{I.~J.~Borges do Nascimento},
+  \bibinfo{person}{M.~S. Marcolino}, \bibinfo{person}{H.~M. Abdulazeem},
+  \bibinfo{person}{I. Weerasekara}, \bibinfo{person}{N. Azzopardi-Muscat},
+  \bibinfo{person}{M.~A. Gon\c{c}alves}, {and} \bibinfo{person}{D.
+  Novillo-Ortiz}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Impact of Big Data Analytics on People’s Health:
+  Overview of Systematic Reviews and Recommendations for Future Studies}.
+\newblock \bibinfo{journal}{\emph{Journal of Medical Internet Research}}
+  \bibinfo{volume}{23}, \bibinfo{number}{4} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{e27275}.
+\newblock
+\href{https://doi.org/10.2196/27275}{doi:\nolinkurl{10.2196/27275}}
+
+
+\bibitem[Dutta(2018)]%
+        {ref73}
+\bibfield{author}{\bibinfo{person}{P. Dutta}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{An uncertainty measure and fusion rule for conflict
+  evidences of big data via Dempster--Shafer theory}.
+\newblock \bibinfo{journal}{\emph{International Journal of Image and Data
+  Fusion}} \bibinfo{volume}{9}, \bibinfo{number}{2} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{187--201}.
+\newblock
+\urldef\tempurl%
+\url{https://www.tandfonline.com/doi/full/10.1080/19479832.2017.1391336}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Feng et~al\mbox{.}(2025)]%
+        {ref77}
+\bibfield{author}{\bibinfo{person}{W. Feng}, \bibinfo{person}{Q. Li},
+  \bibinfo{person}{C. Wang}, {and} \bibinfo{person}{J. s. Fan}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Data Fusion for Full-Range Response Reconstruction
+  via Diffusion Models}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2502.00795}}
+  (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2502.00795}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Flynn et~al\mbox{.}(2024)]%
+        {ref62}
+\bibfield{author}{\bibinfo{person}{S. Flynn}, \bibinfo{person}{A. Haenel},
+  \bibinfo{person}{F. Coughlan}, \bibinfo{person}{S. Crilly},
+  \bibinfo{person}{J.~A. Leipsic}, {and} \bibinfo{person}{J.~D. Dodd}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Cardiac CT, MRI, and PET in 2023: Exploration of
+  Key Articles across Imaging and Multidisciplinary Journals}.
+\newblock \bibinfo{journal}{\emph{Radiology}} \bibinfo{volume}{313},
+  \bibinfo{number}{3} (\bibinfo{year}{2024}), \bibinfo{pages}{e240975}.
+\newblock
+\href{https://doi.org/10.1148/radiol.240975}{doi:\nolinkurl{10.1148/radiol.240975}}
+
+
+\bibitem[Fraioli et~al\mbox{.}(2024)]%
+        {ref65}
+\bibfield{author}{\bibinfo{person}{F. Fraioli}, \bibinfo{person}{N. Albert},
+  \bibinfo{person}{R. Boellaard}, \bibinfo{person}{I.~Boscolo Galazzo},
+  \bibinfo{person}{M. Brendel}, \bibinfo{person}{I. Buvat}, \bibinfo{person}{M.
+  Castellaro}, \bibinfo{person}{D. Cecchin}, \bibinfo{person}{P.~Aguiar
+  Fernandez}, \bibinfo{person}{E. Guedj}, \bibinfo{person}{A. Hammers},
+  \bibinfo{person}{Z. Kaplar}, \bibinfo{person}{S. Morbelli},
+  \bibinfo{person}{L. Papp}, \bibinfo{person}{K. Shi}, \bibinfo{person}{N.
+  Tolboom}, \bibinfo{person}{T. Traub-Weidinger}, \bibinfo{person}{A. Verger},
+  \bibinfo{person}{D.~Van Weehaeghe}, \bibinfo{person}{I. Yakushev}, {and}
+  \bibinfo{person}{H. Barthel}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Perspectives of the European Association of Nuclear
+  Medicine on the role of artificial intelligence (AI) in molecular brain
+  imaging}.
+\newblock \bibinfo{journal}{\emph{European Journal of Nuclear Medicine and
+  Molecular Imaging}}  \bibinfo{volume}{51} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{1007--1011}.
+\newblock
+\href{https://doi.org/10.1007/s00259-023-06553-1}{doi:\nolinkurl{10.1007/s00259-023-06553-1}}
+
+
+\bibitem[Giuffr\`e et~al\mbox{.}(2023)]%
+        {ref91}
+\bibfield{author}{\bibinfo{person}{M. Giuffr\`e} {et~al\mbox{.}}}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Harnessing the power of synthetic data in
+  healthcare}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}}  \bibinfo{volume}{6}
+  (\bibinfo{year}{2023}), \bibinfo{pages}{Article No. 198}.
+\newblock
+\href{https://doi.org/10.1038/s41746-023-00927-3}{doi:\nolinkurl{10.1038/s41746-023-00927-3}}
+
+
+\bibitem[Goyal et~al\mbox{.}(2020)]%
+        {ref41}
+\bibfield{author}{\bibinfo{person}{P. Goyal}, \bibinfo{person}{S. Sahu},
+  \bibinfo{person}{S. Ghosh}, {and} \bibinfo{person}{C. Lee}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Cross-modal Learning for Multi-modal Video
+  Categorization}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2003.03501}}
+  (\bibinfo{year}{2020}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2003.03501}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Habib et~al\mbox{.}(2022)]%
+        {ref86}
+\bibfield{author}{\bibinfo{person}{M. Habib}, \bibinfo{person}{Z. Wang},
+  \bibinfo{person}{S. Qiu}, \bibinfo{person}{H. Liu}, \bibinfo{person}{J. Qi},
+  \bibinfo{person}{P. Kumar}, {and} \bibinfo{person}{W. Chen}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Machine Learning Based Healthcare System for
+  Investigating the Association Between Depression and Quality of Life}.
+\newblock \bibinfo{journal}{\emph{IEEE Journal of Biomedical and Health
+  Informatics}} \bibinfo{volume}{26}, \bibinfo{number}{6}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{2795--2805}.
+\newblock
+\href{https://doi.org/10.1109/JBHI.2022.3152053}{doi:\nolinkurl{10.1109/JBHI.2022.3152053}}
+
+
+\bibitem[He et~al\mbox{.}(2024)]%
+        {ref39}
+\bibfield{author}{\bibinfo{person}{Y. He}, \bibinfo{person}{L. Zheng},
+  \bibinfo{person}{X. Shi}, {and} \bibinfo{person}{T. Huang}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Efficient Modality Selection in Multimodal
+  Learning}.
+\newblock \bibinfo{journal}{\emph{Journal of Machine Learning Research}}
+  \bibinfo{volume}{25}, \bibinfo{number}{61} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{1--53}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmlr.org/papers/volume25/23-0439/23-0439.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Himeur et~al\mbox{.}(2020)]%
+        {ref71}
+\bibfield{author}{\bibinfo{person}{Y. Himeur}, \bibinfo{person}{A. Ghanem},
+  \bibinfo{person}{F. Alsalemi}, \bibinfo{person}{R. Alhameed},
+  \bibinfo{person}{F. Bensaali}, {and} \bibinfo{person}{A. Amira}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Data fusion strategies for energy efficiency in
+  buildings: Overview, taxonomy, and future research directions}.
+\newblock \bibinfo{journal}{\emph{Information Fusion}}  \bibinfo{volume}{64}
+  (\bibinfo{date}{Oct.} \bibinfo{year}{2020}), \bibinfo{pages}{99--120}.
+\newblock
+\urldef\tempurl%
+\url{https://linkinghub.elsevier.com/retrieve/pii/S1566253520303158}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Holzinger et~al\mbox{.}(2022)]%
+        {ref70}
+\bibfield{author}{\bibinfo{person}{A. Holzinger}, \bibinfo{person}{G. Langs},
+  \bibinfo{person}{H. Denk}, \bibinfo{person}{K. Zatloukal}, {and}
+  \bibinfo{person}{H. Müller}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Information fusion as an integrative cross-cutting
+  enabler to achieve robust, explainable, and trustworthy medical artificial
+  intelligence}.
+\newblock \bibinfo{journal}{\emph{Information Fusion}}  \bibinfo{volume}{79}
+  (\bibinfo{date}{Nov.} \bibinfo{year}{2022}), \bibinfo{pages}{263--278}.
+\newblock
+\urldef\tempurl%
+\url{https://linkinghub.elsevier.com/retrieve/pii/S1566253521002050}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Hope et~al\mbox{.}(2016)]%
+        {ref46}
+\bibfield{author}{\bibinfo{person}{A. Hope}, \bibinfo{person}{C.~F. Dietrich},
+  \bibinfo{person}{L.~Q. Zhou}, \bibinfo{person}{D.~L. McFarlane},
+  \bibinfo{person}{R.~J. Gillies}, {and} \bibinfo{person}{H. Hricak}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Radiomics: Images Are More Than Pictures, They Are
+  Data}.
+\newblock \bibinfo{journal}{\emph{Radiology}} \bibinfo{volume}{278},
+  \bibinfo{number}{2} (\bibinfo{year}{2016}), \bibinfo{pages}{563--577}.
+\newblock
+\urldef\tempurl%
+\url{https://pubs.rsna.org/doi/10.1148/radiol.2015151169}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Hu et~al\mbox{.}(2023)]%
+        {ref104}
+\bibfield{author}{\bibinfo{person}{P. Hu}, \bibinfo{person}{Z. Huang},
+  \bibinfo{person}{D. Peng}, \bibinfo{person}{X. Wang}, {and}
+  \bibinfo{person}{X. Peng}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Cross-modal retrieval with partially mismatched
+  pairs}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}} \bibinfo{volume}{45}, \bibinfo{number}{8}
+  (\bibinfo{year}{2023}), \bibinfo{pages}{9595--9610}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/10050111/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Ibrahim et~al\mbox{.}(2023)]%
+        {ref102}
+\bibfield{author}{\bibinfo{person}{Ali~K. Ibrahim}, \bibinfo{person}{Hanqi
+  Zhuang}, \bibinfo{person}{Emmanuelle Tognoli}, \bibinfo{person}{Ali~Muhamed
+  Ali}, {and} \bibinfo{person}{Nurgun Erdol}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Epileptic seizure prediction based on
+  multiresolution convolutional neural networks}.
+\newblock \bibinfo{journal}{\emph{Frontiers in Signal Processing}}
+  \bibinfo{volume}{2} (\bibinfo{year}{2023}), \bibinfo{pages}{1175305}.
+\newblock
+\href{https://doi.org/10.3389/frsip.2023.1175305}{doi:\nolinkurl{10.3389/frsip.2023.1175305}}
+
+
+\bibitem[Iino et~al\mbox{.}(2018)]%
+        {ref75}
+\bibfield{author}{\bibinfo{person}{S. Iino}, \bibinfo{person}{R. Ito},
+  \bibinfo{person}{K. Doi}, \bibinfo{person}{T. Imaizumi}, \bibinfo{person}{S.
+  Hikosaka}, {and} \bibinfo{person}{T.~Y. Saito}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{CNN-based generation of high-accuracy urban
+  distribution maps utilising SAR satellite imagery for short-term change
+  monitoring}.
+\newblock \bibinfo{journal}{\emph{International Journal of Image and Data
+  Fusion}} \bibinfo{volume}{9}, \bibinfo{number}{4} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{298--312}.
+\newblock
+\href{https://doi.org/10.1080/19479832.2018.1491897}{doi:\nolinkurl{10.1080/19479832.2018.1491897}}
+
+
+\bibitem[Ivaturi et~al\mbox{.}(2021)]%
+        {ref99}
+\bibfield{author}{\bibinfo{person}{P. Ivaturi}, \bibinfo{person}{D. Chen},
+  \bibinfo{person}{T.~M. Talbert}, \bibinfo{person}{Z. Jiang},
+  \bibinfo{person}{W. Xu}, \bibinfo{person}{G. Quer}, \bibinfo{person}{M.
+  Gadaleta}, \bibinfo{person}{D. Jha}, \bibinfo{person}{J.~C. Lin},
+  \bibinfo{person}{S. Santini}, {and} \bibinfo{person}{P. Bonato}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{A Comprehensive Explanation Framework for
+  Biomedical Time Series Classification}.
+\newblock \bibinfo{journal}{\emph{IEEE Journal of Biomedical and Health
+  Informatics}} \bibinfo{volume}{25}, \bibinfo{number}{7}
+  (\bibinfo{year}{2021}), \bibinfo{pages}{2398--2408}.
+\newblock
+\href{https://doi.org/10.1109/JBHI.2021.3060997}{doi:\nolinkurl{10.1109/JBHI.2021.3060997}}
+
+
+\bibitem[Jackson et~al\mbox{.}(2016)]%
+        {ref9}
+\bibfield{author}{\bibinfo{person}{B.~R. Jackson}, \bibinfo{person}{C. Tarr},
+  \bibinfo{person}{E. Strain}, \bibinfo{person}{K.~A. Jackson},
+  \bibinfo{person}{A. Conrad}, \bibinfo{person}{H. Carleton},
+  \bibinfo{person}{L.~S. Katz}, \bibinfo{person}{S. Stroika},
+  \bibinfo{person}{L.~H. Gould}, \bibinfo{person}{R.~K. Mody},
+  \bibinfo{person}{B.~J. Silk}, \bibinfo{person}{J. Beal}, \bibinfo{person}{Y.
+  Chen}, \bibinfo{person}{R. Timme}, \bibinfo{person}{M. Doyle},
+  \bibinfo{person}{A. Fields}, \bibinfo{person}{M. Wise}, \bibinfo{person}{G.
+  Tillman}, \bibinfo{person}{S. Defibaugh-Chavez}, \bibinfo{person}{Z.
+  Kucerova}, \bibinfo{person}{A. Sabol}, \bibinfo{person}{K. Roache},
+  \bibinfo{person}{E. Trees}, \bibinfo{person}{M. Simmons}, \bibinfo{person}{J.
+  Wasilenko}, \bibinfo{person}{K. Kubota}, \bibinfo{person}{H. Pouseele},
+  \bibinfo{person}{W. Klimke}, \bibinfo{person}{J. Besser}, \bibinfo{person}{E.
+  Brown}, \bibinfo{person}{M. Allard}, {and} \bibinfo{person}{P.
+  Gerner-Smidt}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Implementation of Nationwide Real-time Whole-genome
+  Sequencing to Enhance Listeriosis Outbreak Detection and Investigation}.
+\newblock \bibinfo{journal}{\emph{Clinical Infectious Diseases}}
+  \bibinfo{volume}{63}, \bibinfo{number}{3} (\bibinfo{year}{2016}),
+  \bibinfo{pages}{380--386}.
+\newblock
+\href{https://doi.org/10.1093/cid/ciw242}{doi:\nolinkurl{10.1093/cid/ciw242}}
+
+
+\bibitem[Jaritz et~al\mbox{.}(2022)]%
+        {ref31}
+\bibfield{author}{\bibinfo{person}{M. Jaritz}, \bibinfo{person}{T.-H. Vu},
+  \bibinfo{person}{R.~De Charette}, \bibinfo{person}{{\'E}. Wirbel}, {and}
+  \bibinfo{person}{P. P{\'e}rez}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Cross-modal learning for domain adaptation in 3D
+  semantic segmentation}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}} \bibinfo{volume}{45}, \bibinfo{number}{2}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{1533--1544}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9737217/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Jennings et~al\mbox{.}(2017)]%
+        {ref60}
+\bibfield{author}{\bibinfo{person}{L.~J. Jennings}, \bibinfo{person}{M.~E.
+  Arcila}, \bibinfo{person}{C. Corless}, \bibinfo{person}{S. Kamel-Reid},
+  \bibinfo{person}{I.~M. Lubin}, \bibinfo{person}{J. Pfeifer},
+  \bibinfo{person}{R.~L. Temple-Smolkin}, \bibinfo{person}{K.~V. Voelkerding},
+  {and} \bibinfo{person}{M.~N. Nikiforova}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Guidelines for Validation of Next-Generation
+  Sequencing-Based Oncology Panels: A Joint Consensus Recommendation of the
+  Association for Molecular Pathology and College of American Pathologists}.
+\newblock \bibinfo{journal}{\emph{The Journal of Molecular Diagnostics}}
+  \bibinfo{volume}{19}, \bibinfo{number}{3} (\bibinfo{year}{2017}),
+  \bibinfo{pages}{341--365}.
+\newblock
+\href{https://doi.org/10.1016/j.jmoldx.2017.01.011}{doi:\nolinkurl{10.1016/j.jmoldx.2017.01.011}}
+
+
+\bibitem[Jensen and Schirrmacher(2024)]%
+        {ref18}
+\bibfield{author}{\bibinfo{person}{S.~Kjær Jensen} {and} \bibinfo{person}{B.
+  Schirrmacher}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Stronger together: Moving towards a combined
+  multimodal and intermedial model}.
+\newblock \bibinfo{journal}{\emph{Multimodality \& Society}}
+  (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1177/26349795241259606}{doi:\nolinkurl{10.1177/26349795241259606}}
+
+
+\bibitem[Jiang et~al\mbox{.}(2025)]%
+        {ref28}
+\bibfield{author}{\bibinfo{person}{Yushan Jiang}, \bibinfo{person}{Kanghui
+  Ning}, \bibinfo{person}{Zijie Pan}, \bibinfo{person}{Xuyang Shen},
+  \bibinfo{person}{Jingchao Ni}, \bibinfo{person}{Wenchao Yu},
+  \bibinfo{person}{Anderson Schneider}, \bibinfo{person}{Haifeng Chen},
+  \bibinfo{person}{Yuriy Nevmyvaka}, {and} \bibinfo{person}{Dongjin Song}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Multi-modal Time Series Analysis: A Tutorial and
+  Survey}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2503.13709}}
+  (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2503.13709}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Kasbergen et~al\mbox{.}(2024)]%
+        {ref6}
+\bibfield{author}{\bibinfo{person}{L.~M.~R. Kasbergen}, \bibinfo{person}{E. de
+  Bruin}, \bibinfo{person}{F. Chandler}, \bibinfo{person}{A.~J. Menting},
+  \bibinfo{person}{P.~A.~M. Kouwijzer}, \bibinfo{person}{L. Schwanitz},
+  \bibinfo{person}{V. Klaus}, \bibinfo{person}{K.~H. Adan}, \bibinfo{person}{S.
+  Markota}, \bibinfo{person}{R.~G.~P. Alblas}, {et~al\mbox{.}}}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Multi-antigen serology and a diagnostic algorithm
+  for the detection of arbovirus infections as novel tools for arbovirus
+  preparedness in southeast Europe: a prospective observational study}.
+\newblock \bibinfo{journal}{\emph{The Lancet Infectious Diseases}}
+  \bibinfo{volume}{24}, \bibinfo{number}{6} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{689--698}.
+\newblock
+\href{https://doi.org/10.1016/S1473-3099(24)00654-6}{doi:\nolinkurl{10.1016/S1473-3099(24)00654-6}}
+
+
+\bibitem[Kiang et~al\mbox{.}(2021)]%
+        {ref5}
+\bibfield{author}{\bibinfo{person}{M.~V. Kiang}, \bibinfo{person}{E.~T. Chin},
+  \bibinfo{person}{B.~Q. Huynh}, \bibinfo{person}{L.~A.~C. Chapman},
+  \bibinfo{person}{I. Rodr\'{i}guez-Barraquer}, \bibinfo{person}{B.
+  Greenhouse}, \bibinfo{person}{G.~W. Rutherford}, \bibinfo{person}{K.
+  Bibbins-Domingo}, \bibinfo{person}{D. Havlir}, \bibinfo{person}{S. Basu},
+  {and} \bibinfo{person}{N.~C. Lo}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Routine asymptomatic testing strategies for airline
+  travel during the COVID-19 pandemic: a simulation study}.
+\newblock \bibinfo{journal}{\emph{The Lancet Infectious Diseases}}
+  \bibinfo{volume}{21}, \bibinfo{number}{7} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{929--938}.
+\newblock
+\href{https://doi.org/10.1016/S1473-3099(21)00134-1}{doi:\nolinkurl{10.1016/S1473-3099(21)00134-1}}
+
+
+\bibitem[Kudalkar et~al\mbox{.}(2016)]%
+        {ref61}
+\bibfield{author}{\bibinfo{person}{E.~M. Kudalkar}, \bibinfo{person}{N.~A.~M.
+  Almontashiri}, \bibinfo{person}{C. Huang}, \bibinfo{person}{B. Anekella},
+  \bibinfo{person}{M. Bowser}, \bibinfo{person}{E. Hynes}, \bibinfo{person}{R.
+  Garlick}, {and} \bibinfo{person}{B.~H. Funke}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Multiplexed Reference Materials as Controls for
+  Diagnostic Next-Generation Sequencing: A Pilot Investigating Applications for
+  Hypertrophic Cardiomyopathy}.
+\newblock \bibinfo{journal}{\emph{The Journal of Molecular Diagnostics}}
+  \bibinfo{volume}{18}, \bibinfo{number}{6} (\bibinfo{year}{2016}),
+  \bibinfo{pages}{882--889}.
+\newblock
+\href{https://doi.org/10.1016/j.jmoldx.2016.07.005}{doi:\nolinkurl{10.1016/j.jmoldx.2016.07.005}}
+
+
+\bibitem[Kumar et~al\mbox{.}(2025)]%
+        {ref58}
+\bibfield{author}{\bibinfo{person}{A. Kumar}, \bibinfo{person}{P.
+  Nandakishore}, \bibinfo{person}{A.~J. Gordon}, \bibinfo{person}{E. Baum},
+  \bibinfo{person}{J. Madhok}, \bibinfo{person}{Y. Duanmu}, {and}
+  \bibinfo{person}{J. Kugler}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Creation of an Open-Access Lung Ultrasound Image
+  Database For Deep Learning and Neural Network Applications}.
+\newblock \bibinfo{journal}{\emph{medRxiv}} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1101/2025.05.09.25327337}{doi:\nolinkurl{10.1101/2025.05.09.25327337}}
+
+
+\bibitem[Kumar et~al\mbox{.}(2022)]%
+        {ref107}
+\bibfield{author}{\bibinfo{person}{P.~M. Kumar}, \bibinfo{person}{U.~P. Rao},
+  \bibinfo{person}{P. Vijayakumar}, \bibinfo{person}{N. Chilamkurti},
+  \bibinfo{person}{D.~Q. Phung}, {and} \bibinfo{person}{N. Kumaravel}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Clouds Proportionate Medical Data Stream Analytics
+  for Internet of Things-Based Healthcare Systems}.
+\newblock \bibinfo{journal}{\emph{IEEE Journal of Biomedical and Health
+  Informatics}} \bibinfo{volume}{26}, \bibinfo{number}{3}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{973--982}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9520255/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Lamb(2018)]%
+        {ref27}
+\bibfield{author}{\bibinfo{person}{J. Lamb}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{To Boldly Go: Feedback as Digital, Multimodal
+  Dialogue}.
+\newblock \bibinfo{journal}{\emph{Multimodal Technologies and Interaction}}
+  \bibinfo{volume}{2}, \bibinfo{number}{3} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{49}.
+\newblock
+\urldef\tempurl%
+\url{https://www.mdpi.com/2414-4088/2/3/49}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Lauri et~al\mbox{.}(2022)]%
+        {ref64}
+\bibfield{author}{\bibinfo{person}{C. Lauri}, \bibinfo{person}{A. Signore},
+  \bibinfo{person}{A.W.J.M. Glaudemans}, \bibinfo{person}{G. Treglia},
+  \bibinfo{person}{O. Gheysens}, \bibinfo{person}{R.H.J.A. Slart},
+  \bibinfo{person}{R. Iezzi}, \bibinfo{person}{N.H.J. Prakken},
+  \bibinfo{person}{E.S. Debus}, \bibinfo{person}{S. Honig}, \bibinfo{person}{A.
+  Lejay}, {and} \bibinfo{person}{N. Chakfé}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Evidence-based guideline of the European
+  Association of Nuclear Medicine (EANM) on imaging infection in vascular
+  grafts}.
+\newblock \bibinfo{journal}{\emph{European Journal of Nuclear Medicine and
+  Molecular Imaging}}  \bibinfo{volume}{49} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{3430--3451}.
+\newblock
+\href{https://doi.org/10.1007/s00259-022-05769-x}{doi:\nolinkurl{10.1007/s00259-022-05769-x}}
+
+
+\bibitem[Lawson et~al\mbox{.}(2025)]%
+        {ref63}
+\bibfield{author}{\bibinfo{person}{M.~B. Lawson}, \bibinfo{person}{W. Zhu},
+  \bibinfo{person}{D.~L. Miglioretti}, \bibinfo{person}{T. Onega},
+  \bibinfo{person}{L.~M. Henderson}, \bibinfo{person}{G.~H. Rauscher},
+  \bibinfo{person}{K. Kerlikowske}, \bibinfo{person}{B.~L. Sprague},
+  \bibinfo{person}{E.~J.~A. Bowles}, \bibinfo{person}{E.~S. O'Meara},
+  \bibinfo{person}{A.~N.~A. Tosteson}, \bibinfo{person}{R.~M. diFlorio
+  Alexander}, \bibinfo{person}{R.~A. Hubbard}, \bibinfo{person}{J.~M. Lee},
+  {and} \bibinfo{person}{C.~I. Lee}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Disparities in Standard-of-Care, Advanced, and
+  Same-Day Diagnostic Services among Patients with Abnormal Screening
+  Mammography}.
+\newblock \bibinfo{journal}{\emph{Radiology}} \bibinfo{volume}{314},
+  \bibinfo{number}{2} (\bibinfo{year}{2025}), \bibinfo{pages}{e241673}.
+\newblock
+\href{https://doi.org/10.1148/radiol.241673}{doi:\nolinkurl{10.1148/radiol.241673}}
+
+
+\bibitem[Laçi et~al\mbox{.}(2025)]%
+        {ref54}
+\bibfield{author}{\bibinfo{person}{H. Laçi}, \bibinfo{person}{K. Sevrani},
+  {and} \bibinfo{person}{S. Iqbal}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Deep learning approaches for classification tasks
+  in medical X-ray, MRI, and ultrasound images: a scoping review}.
+\newblock \bibinfo{journal}{\emph{BMC Medical Imaging}} \bibinfo{volume}{25},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}), \bibinfo{pages}{156}.
+\newblock
+\urldef\tempurl%
+\url{https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-024-01122-0}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Lee et~al\mbox{.}(2023)]%
+        {ref80}
+\bibfield{author}{\bibinfo{person}{Hyeonhoon Lee}, \bibinfo{person}{Hyun-Lim
+  Yang}, \bibinfo{person}{Hyuk~Goo Ryu}, \bibinfo{person}{Chiwon Jung},
+  \bibinfo{person}{Yong~Joon Cho}, \bibinfo{person}{Seungbeom Yoon},
+  \bibinfo{person}{Hyun-Kyung Yoon}, {and} \bibinfo{person}{Hee-Chang Lee}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Real-time machine learning model to predict
+  in-hospital cardiac arrest using heart rate variability in ICU}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}}  \bibinfo{volume}{6}
+  (\bibinfo{year}{2023}), \bibinfo{pages}{Article no. 215}.
+\newblock
+\href{https://doi.org/10.1038/s41746-023-00960-2}{doi:\nolinkurl{10.1038/s41746-023-00960-2}}
+
+
+\bibitem[Li et~al\mbox{.}(2024)]%
+        {ref49}
+\bibfield{author}{\bibinfo{person}{J. Li}, \bibinfo{person}{P. Zhang},
+  \bibinfo{person}{T. Wang}, \bibinfo{person}{L. Zhu}, \bibinfo{person}{R.
+  Liu}, \bibinfo{person}{X. Yang}, \bibinfo{person}{K. Wang},
+  \bibinfo{person}{D. Shen}, {and} \bibinfo{person}{B. Sheng}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{DSMT-Net: Dual Self-Supervised Multi-Operator
+  Transformation for Multi-Source Endoscopic Ultrasound Diagnosis}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Medical Imaging}}
+  \bibinfo{volume}{43}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{64--75}.
+\newblock
+\href{https://doi.org/10.1109/TMI.2023.3324373}{doi:\nolinkurl{10.1109/TMI.2023.3324373}}
+
+
+\bibitem[Li et~al\mbox{.}(2025a)]%
+        {ref53}
+\bibfield{author}{\bibinfo{person}{X. Li}, \bibinfo{person}{Y. Guo},
+  \bibinfo{person}{S. Huang}, \bibinfo{person}{F. Wang}, \bibinfo{person}{C.
+  Dai}, \bibinfo{person}{J. Zhou}, {and} \bibinfo{person}{D. Lin}.}
+  \bibinfo{year}{2025}\natexlab{a}.
+\newblock \showarticletitle{A CT-based intratumoral and peritumoral radiomics
+  nomogram for postoperative recurrence risk stratification in localized clear
+  cell renal cell carcinoma}.
+\newblock \bibinfo{journal}{\emph{BMC Medical Imaging}} \bibinfo{volume}{25},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}), \bibinfo{pages}{167}.
+\newblock
+\href{https://doi.org/10.1186/s12880-024-01133-x}{doi:\nolinkurl{10.1186/s12880-024-01133-x}}
+
+
+\bibitem[Li et~al\mbox{.}(2025b)]%
+        {ref94}
+\bibfield{author}{\bibinfo{person}{Xiaoxiao Li}, \bibinfo{person}{Liye Mei},
+  \bibinfo{person}{Mengping Long}, \bibinfo{person}{Jin Huang},
+  \bibinfo{person}{Wei Yang}, \bibinfo{person}{Xin Hao}, \bibinfo{person}{Yi
+  qang Liu}, \bibinfo{person}{Jinxuan Hou}, \bibinfo{person}{Yu Xu},
+  \bibinfo{person}{Fuling Zhou}, \bibinfo{person}{Dupei Wang},
+  \bibinfo{person}{Jianghua Wu}, \bibinfo{person}{Taobo Hu}, {and}
+  \bibinfo{person}{Cheng Lei}.} \bibinfo{year}{2025}\natexlab{b}.
+\newblock \showarticletitle{Accurately matching serial whole slide images for
+  tumor heterogeneity analysis}.
+\newblock \bibinfo{journal}{\emph{Biomedical Signal Processing and Control}}
+  \bibinfo{volume}{87} (\bibinfo{year}{2025}), \bibinfo{pages}{106825}.
+\newblock
+\href{https://doi.org/10.1016/j.bspc.2024.106825}{doi:\nolinkurl{10.1016/j.bspc.2024.106825}}
+
+
+\bibitem[Lin et~al\mbox{.}(2023)]%
+        {ref43}
+\bibfield{author}{\bibinfo{person}{Z. Lin}, \bibinfo{person}{S. Yu},
+  \bibinfo{person}{Z. Kuang}, \bibinfo{person}{D. Pathak}, {and}
+  \bibinfo{person}{D. Ramanan}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Multimodality Helps Unimodality: Cross-Modal
+  Few-Shot Learning with Multimodal Models}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2301.06267}}
+  (\bibinfo{year}{2023}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2301.06267}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Linden et~al\mbox{.}(2025)]%
+        {ref56}
+\bibfield{author}{\bibinfo{person}{F.~H. Linden}, \bibinfo{person}{M. Boesen},
+  \bibinfo{person}{E. Høegh-schmidt}, \bibinfo{person}{J.~U. Nybing},
+  \bibinfo{person}{R.~B.~Mainz Hansen}, \bibinfo{person}{L.~H.~Persson Kopp},
+  \bibinfo{person}{M.~N. Thomsen}, {and} \bibinfo{person}{M.~W. Brejnebøl}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{External Validation of an Automated Segmentation
+  Tool for Abdominal Fat Tissue using DIXON MRI: Data from the CutDM trial}.
+\newblock \bibinfo{journal}{\emph{medRxiv}} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1101/2025.05.14.25327583}{doi:\nolinkurl{10.1101/2025.05.14.25327583}}
+
+
+\bibitem[Lindenberg(2023)]%
+        {ref24}
+\bibfield{author}{\bibinfo{person}{D. Lindenberg}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Multimodal meaning-making in student presentations:
+  the impact of explicit feedback in a German as a foreign language classroom}.
+\newblock \bibinfo{journal}{\emph{Multimodal Communication}}
+  \bibinfo{volume}{12}, \bibinfo{number}{3} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{191--206}.
+\newblock
+\href{https://doi.org/10.1515/mc-2023-2011}{doi:\nolinkurl{10.1515/mc-2023-2011}}
+
+
+\bibitem[Litjens et~al\mbox{.}(2017)]%
+        {ref50}
+\bibfield{author}{\bibinfo{person}{G. Litjens}, \bibinfo{person}{T. Kooi},
+  \bibinfo{person}{B.~E. Bejnordi}, \bibinfo{person}{A.~A.~A. Setio},
+  \bibinfo{person}{F. Ciompi}, \bibinfo{person}{M. Ghafoorian},
+  \bibinfo{person}{J.~A. van~der Laak}, \bibinfo{person}{B. van Ginneken},
+  {and} \bibinfo{person}{C.~I. Sánchez}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{A survey on deep learning in medical image
+  analysis}.
+\newblock \bibinfo{journal}{\emph{Medical Image Analysis}}
+  \bibinfo{volume}{42} (\bibinfo{year}{2017}), \bibinfo{pages}{60--88}.
+\newblock
+\href{https://doi.org/10.1016/j.media.2017.07.005}{doi:\nolinkurl{10.1016/j.media.2017.07.005}}
+
+
+\bibitem[Liu et~al\mbox{.}(2023)]%
+        {ref32}
+\bibfield{author}{\bibinfo{person}{Y. Liu}, \bibinfo{person}{G. Li}, {and}
+  \bibinfo{person}{L. Lin}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Cross-modal causal relational reasoning for
+  event-level visual question answering}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}} \bibinfo{volume}{45}, \bibinfo{number}{10}
+  (\bibinfo{year}{2023}), \bibinfo{pages}{11624--11641}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/10146482/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Ma et~al\mbox{.}(2020)]%
+        {ref105}
+\bibfield{author}{\bibinfo{person}{F. Ma}, \bibinfo{person}{C. Liu},
+  \bibinfo{person}{C. Aggarwal}, \bibinfo{person}{J. Gao}, {and}
+  \bibinfo{person}{J. Han}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Self-paced Multi-view Co-training}.
+\newblock \bibinfo{journal}{\emph{Journal of Machine Learning Research}}
+  \bibinfo{volume}{21}, \bibinfo{number}{182} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{1--31}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmlr.org/papers/volume21/18-794/18-794.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Mataraso et~al\mbox{.}(2025)]%
+        {ref36}
+\bibfield{author}{\bibinfo{person}{S.~J. Mataraso}, \bibinfo{person}{C.~A.
+  Espinosa}, \bibinfo{person}{D. Seong}, \bibinfo{person}{S.~M. Reincke},
+  \bibinfo{person}{E. Berson}, \bibinfo{person}{J.~D. Reiss},
+  \bibinfo{person}{Y. Kim}, \bibinfo{person}{M. Ghanem}, \bibinfo{person}{C.-H.
+  Shu}, \bibinfo{person}{T. James}, \bibinfo{person}{Y. Tan},
+  \bibinfo{person}{S. Shome}, \bibinfo{person}{I.~A. Stelzer},
+  \bibinfo{person}{D. Feyaerts}, \bibinfo{person}{R.~J. Wong},
+  \bibinfo{person}{G.~M. Shaw}, \bibinfo{person}{M.~S. Angst},
+  \bibinfo{person}{B. Gaudilliere}, \bibinfo{person}{D.~K. Stevenson}, {and}
+  \bibinfo{person}{N. Aghaeepour}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A machine learning approach to leveraging
+  electronic health records for enhanced omics analysis}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{7} (\bibinfo{year}{2025}), \bibinfo{pages}{293--306}.
+\newblock
+\href{https://doi.org/10.1038/s42256-024-00974-9}{doi:\nolinkurl{10.1038/s42256-024-00974-9}}
+
+
+\bibitem[Matov(2024)]%
+        {ref14}
+\bibfield{author}{\bibinfo{person}{A. Matov}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Urinary Biomarkers for Disease Detection}.
+\newblock \bibinfo{journal}{\emph{medRxiv}} (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://www.medrxiv.org/content/10.1101/2024.07.30.24311186v1}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Mawalim et~al\mbox{.}(2023)]%
+        {ref20}
+\bibfield{author}{\bibinfo{person}{Candy~Olivia Mawalim},
+  \bibinfo{person}{Shogo Okada}, \bibinfo{person}{Yukiko~I. Nakano}, {and}
+  \bibinfo{person}{Masashi Unoki}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Personality trait estimation in group discussions
+  using multimodal analysis and speaker embedding}.
+\newblock \bibinfo{journal}{\emph{Journal on Multimodal User Interfaces}}
+  \bibinfo{volume}{17} (\bibinfo{year}{2023}), \bibinfo{pages}{47--63}.
+\newblock
+\href{https://doi.org/10.1007/s12193-023-00401-0}{doi:\nolinkurl{10.1007/s12193-023-00401-0}}
+
+
+\bibitem[Mazzara et~al\mbox{.}(2024)]%
+        {ref68}
+\bibfield{author}{\bibinfo{person}{Camille Mazzara}, \bibinfo{person}{Pietro
+  Sorrentino}, \bibinfo{person}{Irene Altuna}, \bibinfo{person}{Roma
+  Maghsoudlou}, \bibinfo{person}{Fabio Ferrarelli}, \bibinfo{person}{Diego
+  Sona}, \bibinfo{person}{Luca Cocchi}, \bibinfo{person}{Alessandro Gozzi},
+  \bibinfo{person}{Carlo Miniussi}, \bibinfo{person}{Silvia~De Santis},
+  \bibinfo{person}{Francesca Pistoia}, \bibinfo{person}{Kenji Kansaku},
+  \bibinfo{person}{Pau Erola}, \bibinfo{person}{Gregoire Danaila},
+  \bibinfo{person}{Carlo Cavedini}, \bibinfo{person}{Barry~A. Giesbrecht},
+  \bibinfo{person}{Gordon Sajda}, \bibinfo{person}{Rodolphe Jenatton}, {and}
+  \bibinfo{person}{Emmanuel Daucé}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Mapping brain lesions to conduction delays: the
+  next step for personalized brain models in Multiple Sclerosis}.
+\newblock \bibinfo{journal}{\emph{medRxiv}} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1101/2024.07.10.24310150}{doi:\nolinkurl{10.1101/2024.07.10.24310150}}
+\newblock
+\shownote{Preprint}.
+
+
+\bibitem[Mehta et~al\mbox{.}(2019)]%
+        {ref92}
+\bibfield{author}{\bibinfo{person}{N. Mehta}, \bibinfo{person}{Z. Pandit},
+  {and} \bibinfo{person}{S. Shukla}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Transforming healthcare with big data analytics and
+  artificial intelligence: A systematic mapping study}.
+\newblock \bibinfo{journal}{\emph{Journal of Biomedical Informatics}}
+  \bibinfo{volume}{100} (\bibinfo{year}{2019}), \bibinfo{pages}{Article
+  103311}.
+\newblock
+\href{https://doi.org/10.1016/J.JBI.2019.103311}{doi:\nolinkurl{10.1016/J.JBI.2019.103311}}
+
+
+\bibitem[Meng et~al\mbox{.}(2025)]%
+        {ref55}
+\bibfield{author}{\bibinfo{person}{F. Meng}, \bibinfo{person}{T. Zhang},
+  \bibinfo{person}{Y. Pan}, \bibinfo{person}{X. Kan}, \bibinfo{person}{Y. Xia},
+  \bibinfo{person}{M. Xu}, \bibinfo{person}{J. Cai}, \bibinfo{person}{F. Liu},
+  {and} \bibinfo{person}{Y. Ge}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{A deep learning algorithm for automated adrenal
+  gland segmentation on non-contrast CT images}.
+\newblock \bibinfo{journal}{\emph{BMC Medical Imaging}} \bibinfo{volume}{25},
+  \bibinfo{number}{1} (\bibinfo{year}{2025}), \bibinfo{pages}{142}.
+\newblock
+\href{https://doi.org/10.1186/s12880-025-01682-5}{doi:\nolinkurl{10.1186/s12880-025-01682-5}}
+
+
+\bibitem[Mohammed et~al\mbox{.}(2022)]%
+        {ref85}
+\bibfield{author}{\bibinfo{person}{S. Mohammed}, \bibinfo{person}{T.-H. Kim},
+  \bibinfo{person}{R.-S. Chang}, {and} \bibinfo{person}{C. Ramos}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Guest Editorial: Data Analytics for Public Health
+  Care}.
+\newblock \bibinfo{journal}{\emph{IEEE Journal of Biomedical and Health
+  Informatics}} \bibinfo{volume}{26}, \bibinfo{number}{4}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{1409--1410}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9757035/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Nguyen-Ky et~al\mbox{.}(2021)]%
+        {ref96}
+\bibfield{author}{\bibinfo{person}{T. Nguyen-Ky}, \bibinfo{person}{H.~D. Tuan},
+  \bibinfo{person}{A.~V. Savkin}, \bibinfo{person}{M.~N. Do}, {and}
+  \bibinfo{person}{N.~T.~T. Van}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Real-Time EEG Signal Classification for Monitoring
+  and Predicting the Transition Between Different Anaesthetic States}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Biomedical Engineering}}
+  \bibinfo{volume}{68}, \bibinfo{number}{5} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{1450--1458}.
+\newblock
+\href{https://doi.org/10.1109/TBME.2021.3053019}{doi:\nolinkurl{10.1109/TBME.2021.3053019}}
+
+
+\bibitem[Nikolova-Simons et~al\mbox{.}(2023)]%
+        {ref81}
+\bibfield{author}{\bibinfo{person}{M. Nikolova-Simons}, \bibinfo{person}{R.
+  Keldermann}, \bibinfo{person}{Y. Peters}, \bibinfo{person}{W. Compagner},
+  \bibinfo{person}{L. Montenij}, \bibinfo{person}{Y. de Jong}, {and}
+  \bibinfo{person}{R.~A. Bouwman}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Predictive analytics for cardio-thoracic surgery
+  duration as a stepstone towards data-driven capacity management}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}}  \bibinfo{volume}{6}
+  (\bibinfo{year}{2023}).
+\newblock
+\href{https://doi.org/10.1038/s41746-023-00938-0}{doi:\nolinkurl{10.1038/s41746-023-00938-0}}
+
+
+\bibitem[Okeke and Ihekweazu(2021)]%
+        {ref2}
+\bibfield{author}{\bibinfo{person}{I.~N. Okeke} {and} \bibinfo{person}{C.
+  Ihekweazu}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{The importance of molecular diagnostics for
+  infectious diseases in low-resource settings}.
+\newblock \bibinfo{journal}{\emph{Nature Reviews Microbiology}}
+  \bibinfo{volume}{19} (\bibinfo{year}{2021}), \bibinfo{pages}{547--548}.
+\newblock
+\href{https://doi.org/10.1038/s41579-021-00598-5}{doi:\nolinkurl{10.1038/s41579-021-00598-5}}
+
+
+\bibitem[Pierangeli et~al\mbox{.}(2025)]%
+        {ref12}
+\bibfield{author}{\bibinfo{person}{A. Pierangeli}, \bibinfo{person}{O.
+  Turriziani}, \bibinfo{person}{M. Fracella}, \bibinfo{person}{R. Campagna},
+  \bibinfo{person}{F. Frasca}, \bibinfo{person}{A. D'Auria},
+  \bibinfo{person}{C. Scagnolari}, \bibinfo{person}{P. Roberto},
+  \bibinfo{person}{L. Cinti}, \bibinfo{person}{G. D'Ettorre},
+  \bibinfo{person}{G. Ceccarelli}, \bibinfo{person}{L. Petrarca},
+  \bibinfo{person}{R. Nenna}, \bibinfo{person}{F. Midulla}, \bibinfo{person}{G.
+  Galardo}, {and} \bibinfo{person}{G. Antonelli}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{The added value of diagnostics to characterize
+  age-specific patterns of respiratory viral infections and coinfections and to
+  detect emerging threats}.
+\newblock \bibinfo{journal}{\emph{BMC Infectious Diseases}}
+  \bibinfo{volume}{25} (\bibinfo{year}{2025}), \bibinfo{pages}{404}.
+\newblock
+\href{https://doi.org/10.1186/s12879-025-10693-0}{doi:\nolinkurl{10.1186/s12879-025-10693-0}}
+
+
+\bibitem[Planamente et~al\mbox{.}(2024)]%
+        {ref34}
+\bibfield{author}{\bibinfo{person}{Mirco Planamente}, \bibinfo{person}{Chiara
+  Plizzari}, \bibinfo{person}{Simone~Alberto Peirone}, \bibinfo{person}{Barbara
+  Caputo}, {and} \bibinfo{person}{Andrea Bottino}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Relative Norm Alignment for Tackling Domain Shift
+  in Deep Multi-modal Classification}.
+\newblock \bibinfo{journal}{\emph{International Journal of Computer Vision}}
+  \bibinfo{volume}{132} (\bibinfo{year}{2024}), \bibinfo{pages}{2618--2638}.
+\newblock
+\href{https://doi.org/10.1007/s11263-024-01998-9}{doi:\nolinkurl{10.1007/s11263-024-01998-9}}
+
+
+\bibitem[Pooch et~al\mbox{.}(2025)]%
+        {ref57}
+\bibfield{author}{\bibinfo{person}{E.~H.~P. Pooch}, \bibinfo{person}{G.
+  Agrotis}, \bibinfo{person}{L. Cai}, \bibinfo{person}{M. Emberton},
+  \bibinfo{person}{T.~T. Shah}, \bibinfo{person}{H.~U. Ahmed},
+  \bibinfo{person}{R.~G.~H. Beets-Tan}, \bibinfo{person}{S. Benson},
+  \bibinfo{person}{T. Janssen}, {and} \bibinfo{person}{I.~G. Schoots}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Semi-Supervised Learning in Prostate MRI Tumor
+  Segmentation Approaches Fully-Supervised Performance on External Validation}.
+\newblock \bibinfo{journal}{\emph{medRxiv}} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1101/2025.05.13.25327456}{doi:\nolinkurl{10.1101/2025.05.13.25327456}}
+
+
+\bibitem[Rasul et~al\mbox{.}(2024)]%
+        {ref89}
+\bibfield{author}{\bibinfo{person}{R.~A. Rasul}, \bibinfo{person}{P.~K. Saha},
+  \bibinfo{person}{D. Bala}, \bibinfo{person}{S. Karim},
+  \bibinfo{person}{Md.~I. Abdullah}, {and} \bibinfo{person}{B.~P. Saha}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{An evaluation of machine learning approaches for
+  early diagnosis of autism spectrum disorder}.
+\newblock \bibinfo{journal}{\emph{Healthcare Analytics}}  \bibinfo{volume}{7}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{100293}.
+\newblock
+\href{https://doi.org/10.1016/j.health.2024.100293}{doi:\nolinkurl{10.1016/j.health.2024.100293}}
+
+
+\bibitem[Recht et~al\mbox{.}(2023)]%
+        {ref106}
+\bibfield{author}{\bibinfo{person}{M.~P. Recht}, \bibinfo{person}{L.~M. White},
+  \bibinfo{person}{J. Fritz}, {and} \bibinfo{person}{D.~L. Resnick}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Advances in Musculoskeletal Imaging: Recent
+  Developments and Predictions for the Future}.
+\newblock \bibinfo{journal}{\emph{Radiology}} \bibinfo{volume}{308},
+  \bibinfo{number}{2} (\bibinfo{year}{2023}), \bibinfo{pages}{e230615}.
+\newblock
+\href{https://doi.org/10.1148/radiol.230615}{doi:\nolinkurl{10.1148/radiol.230615}}
+
+
+\bibitem[Roth et~al\mbox{.}(2022)]%
+        {ref51}
+\bibfield{author}{\bibinfo{person}{H.~R. Roth}, \bibinfo{person}{X. Zhuang},
+  \bibinfo{person}{D. Shen}, {and} \bibinfo{person}{C. Shen}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Federated learning for medical image analysis}.
+\newblock \bibinfo{journal}{\emph{Medical Image Analysis}}
+  \bibinfo{volume}{75} (\bibinfo{year}{2022}), \bibinfo{pages}{102298}.
+\newblock
+\href{https://doi.org/10.1016/j.media.2021.102298}{doi:\nolinkurl{10.1016/j.media.2021.102298}}
+
+
+\bibitem[Samuel et~al\mbox{.}(2022)]%
+        {ref97}
+\bibfield{author}{\bibinfo{person}{O.~W. Samuel}, \bibinfo{person}{Y.~Z.
+  Kulwa}, \bibinfo{person}{G. Li}, \bibinfo{person}{R.~N. Khushaba}, {and}
+  \bibinfo{person}{S.~S. Ge}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Multiresolution Dual-Polynomial Decomposition
+  Approach for Optimized Characterization of Motor Intent in Myoelectric
+  Control Systems}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Biomedical Engineering}}
+  \bibinfo{volume}{69}, \bibinfo{number}{10} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{3122--3133}.
+\newblock
+\href{https://doi.org/10.1109/tbme.2022.3221799}{doi:\nolinkurl{10.1109/tbme.2022.3221799}}
+
+
+\bibitem[Sch\"ack et~al\mbox{.}(2018)]%
+        {ref95}
+\bibfield{author}{\bibinfo{person}{T. Sch\"ack}, \bibinfo{person}{M. Muma},
+  \bibinfo{person}{M. Feng}, \bibinfo{person}{C. Guan}, {and}
+  \bibinfo{person}{A.~M. Zoubir}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Robust Nonlinear Causality Analysis of
+  Nonstationary Multivariate Physiological Time Series}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Biomedical Engineering}}
+  \bibinfo{volume}{65}, \bibinfo{number}{6} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{1213--1225}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/7934390}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Setegn and Dejene(2025)]%
+        {ref11}
+\bibfield{author}{\bibinfo{person}{Gizachew~Mulu Setegn} {and}
+  \bibinfo{person}{Belayneh~Endalamaw Dejene}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Explainable AI for Symptom-Based Detection of
+  Monkeypox: a machine learning approach}.
+\newblock \bibinfo{journal}{\emph{BMC Infectious Diseases}}
+  \bibinfo{volume}{25} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s12879-025-10738-4}{doi:\nolinkurl{10.1186/s12879-025-10738-4}}
+
+
+\bibitem[Shi et~al\mbox{.}(2024)]%
+        {ref67}
+\bibfield{author}{\bibinfo{person}{Chengdong Shi}, \bibinfo{person}{Kai Yu},
+  \bibinfo{person}{Yu Hu}, \bibinfo{person}{Yuantao Wang}, \bibinfo{person}{Fan
+  Bu}, \bibinfo{person}{Ji Lu}, {and} \bibinfo{person}{Weigang Wang}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Diagnostic Efficacy of Various Imaging Modalities
+  Across Different Stages of Prostate Cancer: A Network Meta-Analysis of
+  Diagnostic Studies}.
+\newblock \bibinfo{journal}{\emph{medRxiv}} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1101/2024.09.28.24314285}{doi:\nolinkurl{10.1101/2024.09.28.24314285}}
+
+
+\bibitem[Sollini et~al\mbox{.}(2021)]%
+        {ref45}
+\bibfield{author}{\bibinfo{person}{F. Sollini}, \bibinfo{person}{R. Antunovic},
+  \bibinfo{person}{A. Chiti}, {and} \bibinfo{person}{H.~J. W.~L. Aerts}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{PET Radiomics in NSCLC: State of the Art and a
+  Proposal for Harmonization of Methodology}.
+\newblock \bibinfo{journal}{\emph{Radiology}} \bibinfo{volume}{298},
+  \bibinfo{number}{2} (\bibinfo{year}{2021}), \bibinfo{pages}{548--560}.
+\newblock
+\href{https://doi.org/10.1148/radiol.2021200616}{doi:\nolinkurl{10.1148/radiol.2021200616}}
+
+
+\bibitem[Song et~al\mbox{.}(2022)]%
+        {ref100}
+\bibfield{author}{\bibinfo{person}{A. Song}, \bibinfo{person}{L. Xu},
+  \bibinfo{person}{L. Wang}, \bibinfo{person}{B. Wang}, \bibinfo{person}{X.
+  Yang}, \bibinfo{person}{B. Xu}, \bibinfo{person}{B. Yang}, {and}
+  \bibinfo{person}{S.~E. Greenwald}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Automatic coronary artery segmentation of CCTA
+  images with an efficient feature-fusion-and-rectification 3D-UNet}.
+\newblock \bibinfo{journal}{\emph{IEEE Journal of Biomedical and Health
+  Informatics}} \bibinfo{volume}{26}, \bibinfo{number}{8}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{4044--4055}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9405480}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Song and Lee(2024)]%
+        {ref101}
+\bibfield{author}{\bibinfo{person}{Min-Seo Song} {and}
+  \bibinfo{person}{Seung-Bo Lee}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Comparative study of time-frequency transformation
+  methods for ECG signal classification}.
+\newblock \bibinfo{journal}{\emph{Frontiers in Signal Processing}}
+  \bibinfo{volume}{4} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.3389/frsip.2024.1322334}{doi:\nolinkurl{10.3389/frsip.2024.1322334}}
+
+
+\bibitem[Srinivas and Runkana(2024)]%
+        {ref42}
+\bibfield{author}{\bibinfo{person}{S.~S. Srinivas} {and} \bibinfo{person}{V.
+  Runkana}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Cross-Modal Learning for Chemistry Property
+  Prediction: Large Language Models Meet Graph Machine Learning}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2408.14964}}
+  (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2408.14964}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Stahlschmidt et~al\mbox{.}(2023)]%
+        {ref37}
+\bibfield{author}{\bibinfo{person}{S.~R. Stahlschmidt}, \bibinfo{person}{B.
+  Ulfenborg}, {and} \bibinfo{person}{J. Synnergren}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Multimodal deep learning for biomedical data
+  fusion: a review}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{5} (\bibinfo{year}{2023}), \bibinfo{pages}{351--362}.
+\newblock
+\urldef\tempurl%
+\url{https://www.nature.com/articles/s42256-023-00629-w}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Sundermann et~al\mbox{.}(2022)]%
+        {ref7}
+\bibfield{author}{\bibinfo{person}{A.~J. Sundermann}, \bibinfo{person}{J.
+  Chen}, \bibinfo{person}{P. Kumar}, \bibinfo{person}{A.~M. Ayres},
+  \bibinfo{person}{S.~T. Cho}, \bibinfo{person}{C. Ezeonwuka},
+  \bibinfo{person}{M.~P. Griffith}, \bibinfo{person}{J.~K. Miller},
+  \bibinfo{person}{M.~M. Mustapha}, \bibinfo{person}{A.~W. Pasculle},
+  \bibinfo{person}{M.~I. Saul}, \bibinfo{person}{K.~A. Shutt},
+  \bibinfo{person}{V. Srinivasa}, \bibinfo{person}{K. Waggle},
+  \bibinfo{person}{D.~J. Snyder}, \bibinfo{person}{V.~S. Cooper},
+  \bibinfo{person}{D.~Van Tyne}, \bibinfo{person}{G.~M. Snyder},
+  \bibinfo{person}{J.~W. Marsh}, \bibinfo{person}{A. Dubrawski},
+  \bibinfo{person}{M.~S. Roberts}, {and} \bibinfo{person}{L.~H. Harrison}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Whole-Genome Sequencing Surveillance and Machine
+  Learning of the Electronic Health Record for Enhanced Healthcare Outbreak
+  Detection}.
+\newblock \bibinfo{journal}{\emph{Clinical Infectious Diseases}}
+  \bibinfo{volume}{75}, \bibinfo{number}{3} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{476--482}.
+\newblock
+\href{https://doi.org/10.1093/cid/ciab946}{doi:\nolinkurl{10.1093/cid/ciab946}}
+
+
+\bibitem[Sundermann et~al\mbox{.}(2025)]%
+        {ref8}
+\bibfield{author}{\bibinfo{person}{A.~J. Sundermann}, \bibinfo{person}{P.
+  Kumar}, \bibinfo{person}{M.~P. Griffith}, \bibinfo{person}{K.~D. Waggle},
+  \bibinfo{person}{V.~Rangachar Srinivasa}, \bibinfo{person}{N. Raabe},
+  \bibinfo{person}{E.~G. Mills}, \bibinfo{person}{H. Coyle},
+  \bibinfo{person}{D. Ereifej}, \bibinfo{person}{H.~M. Creager},
+  \bibinfo{person}{A. Ayres}, \bibinfo{person}{D.~Van Tyne},
+  \bibinfo{person}{L.~L. Pless}, \bibinfo{person}{G.~M. Snyder},
+  \bibinfo{person}{M. Roberts}, {and} \bibinfo{person}{L.~H. Harrison}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Real-Time Genomic Surveillance for Enhanced
+  Healthcare Outbreak Detection and Control: Clinical and Economic Impact}.
+\newblock \bibinfo{journal}{\emph{Clinical Infectious Diseases}}
+  (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1093/cid/ciaf216}{doi:\nolinkurl{10.1093/cid/ciaf216}}
+
+
+\bibitem[van Kampen and Wildfeuer(2024)]%
+        {ref16}
+\bibfield{author}{\bibinfo{person}{D. van Kampen} {and} \bibinfo{person}{J.
+  Wildfeuer}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Cohesion in physical movie releases: developing a
+  framework for the multimodal analysis of complex three-dimensional
+  packaging}.
+\newblock \bibinfo{journal}{\emph{Multimodality \& Society}}
+  (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1177/26349795241306993}{doi:\nolinkurl{10.1177/26349795241306993}}
+
+
+\bibitem[Vobecky et~al\mbox{.}(2025)]%
+        {ref33}
+\bibfield{author}{\bibinfo{person}{A. Vobecky}, \bibinfo{person}{D. Hurych},
+  \bibinfo{person}{O. Siméoni}, \bibinfo{person}{S. Gidaris},
+  \bibinfo{person}{A. Bursuc}, \bibinfo{person}{P. Pérez}, {and}
+  \bibinfo{person}{J. Sivic}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Unsupervised Semantic Segmentation of Urban Scenes
+  via Cross-Modal Distillation}.
+\newblock \bibinfo{journal}{\emph{International Journal of Computer Vision}}
+  \bibinfo{volume}{133}, \bibinfo{number}{6} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{3519--3541}.
+\newblock
+\href{https://doi.org/10.1007/s11263-024-02320-3}{doi:\nolinkurl{10.1007/s11263-024-02320-3}}
+
+
+\bibitem[Wang et~al\mbox{.}(2024)]%
+        {ref30}
+\bibfield{author}{\bibinfo{person}{Jiaqi Wang}, \bibinfo{person}{Hanqi Jiang},
+  \bibinfo{person}{Yiheng Liu}, \bibinfo{person}{Chong Ma}, \bibinfo{person}{Xu
+  Zhang}, \bibinfo{person}{Yi Pan}, \bibinfo{person}{Mengyuan Liu},
+  \bibinfo{person}{Peiran Gu}, \bibinfo{person}{Sichen Xia},
+  \bibinfo{person}{Wenjun Li}, \bibinfo{person}{Yutong Zhang},
+  \bibinfo{person}{Zihao Wu}, \bibinfo{person}{Zhengliang Liu},
+  \bibinfo{person}{Tianyang Zhong}, \bibinfo{person}{Bao Ge},
+  \bibinfo{person}{Tuo Zhang}, \bibinfo{person}{Ning Qiang},
+  \bibinfo{person}{Xintao Hu}, \bibinfo{person}{Xi Jiang}, \bibinfo{person}{Xin
+  Zhang}, \bibinfo{person}{Wei Zhang}, \bibinfo{person}{Dinggang Shen},
+  \bibinfo{person}{Tianming Liu}, {and} \bibinfo{person}{Shu Zhang}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{A Comprehensive Review of Multimodal Large Language
+  Models: Performance and Challenges Across Different Tasks}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2408.01319}}
+  (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2408.01319}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Wang et~al\mbox{.}(2022)]%
+        {ref84}
+\bibfield{author}{\bibinfo{person}{M. Wang}, \bibinfo{person}{S. Li},
+  \bibinfo{person}{T. Zheng}, \bibinfo{person}{N. Li}, \bibinfo{person}{Q.
+  Shi}, \bibinfo{person}{X. Zhuo}, \bibinfo{person}{R. Ding}, {and}
+  \bibinfo{person}{Y. Huang}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Big Data Health Care Platform With Multisource
+  Heterogeneous Data Integration and Massive High-Dimensional Data Governance
+  for Large Hospitals: Design, Development, and Application}.
+\newblock \bibinfo{journal}{\emph{JMIR Medical Informatics}}
+  \bibinfo{volume}{10}, \bibinfo{number}{4} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{e36481}.
+\newblock
+\href{https://doi.org/10.2196/36481}{doi:\nolinkurl{10.2196/36481}}
+
+
+\bibitem[Weitzel et~al\mbox{.}(2021)]%
+        {ref4}
+\bibfield{author}{\bibinfo{person}{T. Weitzel}, \bibinfo{person}{C. Pérez},
+  \bibinfo{person}{D. Tapia}, \bibinfo{person}{P. Legarraga}, {and}
+  \bibinfo{person}{L. Porte}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{SARS-CoV-2 rapid antigen detection tests}.
+\newblock \bibinfo{journal}{\emph{The Lancet Infectious Diseases}}
+  \bibinfo{volume}{21}, \bibinfo{number}{8} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{1067--1068}.
+\newblock
+\href{https://doi.org/10.1016/S1473-3099(21)00249-8}{doi:\nolinkurl{10.1016/S1473-3099(21)00249-8}}
+
+
+\bibitem[Westerland et~al\mbox{.}(2021)]%
+        {ref66}
+\bibfield{author}{\bibinfo{person}{O. Westerland}, \bibinfo{person}{A. Amlani},
+  \bibinfo{person}{C. Kelly-Morland}, \bibinfo{person}{M. Fraczek},
+  \bibinfo{person}{K. Bailey}, \bibinfo{person}{M. Gleeson},
+  \bibinfo{person}{I. El-Najjar}, \bibinfo{person}{M. Streetly},
+  \bibinfo{person}{P. Bassett}, \bibinfo{person}{G.~J.~R. Cook},
+  \bibinfo{person}{V. Goh}, \bibinfo{person}{London Myeloma Imaging Research
+  Group~at Guy’s \& St Thomas’~Hospital}, {and}
+  \bibinfo{person}{King’s~College London}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Comparison of the diagnostic performance and impact
+  on management of 18F-FDG PET/CT and whole-body MRI in multiple myeloma}.
+\newblock \bibinfo{journal}{\emph{European Journal of Nuclear Medicine and
+  Molecular Imaging}}  \bibinfo{volume}{48} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{2558--2565}.
+\newblock
+\href{https://doi.org/10.1007/s00259-020-05182-2}{doi:\nolinkurl{10.1007/s00259-020-05182-2}}
+
+
+\bibitem[Xie et~al\mbox{.}(2024)]%
+        {ref47}
+\bibfield{author}{\bibinfo{person}{Q. Xie}, \bibinfo{person}{Y. Li},
+  \bibinfo{person}{N. He}, \bibinfo{person}{M. Ning}, \bibinfo{person}{K. Ma},
+  \bibinfo{person}{G. Wang}, \bibinfo{person}{Y. Lian}, {and}
+  \bibinfo{person}{Y. Zheng}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Unsupervised Domain Adaptation for Medical Image
+  Segmentation by Disentanglement Learning and Self-Training}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Medical Imaging}}
+  \bibinfo{volume}{43}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{4--14}.
+\newblock
+\href{https://doi.org/10.1109/TMI.2023.3324198}{doi:\nolinkurl{10.1109/TMI.2023.3324198}}
+
+
+\bibitem[Yang and Li(2025)]%
+        {ref10}
+\bibfield{author}{\bibinfo{person}{X. Yang} {and} \bibinfo{person}{J. Li}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Learn from the SARS-CoV-2 nucleic acid test to
+  increase the experience of dealing with the 'disease X'}.
+\newblock \bibinfo{journal}{\emph{BMC Infectious Diseases}}
+  \bibinfo{volume}{25} (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-025-10991-7}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Zahedani et~al\mbox{.}(2023)]%
+        {ref79}
+\bibfield{author}{\bibinfo{person}{A.~Dehghani Zahedani}, \bibinfo{person}{T.
+  McLaughlin}, \bibinfo{person}{A. Veluvali}, \bibinfo{person}{N. Aghaeepour},
+  \bibinfo{person}{A. Hosseinian}, \bibinfo{person}{S. Agarwal},
+  \bibinfo{person}{J. Ruan}, \bibinfo{person}{S. Tripathi}, \bibinfo{person}{M.
+  Woodward}, \bibinfo{person}{N. Hashemi}, {and} \bibinfo{person}{M. Snyder}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Digital health application integrating wearable
+  data and behavioral patterns improves metabolic health}.
+\newblock \bibinfo{journal}{\emph{npj Digital Medicine}}  \bibinfo{volume}{6}
+  (\bibinfo{year}{2023}).
+\newblock
+\href{https://doi.org/10.1038/s41746-023-00956-y}{doi:\nolinkurl{10.1038/s41746-023-00956-y}}
+
+
+\bibitem[Zhang et~al\mbox{.}(2024)]%
+        {ref78}
+\bibfield{author}{\bibinfo{person}{Q. Zhang}, \bibinfo{person}{Y. Wei},
+  \bibinfo{person}{Z. Han}, \bibinfo{person}{H. Fu}, \bibinfo{person}{X. Peng},
+  \bibinfo{person}{C. Deng}, \bibinfo{person}{Q. Hu}, \bibinfo{person}{C. Xu},
+  \bibinfo{person}{J. Wen}, \bibinfo{person}{D. Hu}, {and} \bibinfo{person}{C.
+  Zhang}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Multimodal Fusion on Low-quality Data: A
+  Comprehensive Survey}.
+\newblock \bibinfo{journal}{\emph{arXiv preprint arXiv:2404.18947}}
+  (\bibinfo{date}{Nov.} \bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2404.18947}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Zhu et~al\mbox{.}(2020)]%
+        {ref29}
+\bibfield{author}{\bibinfo{person}{Wenwu Zhu}, \bibinfo{person}{Xin Wang},
+  {and} \bibinfo{person}{Hongzhi Li}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Multi-modal Deep Analysis for Multimedia}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Circuits and Systems for
+  Video Technology}} (\bibinfo{year}{2020}).
+\newblock
+\href{https://doi.org/10.1109/TCSVT.2019.2940647}{doi:\nolinkurl{10.1109/TCSVT.2019.2940647}}
+
+
+\bibitem[Zhu et~al\mbox{.}(2025)]%
+        {ref35}
+\bibfield{author}{\bibinfo{person}{X.-F. Zhu}, \bibinfo{person}{T. Xu},
+  \bibinfo{person}{Z. t. Liu}, \bibinfo{person}{Z. Tang},
+  \bibinfo{person}{X.-J. Wu}, {and} \bibinfo{person}{J. Kittler}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{UniMod1K: A Dataset for Multimodal Learning with
+  Vision, Depth, and Language}.
+\newblock \bibinfo{journal}{\emph{International Journal of Computer Vision}}
+  \bibinfo{volume}{133}, \bibinfo{number}{6} (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://link.springer.com/journal/11263/volumes-and-issues/133-6}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Special Issue on Multimodal Learning}.
+
+
+\end{thebibliography}
