@@ -26,8 +26,50 @@ AURORA is a modular, multi-agent framework for automated academic survey generat
 │   └── Contains citations, papers, and outputs per area
 │`full_detailed_review_rubric.json`  #The complete structured rubric used for reviewer simulation, broken down into 7 categories and 20+ sub-criteria. This rubric powers the Agentic Reinforcement Learning loop by producing standardized, interpretable feedback that drives self-improvement.
 
-###
- 
+## Source code
+##Environment Setup
+### 1. Install Python Requirements
+```sh
+pip install -r requirements.txt
+```
+
+###2. Install LaTeX
+You must have a working LaTeX toolchain (pdflatex, bibtex).
+
+```sh
+sudo apt install texlive-full
+```
+##Configuration
+Updated the API_KEY for LLMS in .env file with the following content:
+
+SERPER_API_KEY=YOUR_SERPER_API_KEY
+PAPER_COUNT=15
+JOURNAL=acm
+OPENAI_API_KEY=YOUR_OPENAI_API_KEY
+GEMINI_API_KEY=YOUR_GEMINI_API_KEY
+MODEL=gpt-4.1
+TEMPERATURE=0.7
+TOPIC=
+ANTHROPIC_API_KEY=YOUR_ANTHROPIC_API_KEY
+## Usage
+
+### One-click: Full Pipeline
+Run everything from scratch:
+
+```sh
+python run_all.py
+
+```
+### Phase-by-phase
+You can also run each phase individually depending on your needs (e.g., search, summarization, LaTeX build, BibTeX conversion, etc.).
+See individual scripts for details.
+### Notes
+CrewAI Environment: Ensure all required CrewAI/model packages are installed and configured.
+
+Script Flexibility: Each script can be run independently for debugging or research customization.
+
+Topic/Model Config: Change the .env file for different topics, paper counts, or LLM providers.
+tly.
 ---
 
 ### `partial_outlines/`
