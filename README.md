@@ -27,19 +27,19 @@ AURORA is a modular, multi-agent framework for automated academic survey generat
 │`full_detailed_review_rubric.json`  #The complete structured rubric used for reviewer simulation, broken down into 7 categories and 20+ sub-criteria. This rubric powers the Agentic Reinforcement Learning loop by producing standardized, interpretable feedback that drives self-improvement.
 
 ## Source code
-##Environment Setup
+## Environment Setup
 ### 1. Install Python Requirements
 ```sh
 pip install -r requirements.txt
 ```
 
-###2. Install LaTeX
+### 2. Install LaTeX
 You must have a working LaTeX toolchain (pdflatex, bibtex).
 
 ```sh
 sudo apt install texlive-full
 ```
-##Configuration
+## Configuration
 Updated the API_KEY for LLMS in .env file with the following content:
 
 SERPER_API_KEY=YOUR_SERPER_API_KEY
