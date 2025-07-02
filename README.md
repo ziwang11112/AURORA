@@ -116,14 +116,15 @@ sudo apt install texlive-full
 Updated the API_KEY for LLMS in .env file with the following content:
 
 SERPER_API_KEY=YOUR_SERPER_API_KEY
-PAPER_COUNT=15
-JOURNAL=acm
+PAPER_COUNT=15                # Number of papers per topic
+JOURNAL=acm                   # Target journal
 OPENAI_API_KEY=YOUR_OPENAI_API_KEY
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
-MODEL=gpt-4.1
+MODEL=gpt-4.1                 # (e.g., gpt-4.1, gpt-4.1-mini, gemini-1.5-pro, etc.)
 TEMPERATURE=0.7
-TOPIC=
+TOPIC=                        # Topic will be set in the first script or batch run
 ANTHROPIC_API_KEY=YOUR_ANTHROPIC_API_KEY
+
 ## Usage
 
 ### One-click: Full Pipeline
@@ -135,26 +136,20 @@ python run_all.py
 ```
 ### Phase-by-phase
 You can also run each phase individually depending on your needs (e.g., search, summarization, LaTeX build, BibTeX conversion, etc.).
-See individual scripts for details.
+See the individual scripts in AURORA_Source_Code/ for details and configuration options.
 ### Notes
-The first stage contains(0userinput.py) human interaction, which ensures the topics will be processed. 
+First Stage (0userinput.py):
+Requires human input for topic selection, ensuring only approved topics proceed through the pipeline.
 
-CrewAI Environment: Ensure all required CrewAI/model packages are installed and configured.
+**CrewAI Environment**:
+Make sure all CrewAI and LLM provider packages are installed and correctly configured.
 
-Script Flexibility: Each script can be run independently for debugging or research customization.
+**Script Flexibility**:
+All scripts can be run independently for debugging, custom runs, or partial pipeline execution.
 
-Topic/Model Config: Change the .env file for different topics, paper counts, or LLM providers.
-tly.
----
+**Custom Topics & Models**:
+To switch topics, model backends, or paper counts, update the .env file as needed.
 
+**Questions or issues?** Please see the README or open an issue in this repository.
 
-
- 
-
----
-
- 
-
----
- 
 
