@@ -1,4 +1,4 @@
-# AURORA: Agentic Survey Generation with Rubric-Guided Self-Improvement
+# AURORA:An Agentic Writing System Leveraging Rubric-Guided Reinforcement Learning
 
 AURORA is a modular, multi-agent framework for automated academic survey generation and iterative refinement. It integrates citation-aware writing agents with a rubric-based evaluation loop (Agentic Reinforcement Learning, or ARL) to produce high-quality, self-improving scientific papers.
 
@@ -13,6 +13,7 @@ AURORA is a modular, multi-agent framework for automated academic survey generat
 
 ```text
 .
+├── AURORA_Source_Code                 # Whole pipline source code        
 ├── agent_prompt.py                    # All prompt definitions used by AURORA agents
 ├── citation/                          # Source citations extracted or curated
 ├── partial_outlines/                 # Intermediate outline results
@@ -23,9 +24,9 @@ AURORA is a modular, multi-agent framework for automated academic survey generat
 ├── topics/                           # Research area list (aligned with human-written survey comparisons)
 ├── [research area folders]/          # One folder per survey topic (e.g., LLM reasoning, synthetic data, etc.)
 │   └── Contains citations, papers, and outputs per area
-│`full_detailed_review_rubric.json`  #The complete structured rubric used for reviewer simulation, broken down into 7 categories and 20+ sub-criteria. This rubric powers the Agentic Reinforcement Learning (ARL) loop by producing standardized, interpretable feedback that drives self-improvement.
+│`full_detailed_review_rubric.json`  #The complete structured rubric used for reviewer simulation, broken down into 7 categories and 20+ sub-criteria. This rubric powers the Agentic Reinforcement Learning loop by producing standardized, interpretable feedback that drives self-improvement.
 
-
+###
  
 ---
 
