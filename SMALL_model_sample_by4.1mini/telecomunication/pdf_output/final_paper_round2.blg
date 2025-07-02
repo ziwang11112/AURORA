@@ -1,0 +1,85 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_paper_round2.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Warning--I'm ignoring ref44's extra "note" field
+--line 332 of file references.bib
+Warning--I didn't find a database entry for "smith2020advances"
+Warning--I didn't find a database entry for "johnson2019challenges"
+Warning--I didn't find a database entry for "liu2021deep"
+Warning--I didn't find a database entry for "miller2018symbolic"
+Warning--I didn't find a database entry for "chen2022hybrid"
+Warning--I didn't find a database entry for "ref20"
+Warning--I didn't find a database entry for "ref2"
+Warning--I didn't find a database entry for "ref3"
+Warning--I didn't find a database entry for "ref4"
+Warning--I didn't find a database entry for "ref6"
+Warning--I didn't find a database entry for "ref7"
+Warning--I didn't find a database entry for "ref9"
+Warning--I didn't find a database entry for "ref13"
+Warning--I didn't find a database entry for "ref14"
+Warning--I didn't find a database entry for "ref15"
+Warning--I didn't find a database entry for "ref29"
+Warning--I didn't find a database entry for "ref30"
+Warning--I didn't find a database entry for "ref31"
+Warning--I didn't find a database entry for "ref33"
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "ref47"
+Warning--I didn't find a database entry for "ref45"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--empty year in ref44
+Warning--using n.d. in ref44
+Warning--page numbers missing in both pages and numpages fields in ref26
+Warning--page numbers missing in both pages and numpages fields in ref27
+Warning--page numbers missing in both pages and numpages fields in ref28
+You've used 39 entries,
+            6056 wiz_defined-function locations,
+            1768 strings with 26088 characters,
+and the built_in function-call counts, 47202 in all, are:
+= -- 7583
+> -- 1209
+< -- 0
++ -- 401
+- -- 402
+* -- 3178
+:= -- 4089
+add.period$ -- 197
+call.type$ -- 39
+change.case$ -- 266
+chr.to.int$ -- 39
+cite$ -- 44
+duplicate$ -- 3889
+empty$ -- 2758
+format.name$ -- 526
+if$ -- 12483
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 148
+newline$ -- 463
+num.names$ -- 273
+pop$ -- 1312
+preamble$ -- 1
+purify$ -- 573
+quote$ -- 0
+skip$ -- 1332
+stack$ -- 0
+substring$ -- 3750
+swap$ -- 438
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 652
+warning$ -- 5
+while$ -- 263
+width$ -- 0
+write$ -- 886
+(There were 28 warnings)

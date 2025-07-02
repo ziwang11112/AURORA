@@ -1,0 +1,22 @@
+﻿category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,4.0,3.88,4.12,0.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Analysis,Gaps,4.5,4.5,4.5,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Analysis,Integration,4.12,4.25,4.5,0.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Literature,Balance,4.88,4.62,4.88,0.0,1.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Literature,Comprehensiveness,4.75,4.75,4.75,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Literature,Currency,5.0,4.88,5.0,0.0,1.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Organization,Logical Flow,5.0,4.88,4.88,1.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Organization,Section Clarity,5.0,4.88,5.0,0.0,1.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Organization,Summarization,3.75,3.62,3.62,1.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Originality,Advancement,4.12,4.25,4.38,0.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Originality,Novelty,3.62,3.62,3.62,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Originality,Redundancy Avoidance,4.5,4.0,4.25,0.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Presentation,Formatting,4.88,4.88,4.88,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Presentation,Visuals,1.25,1.25,1.5,0.0,0.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+References,Accuracy,4.5,4.38,4.5,0.0,1.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Scope,Audience,4.5,4.75,4.5,0.0,1.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Scope,Objectives,3.0,2.88,2.75,0.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Scope,Relevance,5.0,4.75,4.75,1.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+TOTAL,,86.36999999999999,85.02,86.38,,,,,A Comprehensive Survey on Efficient Video Generation.pdf

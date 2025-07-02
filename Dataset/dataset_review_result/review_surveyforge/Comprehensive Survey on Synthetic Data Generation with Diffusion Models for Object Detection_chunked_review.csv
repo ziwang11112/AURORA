@@ -1,0 +1,22 @@
+﻿category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,4.38,4.0,4.25,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Analysis,Gaps,4.5,4.38,4.38,1.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Analysis,Integration,4.5,4.12,4.25,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Literature,Balance,4.62,4.62,4.62,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Literature,Comprehensiveness,4.38,4.38,4.25,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Literature,Currency,5.0,5.0,4.88,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Organization,Logical Flow,4.88,4.88,4.88,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Organization,Section Clarity,4.88,4.88,5.0,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Organization,Summarization,3.88,3.75,3.75,1.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Originality,Advancement,3.88,4.0,4.25,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Originality,Novelty,3.62,3.62,3.62,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Originality,Redundancy Avoidance,3.88,4.25,4.12,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Presentation,Formatting,5.0,4.88,4.5,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Presentation,Visuals,1.25,2.25,1.5,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+References,Accuracy,4.88,4.62,4.5,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+References,Appropriateness,5.0,5.0,4.88,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Scope,Audience,4.62,4.62,4.75,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Scope,Objectives,3.0,3.0,3.12,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Scope,Relevance,4.75,4.75,5.0,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+TOTAL,,85.9,86.0,85.5,,,,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf

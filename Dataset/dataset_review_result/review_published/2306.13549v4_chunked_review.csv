@@ -1,0 +1,22 @@
+﻿category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,3.5,3.5,3.5,1.0,1.0,1.0,,2306.13549v4.pdf
+Analysis,Gaps,3.67,3.5,3.5,1.0,0.0,0.0,,2306.13549v4.pdf
+Analysis,Integration,3.67,4.17,4.0,0.0,0.0,0.0,,2306.13549v4.pdf
+Literature,Balance,4.17,4.33,4.17,0.0,1.0,0.0,,2306.13549v4.pdf
+Literature,Comprehensiveness,5.0,5.0,5.0,1.0,1.0,1.0,,2306.13549v4.pdf
+Literature,Currency,5.0,5.0,5.0,1.0,1.0,1.0,,2306.13549v4.pdf
+Organization,Logical Flow,4.83,4.83,5.0,0.0,0.0,1.0,,2306.13549v4.pdf
+Organization,Section Clarity,4.83,4.83,5.0,0.0,0.0,1.0,,2306.13549v4.pdf
+Organization,Summarization,4.0,4.0,4.17,0.0,0.0,1.0,,2306.13549v4.pdf
+Originality,Advancement,3.83,3.83,3.83,1.0,1.0,1.0,,2306.13549v4.pdf
+Originality,Novelty,3.67,3.67,3.67,1.0,1.0,1.0,,2306.13549v4.pdf
+Originality,Redundancy Avoidance,4.33,4.33,4.17,0.0,0.0,1.0,,2306.13549v4.pdf
+Presentation,Formatting,5.0,5.0,4.67,0.0,0.0,1.0,,2306.13549v4.pdf
+Presentation,Language,5.0,4.83,5.0,0.0,1.0,0.0,,2306.13549v4.pdf
+Presentation,Visuals,3.5,3.83,3.5,0.0,1.0,0.0,,2306.13549v4.pdf
+References,Accuracy,5.0,5.0,5.0,1.0,1.0,1.0,,2306.13549v4.pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,2306.13549v4.pdf
+Scope,Audience,4.67,4.5,5.0,0.0,0.0,0.0,,2306.13549v4.pdf
+Scope,Objectives,3.0,2.83,3.17,0.0,0.0,0.0,,2306.13549v4.pdf
+Scope,Relevance,5.0,4.67,5.0,0.0,1.0,0.0,,2306.13549v4.pdf
+TOTAL,,86.67,86.65,87.35000000000001,,,,,2306.13549v4.pdf

@@ -1,0 +1,78 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_paper_round1.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Warning--I didn't find a database entry for "ref15"
+Warning--I didn't find a database entry for "ref2"
+Warning--I didn't find a database entry for "ref4"
+Warning--I didn't find a database entry for "ref5"
+Warning--I didn't find a database entry for "ref12"
+Warning--I didn't find a database entry for "ref26"
+Warning--I didn't find a database entry for "ref6"
+Warning--I didn't find a database entry for "ref38"
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "ref30"
+Warning--I didn't find a database entry for "ref39"
+Warning--I didn't find a database entry for "ref9"
+Warning--I didn't find a database entry for "ref19"
+Warning--I didn't find a database entry for "ref40"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--page numbers missing in both pages and numpages fields in ref34
+Warning--page numbers missing in both pages and numpages fields in ref17
+Warning--page numbers missing in both pages and numpages fields in ref18
+Warning--page numbers missing in both pages and numpages fields in ref16
+Warning--empty publisher in ref13
+Warning--empty address in ref13
+Warning--page numbers missing in both pages and numpages fields in ref14
+Warning--page numbers missing in both pages and numpages fields in ref35
+You've used 28 entries,
+            6056 wiz_defined-function locations,
+            1675 strings with 23918 characters,
+and the built_in function-call counts, 34417 in all, are:
+= -- 5119
+> -- 1272
+< -- 0
++ -- 441
+- -- 415
+* -- 2662
+:= -- 3247
+add.period$ -- 141
+call.type$ -- 28
+change.case$ -- 245
+chr.to.int$ -- 28
+cite$ -- 36
+duplicate$ -- 2667
+empty$ -- 1900
+format.name$ -- 519
+if$ -- 8793
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 109
+newline$ -- 343
+num.names$ -- 196
+pop$ -- 1020
+preamble$ -- 1
+purify$ -- 469
+quote$ -- 0
+skip$ -- 877
+stack$ -- 0
+substring$ -- 2353
+swap$ -- 257
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 476
+warning$ -- 8
+while$ -- 149
+width$ -- 0
+write$ -- 643
+(There were 22 warnings)

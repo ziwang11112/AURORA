@@ -1,0 +1,22 @@
+﻿category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,4.5,4.5,4.5,1.0,1.0,1.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Analysis,Gaps,3.5,3.25,3.25,1.0,0.0,0.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Analysis,Integration,4.75,4.75,4.5,0.0,0.0,1.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Literature,Balance,3.75,4.0,3.75,0.0,1.0,0.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Literature,Comprehensiveness,3.0,3.0,3.0,1.0,1.0,1.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Literature,Currency,4.25,4.25,4.0,0.0,0.0,1.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Organization,Logical Flow,4.75,5.0,4.75,0.0,1.0,0.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Organization,Section Clarity,5.0,5.0,4.75,0.0,0.0,1.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Organization,Summarization,4.25,4.0,4.0,1.0,0.0,0.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Originality,Advancement,4.0,3.75,4.0,0.0,1.0,0.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Originality,Novelty,4.0,3.75,3.75,1.0,0.0,0.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Originality,Redundancy Avoidance,4.5,4.5,4.5,1.0,1.0,1.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Presentation,Formatting,4.5,4.75,4.75,1.0,0.0,0.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Presentation,Visuals,2.75,2.75,2.5,0.0,0.0,1.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+References,Accuracy,3.75,3.5,3.5,1.0,0.0,0.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+References,Appropriateness,4.75,4.5,4.5,1.0,0.0,0.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Scope,Audience,5.0,4.75,4.75,1.0,0.0,0.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Scope,Objectives,2.75,2.75,2.75,1.0,1.0,1.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+Scope,Relevance,4.5,4.75,4.5,0.0,1.0,0.0,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf
+TOTAL,,83.25,82.5,81.0,,,,,Exploring Bong Joon-ho’s Cinematic Universe A.pdf

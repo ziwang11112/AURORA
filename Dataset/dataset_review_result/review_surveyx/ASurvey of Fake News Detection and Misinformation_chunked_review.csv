@@ -1,0 +1,22 @@
+﻿category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,3.38,3.5,3.38,0.0,1.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Analysis,Gaps,3.88,3.88,3.88,1.0,1.0,1.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Analysis,Integration,3.88,4.0,4.0,1.0,0.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Literature,Balance,4.12,4.25,4.38,0.0,0.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Literature,Comprehensiveness,4.5,4.75,4.75,1.0,0.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Literature,Currency,4.75,5.0,5.0,1.0,0.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Organization,Logical Flow,4.5,4.62,4.75,0.0,0.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Organization,Section Clarity,4.75,4.75,4.62,0.0,0.0,1.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Organization,Summarization,4.0,4.0,3.88,0.0,0.0,1.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Originality,Advancement,3.62,3.75,3.75,1.0,0.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Originality,Novelty,3.38,3.38,3.38,1.0,1.0,1.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Originality,Redundancy Avoidance,4.0,3.88,4.12,0.0,0.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Presentation,Formatting,4.88,4.88,4.75,0.0,0.0,1.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Presentation,Language,4.88,4.88,4.88,1.0,1.0,1.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Presentation,Visuals,3.88,3.88,3.75,0.0,0.0,1.0,,ASurvey of Fake News Detection and Misinformation.pdf
+References,Accuracy,4.12,4.38,4.12,0.0,1.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Scope,Audience,4.38,4.62,4.75,0.0,0.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Scope,Objectives,2.5,2.88,2.75,0.0,0.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+Scope,Relevance,4.62,5.0,4.88,0.0,0.0,0.0,,ASurvey of Fake News Detection and Misinformation.pdf
+TOTAL,,83.02,85.28,84.77,,,,,ASurvey of Fake News Detection and Misinformation.pdf

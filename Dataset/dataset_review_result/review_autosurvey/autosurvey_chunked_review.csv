@@ -1,0 +1,22 @@
+﻿category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,3.62,3.62,3.62,1.0,1.0,1.0,,autosurvey.pdf
+Analysis,Gaps,4.25,4.12,4.25,0.0,1.0,0.0,,autosurvey.pdf
+Analysis,Integration,4.0,4.0,4.0,1.0,1.0,1.0,,autosurvey.pdf
+Literature,Balance,4.5,4.38,4.38,1.0,0.0,0.0,,autosurvey.pdf
+Literature,Comprehensiveness,4.12,4.12,4.25,0.0,0.0,1.0,,autosurvey.pdf
+Literature,Currency,5.0,5.0,5.0,1.0,1.0,1.0,,autosurvey.pdf
+Organization,Logical Flow,5.0,4.62,4.75,0.0,0.0,0.0,,autosurvey.pdf
+Organization,Section Clarity,5.0,4.75,4.62,0.0,0.0,0.0,,autosurvey.pdf
+Organization,Summarization,3.25,3.12,3.25,0.0,1.0,0.0,,autosurvey.pdf
+Originality,Advancement,3.88,3.88,3.88,1.0,1.0,1.0,,autosurvey.pdf
+Originality,Novelty,3.5,3.62,3.38,0.0,0.0,0.0,,autosurvey.pdf
+Originality,Redundancy Avoidance,4.38,4.25,4.12,0.0,0.0,0.0,,autosurvey.pdf
+Presentation,Formatting,4.88,4.88,4.62,0.0,0.0,1.0,,autosurvey.pdf
+Presentation,Language,5.0,4.88,4.88,1.0,0.0,0.0,,autosurvey.pdf
+Presentation,Visuals,1.0,1.0,1.0,1.0,1.0,1.0,,autosurvey.pdf
+References,Accuracy,4.75,4.5,4.62,0.0,0.0,0.0,,autosurvey.pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,autosurvey.pdf
+Scope,Audience,4.88,4.62,4.5,0.0,0.0,0.0,,autosurvey.pdf
+Scope,Objectives,2.75,2.38,2.75,0.0,1.0,0.0,,autosurvey.pdf
+Scope,Relevance,5.0,5.0,5.0,1.0,1.0,1.0,,autosurvey.pdf
+TOTAL,,83.75999999999999,81.74000000000001,81.87,,,,,autosurvey.pdf

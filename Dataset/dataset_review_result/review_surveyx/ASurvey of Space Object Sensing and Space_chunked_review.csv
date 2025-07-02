@@ -1,0 +1,22 @@
+﻿category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,3.29,3.43,3.29,0.0,1.0,0.0,,ASurvey of Space Object Sensing and Space.pdf
+Analysis,Gaps,3.29,3.14,3.14,1.0,0.0,0.0,,ASurvey of Space Object Sensing and Space.pdf
+Analysis,Integration,3.86,4.0,3.29,0.0,0.0,0.0,,ASurvey of Space Object Sensing and Space.pdf
+Literature,Balance,3.29,3.43,3.43,1.0,0.0,0.0,,ASurvey of Space Object Sensing and Space.pdf
+Literature,Comprehensiveness,3.71,3.86,3.71,0.0,1.0,0.0,,ASurvey of Space Object Sensing and Space.pdf
+Literature,Currency,4.14,4.14,4.29,0.0,0.0,1.0,,ASurvey of Space Object Sensing and Space.pdf
+Organization,Logical Flow,4.57,4.57,4.43,0.0,0.0,1.0,,ASurvey of Space Object Sensing and Space.pdf
+Organization,Section Clarity,4.71,5.0,4.71,0.0,1.0,0.0,,ASurvey of Space Object Sensing and Space.pdf
+Organization,Summarization,3.71,3.71,3.57,0.0,0.0,1.0,,ASurvey of Space Object Sensing and Space.pdf
+Originality,Advancement,3.29,3.43,3.43,1.0,0.0,0.0,,ASurvey of Space Object Sensing and Space.pdf
+Originality,Novelty,3.29,3.43,3.29,0.0,1.0,0.0,,ASurvey of Space Object Sensing and Space.pdf
+Originality,Redundancy Avoidance,3.57,4.0,3.71,0.0,0.0,0.0,,ASurvey of Space Object Sensing and Space.pdf
+Presentation,Formatting,4.86,4.86,4.71,0.0,0.0,1.0,,ASurvey of Space Object Sensing and Space.pdf
+Presentation,Language,4.71,4.86,4.71,0.0,1.0,0.0,,ASurvey of Space Object Sensing and Space.pdf
+Presentation,Visuals,2.57,2.57,2.57,1.0,1.0,1.0,,ASurvey of Space Object Sensing and Space.pdf
+References,Accuracy,3.71,3.71,3.86,0.0,0.0,1.0,,ASurvey of Space Object Sensing and Space.pdf
+References,Appropriateness,4.43,4.43,4.43,1.0,1.0,1.0,,ASurvey of Space Object Sensing and Space.pdf
+Scope,Audience,4.71,4.57,4.57,1.0,0.0,0.0,,ASurvey of Space Object Sensing and Space.pdf
+Scope,Objectives,2.43,2.43,2.57,0.0,0.0,1.0,,ASurvey of Space Object Sensing and Space.pdf
+Scope,Relevance,4.43,4.43,4.43,1.0,1.0,1.0,,ASurvey of Space Object Sensing and Space.pdf
+TOTAL,,76.57,78.0,76.13999999999999,,,,,ASurvey of Space Object Sensing and Space.pdf

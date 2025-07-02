@@ -1,0 +1,612 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{39}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Aboagye et~al\mbox{.}(2024)]%
+        {ref22}
+\bibfield{author}{\bibinfo{person}{S. Aboagye}, \bibinfo{person}{M.-S.
+  Alouini}, {and} \bibinfo{person}{L. Dai}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Multi-Band Wireless Communication Networks:
+  Fundamentals, Challenges, and Resource Allocation}.
+\newblock \bibinfo{journal}{\emph{IEEE Wireless Communications}}
+  \bibinfo{volume}{31}, \bibinfo{number}{5} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{86--93}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/10438479/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Ahmed et~al\mbox{.}(2023)]%
+        {ref5}
+\bibfield{author}{\bibinfo{person}{A. Ahmed}, \bibinfo{person}{T.~M. Nguyen},
+  {and} \bibinfo{person}{M. Elsayed}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Deep Learning for Telecom Self-Optimized Networks}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Communications}}
+  \bibinfo{volume}{71}, \bibinfo{number}{4} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{2001--2014}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/10811884}
+\showURL{%
+\tempurl}
+
+
+\bibitem[{Anonymous}(2025)]%
+        {ref46}
+\bibfield{author}{\bibinfo{person}{{Anonymous}}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{title}{{Deep Learning in Wireless Communication Receiver: A
+  Survey}}.
+\newblock \bibinfo{howpublished}{{arXiv preprint arXiv:2501.17184}}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2501.17184}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2024-06-01}.
+
+
+\bibitem[Baidas(2016)]%
+        {ref40}
+\bibfield{author}{\bibinfo{person}{M.~W. Baidas}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{A Distributed Political Coalition Formation
+  Framework for Multi-Relay Selection in Wireless Networks}.
+\newblock \bibinfo{journal}{\emph{Wireless Communications and Mobile
+  Computing}} \bibinfo{volume}{16}, \bibinfo{number}{4} (\bibinfo{year}{2016}),
+  \bibinfo{pages}{2065--2082}.
+\newblock
+\href{https://doi.org/10.1002/wcm.2763}{doi:\nolinkurl{10.1002/wcm.2763}}
+
+
+\bibitem[Bertsimas(2023)]%
+        {ref55}
+\bibfield{author}{\bibinfo{person}{Dimitris Bertsimas}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Global optimization via optimal decision trees}.
+\newblock \bibinfo{journal}{\emph{Journal of Global Optimization}}
+  \bibinfo{volume}{85}, \bibinfo{number}{1} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{1--28}.
+\newblock
+\href{https://doi.org/10.1007/s10898-023-01311-x}{doi:\nolinkurl{10.1007/s10898-023-01311-x}}
+
+
+\bibitem[Chen et~al\mbox{.}(2018)]%
+        {ref49}
+\bibfield{author}{\bibinfo{person}{T. Chen}, \bibinfo{person}{M. Hong}, {and}
+  \bibinfo{person}{Z. Su}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Learn-and-Adapt Stochastic Dual Gradients for
+  Network Optimization}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Control of Network
+  Systems}} \bibinfo{volume}{5}, \bibinfo{number}{4} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{1456--1467}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/8110688}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Chen et~al\mbox{.}(2024)]%
+        {ref10}
+\bibfield{author}{\bibinfo{person}{Z. Chen}, \bibinfo{person}{M. Zhao}, {and}
+  \bibinfo{person}{X. Wang}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Robust Federated Learning for Unreliable and
+  Resource-Constrained Wireless Networks}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Wireless
+  Communications}} \bibinfo{volume}{23}, \bibinfo{number}{8}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{9793--9809}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/10444714/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Dai et~al\mbox{.}({[n.\,d.]})]%
+        {ref44}
+\bibfield{author}{\bibinfo{person}{L. Dai}, \bibinfo{person}{R. Jiao},
+  \bibinfo{person}{F. Adachi}, \bibinfo{person}{H.~V. Poor}, {and}
+  \bibinfo{person}{L. Hanzo}.} \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \bibinfo{title}{Deep Learning for Wireless Communications: An
+  Emerging Interdisciplinary Paradigm}.
+\newblock \bibinfo{howpublished}{Online}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2007.05952}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Submitted Jul. 2020}.
+
+
+\bibitem[Ding et~al\mbox{.}(2023)]%
+        {ref37}
+\bibfield{author}{\bibinfo{person}{X. Ding}, \bibinfo{person}{Y. Jin}, {and}
+  \bibinfo{person}{J. Liu}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Obstacle-Aware Fuzzy Clustering Protocol for
+  Wireless Sensor Networks in 3D Terrain}.
+\newblock \bibinfo{journal}{\emph{International Journal of Wireless Information
+  Networks}} \bibinfo{volume}{30}, \bibinfo{number}{1} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{30--41}.
+\newblock
+\href{https://doi.org/10.1007/s10776-022-00595-8}{doi:\nolinkurl{10.1007/s10776-022-00595-8}}
+
+
+\bibitem[Febrianto et~al\mbox{.}(2017)]%
+        {ref39}
+\bibfield{author}{\bibinfo{person}{T. Febrianto}, \bibinfo{person}{J. Hou},
+  {and} \bibinfo{person}{M. Shikh-Bahaei}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Cooperative Full-Duplex Physical and MAC Layer
+  Design in Asynchronous Cognitive Networks}.
+\newblock \bibinfo{journal}{\emph{Wireless Communications and Mobile
+  Computing}}  \bibinfo{volume}{2017} (\bibinfo{year}{2017}),
+  \bibinfo{pages}{1--14}.
+\newblock
+\href{https://doi.org/10.1155/2017/8491920}{doi:\nolinkurl{10.1155/2017/8491920}}
+
+
+\bibitem[Fujo et~al\mbox{.}(2024)]%
+        {ref26}
+\bibfield{author}{\bibinfo{person}{W.~S. Fujo}, \bibinfo{person}{I.~J.
+  Al-Mousa}, {and} \bibinfo{person}{S.~A. Hamed}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Customer Churn Prediction in Telecommunication
+  Industry Using Deep Learning}.
+\newblock \bibinfo{journal}{\emph{Preprints.org}} \bibinfo{volume}{2024},
+  \bibinfo{number}{0115} (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://www.preprints.org/manuscript/202403.0585/v1}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Förster et~al\mbox{.}(2024)]%
+        {ref42}
+\bibfield{author}{\bibinfo{person}{A. Förster}, \bibinfo{person}{F. Macabiau},
+  {and} \bibinfo{person}{D. Grouset}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{A beginner's guide to infrastructure‐less
+  networking concepts}.
+\newblock \bibinfo{journal}{\emph{IET Networks}} \bibinfo{volume}{13},
+  \bibinfo{number}{1} (\bibinfo{year}{2024}), \bibinfo{pages}{14--22}.
+\newblock
+\href{https://doi.org/10.1049/ntw2.12094}{doi:\nolinkurl{10.1049/ntw2.12094}}
+
+
+\bibitem[Hanasusanto et~al\mbox{.}(2016)]%
+        {ref52}
+\bibfield{author}{\bibinfo{person}{E. Hanasusanto}, \bibinfo{person}{D. Kuhn},
+  {and} \bibinfo{person}{K.~N. Kallas}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Multistage Robust Mixed-Integer Optimization with
+  Adaptive Partitions}.
+\newblock \bibinfo{journal}{\emph{Operations Research}} \bibinfo{volume}{64},
+  \bibinfo{number}{4} (\bibinfo{year}{2016}), \bibinfo{pages}{980--998}.
+\newblock
+\href{https://doi.org/10.1287/opre.2016.1515}{doi:\nolinkurl{10.1287/opre.2016.1515}}
+
+
+\bibitem[Imani(2024)]%
+        {ref27}
+\bibfield{author}{\bibinfo{person}{M. Imani}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Comparing Traditional Machine Learning and Advanced
+  Gradient Boosting Techniques in Customer Churn Prediction: A Telecom Industry
+  Case Study}.
+\newblock \bibinfo{journal}{\emph{Preprints.org}} \bibinfo{volume}{2024},
+  \bibinfo{number}{0213} (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://www.preprints.org/manuscript/202403.0213/v2}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Irianto and Chandra(2020)]%
+        {ref43}
+\bibfield{author}{\bibinfo{person}{K.~D. Irianto} {and} \bibinfo{person}{R.
+  Chandra}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Partial packet in wireless networks: a review of
+  error recovery and loss mitigation techniques}.
+\newblock \bibinfo{journal}{\emph{IET Communications}} \bibinfo{volume}{14},
+  \bibinfo{number}{15} (\bibinfo{year}{2020}), \bibinfo{pages}{2396--2409}.
+\newblock
+\href{https://doi.org/10.1049/iet-com.2019.0550}{doi:\nolinkurl{10.1049/iet-com.2019.0550}}
+
+
+\bibitem[Kuhn et~al\mbox{.}(2019)]%
+        {ref51}
+\bibfield{author}{\bibinfo{person}{D. Kuhn}, \bibinfo{person}{P. Wiesemann},
+  {and} \bibinfo{person}{T. Georghiou}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Wasserstein Distributionally Robust Optimization:
+  Theory and Applications in Machine Learning}.
+\newblock \bibinfo{journal}{\emph{Operations Research}} \bibinfo{volume}{67},
+  \bibinfo{number}{3} (\bibinfo{year}{2019}), \bibinfo{pages}{814--831}.
+\newblock
+\href{https://doi.org/10.1287/opre.2018.1804}{doi:\nolinkurl{10.1287/opre.2018.1804}}
+
+
+\bibitem[Kwon et~al\mbox{.}(2015)]%
+        {ref32}
+\bibfield{author}{\bibinfo{person}{Y.~H. Kwon}, \bibinfo{person}{K.~J. Han},
+  {and} \bibinfo{person}{Y.~S. Choi}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Efficient network mobility support scheme for proxy
+  mobile IPv6}.
+\newblock \bibinfo{journal}{\emph{EURASIP Journal on Wireless Communications
+  and Networking}} \bibinfo{volume}{2015}, \bibinfo{number}{1}
+  (\bibinfo{year}{2015}), \bibinfo{pages}{1--14}.
+\newblock
+\href{https://doi.org/10.1186/s13638-015-0437-8}{doi:\nolinkurl{10.1186/s13638-015-0437-8}}
+
+
+\bibitem[Li et~al\mbox{.}(2021)]%
+        {ref48}
+\bibfield{author}{\bibinfo{person}{M. Li}, \bibinfo{person}{Y. Hong}, {and}
+  \bibinfo{person}{B. Chen}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{A Unified Analytical Framework for Optimal Control
+  Problems in Network Systems}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Control of Network
+  Systems}} \bibinfo{volume}{8}, \bibinfo{number}{4} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{1645--1656}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9454297}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Li et~al\mbox{.}(2022)]%
+        {ref41}
+\bibfield{author}{\bibinfo{person}{Y. Li}, \bibinfo{person}{Z. Zhang},
+  \bibinfo{person}{L. Wu}, {and} \bibinfo{person}{X. Wang}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Real‐World Wireless Network Modeling and
+  Optimization: Recent Advances and Challenges}.
+\newblock \bibinfo{journal}{\emph{Chinese Journal of Electronics}}
+  \bibinfo{volume}{31}, \bibinfo{number}{2} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{263--280}.
+\newblock
+\urldef\tempurl%
+\url{https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/cje.2022.00.191}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Liu et~al\mbox{.}(2020)]%
+        {ref8}
+\bibfield{author}{\bibinfo{person}{Y. Liu}, \bibinfo{person}{X. Liang}, {and}
+  \bibinfo{person}{P. Zhang}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Data-Importance Aware Radio Resource Allocation}.
+\newblock \bibinfo{journal}{\emph{IEEE Communications Letters}}
+  \bibinfo{volume}{24}, \bibinfo{number}{9} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{2046--2050}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9098940}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Lopes(2013)]%
+        {ref34}
+\bibfield{author}{\bibinfo{person}{R.~F. Lopes}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Performance of the modulation diversity technique
+  for κ-μ fading channels in wireless communications}.
+\newblock \bibinfo{journal}{\emph{EURASIP Journal on Wireless Communications
+  and Networking}} \bibinfo{volume}{2013}, \bibinfo{number}{1}
+  (\bibinfo{year}{2013}), \bibinfo{pages}{1--12}.
+\newblock
+\href{https://doi.org/10.1186/1687-1499-2013-17}{doi:\nolinkurl{10.1186/1687-1499-2013-17}}
+
+
+\bibitem[Luo et~al\mbox{.}(2023)]%
+        {ref24}
+\bibfield{author}{\bibinfo{person}{Y. Luo}, \bibinfo{person}{C. Yang}, {and}
+  \bibinfo{person}{S. Yu}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Recent Advances in Optical Wireless Communications
+  for 6G Wireless Networks}.
+\newblock \bibinfo{journal}{\emph{IEEE Wireless Communications}}
+  \bibinfo{volume}{30}, \bibinfo{number}{2} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{58--65}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/10325445/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Mapunda et~al\mbox{.}(2020)]%
+        {ref38}
+\bibfield{author}{\bibinfo{person}{G.~A. Mapunda}, \bibinfo{person}{R.
+  Ramogomana}, \bibinfo{person}{L. Marata}, \bibinfo{person}{B. Basutli},
+  \bibinfo{person}{A.~S. Khan}, {and} \bibinfo{person}{J.~M. Chuma}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Indoor Visible Light Communication: A Tutorial and
+  Survey}.
+\newblock \bibinfo{journal}{\emph{Wireless Communications and Mobile
+  Computing}}  \bibinfo{volume}{2020} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{46}.
+\newblock
+\href{https://doi.org/10.1155/2020/8881305}{doi:\nolinkurl{10.1155/2020/8881305}}
+
+
+\bibitem[Nadarajah and Ciré(2020)]%
+        {ref50}
+\bibfield{author}{\bibinfo{person}{S. Nadarajah} {and} \bibinfo{person}{A.~A.
+  Ciré}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Network-Based Approximate Linear Programming for
+  Discrete Optimization}.
+\newblock \bibinfo{journal}{\emph{Operations Research}} \bibinfo{volume}{68},
+  \bibinfo{number}{6} (\bibinfo{year}{2020}), \bibinfo{pages}{1767--1786}.
+\newblock
+\href{https://doi.org/10.1287/opre.2019.1953}{doi:\nolinkurl{10.1287/opre.2019.1953}}
+
+
+\bibitem[Nagurney(2022)]%
+        {ref54}
+\bibfield{author}{\bibinfo{person}{A. Nagurney}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Supply chain networks, wages, and labor
+  productivity: insights from Lagrange analysis and computations}.
+\newblock \bibinfo{journal}{\emph{Journal of Global Optimization}}
+  \bibinfo{volume}{83}, \bibinfo{number}{3} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{615--638}.
+\newblock
+\href{https://doi.org/10.1007/s10898-021-01084-x}{doi:\nolinkurl{10.1007/s10898-021-01084-x}}
+
+
+\bibitem[Nisar and Rehman(2025)]%
+        {ref25}
+\bibfield{author}{\bibinfo{person}{F. Nisar} {and} \bibinfo{person}{B.~A.
+  Rehman}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{An efficient security framework, vulnerabilities,
+  and defense mechanisms in LoraWAN}.
+\newblock \bibinfo{journal}{\emph{Computer and Telecommunication Engineering}}
+  \bibinfo{volume}{3}, \bibinfo{number}{2} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{Article ID 3072}.
+\newblock
+\urldef\tempurl%
+\url{https://aber.apacsci.com/index.php/CTE/article/view/3072}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Niyato(2023)]%
+        {ref17}
+\bibfield{author}{\bibinfo{person}{D. Niyato}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Editorial: Fourth Quarter 2023 IEEE Communications
+  Surveys and Tutorials}.
+\newblock \bibinfo{journal}{\emph{IEEE Communications Surveys \& Tutorials}}
+  \bibinfo{volume}{25}, \bibinfo{number}{4} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{3456--3463}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/10325334/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Niyato and et~al.(2021)]%
+        {ref18}
+\bibfield{author}{\bibinfo{person}{Dusit Niyato} {and} \bibinfo{person}{et
+  al.}} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Survey on Wireless Communications}.
+\newblock \bibinfo{journal}{\emph{IEEE Communications Surveys \& Tutorials}}
+  \bibinfo{volume}{23}, \bibinfo{number}{1} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{1--40}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9621329/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Pawar et~al\mbox{.}(2022)]%
+        {ref35}
+\bibfield{author}{\bibinfo{person}{S. Pawar}, \bibinfo{person}{L. Bommisetty},
+  {and} \bibinfo{person}{T.~G. Venkatesh}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{A High Capacity Preamble Sequence for Random Access
+  in 5G IoT Networks: Design and Analysis}.
+\newblock \bibinfo{journal}{\emph{International Journal of Wireless Information
+  Networks}} \bibinfo{volume}{30}, \bibinfo{number}{1} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{1--15}.
+\newblock
+\href{https://doi.org/10.1007/s10776-022-00593-x}{doi:\nolinkurl{10.1007/s10776-022-00593-x}}
+
+
+\bibitem[Qian et~al\mbox{.}(2022)]%
+        {ref23}
+\bibfield{author}{\bibinfo{person}{Y. Qian}, \bibinfo{person}{H. Chen}, {and}
+  \bibinfo{person}{M. Dohler}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Beyond 5G Wireless Communication Technologies}.
+\newblock \bibinfo{journal}{\emph{IEEE Wireless Communications}}
+  \bibinfo{volume}{29}, \bibinfo{number}{1} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{166--172}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9749229/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Shaaban(2023)]%
+        {ref28}
+\bibfield{author}{\bibinfo{person}{E. Shaaban}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Hyperparameter Optimization and Combined Data
+  Certainty for Customer Churn Prediction in Telecommunication Industry}.
+\newblock \bibinfo{journal}{\emph{Preprints.org}} \bibinfo{volume}{2023},
+  \bibinfo{number}{1478} (\bibinfo{year}{2023}).
+\newblock
+\urldef\tempurl%
+\url{https://www.preprints.org/manuscript/202308.1478/v3}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Shen et~al\mbox{.}(2020)]%
+        {ref12}
+\bibfield{author}{\bibinfo{person}{X. Shen}, \bibinfo{person}{Y. Liu},
+  \bibinfo{person}{X. Du}, {and} \bibinfo{person}{K.~K.~R. Choo}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{AI-assisted Network-slicing based Next-generation
+  Wireless Networks}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Wireless
+  Communications}} \bibinfo{volume}{19}, \bibinfo{number}{3}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{1558--1571}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/iel7/8782711/8889399/08954683.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Simsek et~al\mbox{.}(2016)]%
+        {ref19}
+\bibfield{author}{\bibinfo{person}{M. Simsek}, \bibinfo{person}{A. Aijaz},
+  \bibinfo{person}{M. Dohler}, \bibinfo{person}{J. Sachs}, {and}
+  \bibinfo{person}{G. Fettweis}.} \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{5G-Enabled Tactile Internet}.
+\newblock \bibinfo{journal}{\emph{IEEE Journal on Selected Areas in
+  Communications}} \bibinfo{volume}{34}, \bibinfo{number}{3}
+  (\bibinfo{year}{2016}), \bibinfo{pages}{460--473}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/7403840/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Thapaliya and Sharma(2022)]%
+        {ref36}
+\bibfield{author}{\bibinfo{person}{S. Thapaliya} {and} \bibinfo{person}{P.~K.
+  Sharma}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Cyber Forensic Investigation in IoT Using Deep
+  Learning Based Feature Fusion in Big Data}.
+\newblock \bibinfo{journal}{\emph{International Journal of Wireless Information
+  Networks}} \bibinfo{volume}{30}, \bibinfo{number}{1} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{16--29}.
+\newblock
+\href{https://doi.org/10.1007/s10776-022-00588-7}{doi:\nolinkurl{10.1007/s10776-022-00588-7}}
+
+
+\bibitem[Wen et~al\mbox{.}(2020)]%
+        {ref11}
+\bibfield{author}{\bibinfo{person}{D. Wen}, \bibinfo{person}{B. Zhang}, {and}
+  \bibinfo{person}{Y. Chen}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Joint Parameter-and-Bandwidth Allocation for
+  Improving Federated Learning Performance in Wireless Networks}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Wireless
+  Communications}} \bibinfo{volume}{19}, \bibinfo{number}{10}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{6780--6793}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9194337/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Weng et~al\mbox{.}(2023)]%
+        {ref1}
+\bibfield{author}{\bibinfo{person}{Z. Weng}, \bibinfo{person}{L. Lu},
+  \bibinfo{person}{J. Chen}, \bibinfo{person}{H. Zhang}, {and}
+  \bibinfo{person}{L. Hanzo}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Deep Learning Enabled Semantic Communications With
+  Knowledge Graph and Knowledge Base}.
+\newblock \bibinfo{journal}{\emph{IEEE Journal on Selected Areas in
+  Communications}} \bibinfo{volume}{41}, \bibinfo{number}{9}
+  (\bibinfo{year}{2023}), \bibinfo{pages}{2192--2207}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/10038754}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Zhao et~al\mbox{.}(2017)]%
+        {ref21}
+\bibfield{author}{\bibinfo{person}{Z. Zhao}, \bibinfo{person}{E.~J. Schiller},
+  \bibinfo{person}{E. Kalogeiton}, \bibinfo{person}{T. Braun},
+  \bibinfo{person}{S. Burkhard}, {and} \bibinfo{person}{M.~T. Garip}.}
+  \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Autonomic Communications in Software-Driven
+  Networks}.
+\newblock \bibinfo{journal}{\emph{IEEE Journal on Selected Areas in
+  Communications}} \bibinfo{volume}{35}, \bibinfo{number}{11}
+  (\bibinfo{year}{2017}), \bibinfo{pages}{2431--2445}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/8063402/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Zhou et~al\mbox{.}(2024)]%
+        {ref16}
+\bibfield{author}{\bibinfo{person}{H. Zhou}, \bibinfo{person}{W. Saad}, {and}
+  \bibinfo{person}{D. Niyato}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Large Language Model (LLM) for Telecommunications:
+  A Comprehensive Survey on Principles, Key Techniques, and Opportunities}.
+\newblock \bibinfo{journal}{\emph{IEEE Communications Surveys \& Tutorials}}
+  \bibinfo{volume}{26}, \bibinfo{number}{2} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{879--913}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/10685369/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Čvokić et~al\mbox{.}(2022)]%
+        {ref53}
+\bibfield{author}{\bibinfo{person}{D.~D. Čvokić}, \bibinfo{person}{Y.~A.
+  Kochetov}, {and} \bibinfo{person}{A. Savić}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{A variable neighborhood search algorithm for the
+  (r|p) hub–centroid problem under the price war}.
+\newblock \bibinfo{journal}{\emph{Journal of Global Optimization}}
+  \bibinfo{volume}{83}, \bibinfo{number}{3} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{405--444}.
+\newblock
+\href{https://doi.org/10.1007/s10898-021-01051-2}{doi:\nolinkurl{10.1007/s10898-021-01051-2}}
+
+
+\end{thebibliography}

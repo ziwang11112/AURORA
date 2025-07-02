@@ -1,0 +1,190 @@
+category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,4.38,4.0,4.25,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Analysis,Gaps,4.5,4.38,4.38,1.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Analysis,Integration,4.5,4.12,4.25,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Literature,Balance,4.62,4.62,4.62,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Literature,Comprehensiveness,4.38,4.38,4.25,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Literature,Currency,5.0,5.0,4.88,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Organization,Logical Flow,4.88,4.88,4.88,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Organization,Section Clarity,4.88,4.88,5.0,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Organization,Summarization,3.88,3.75,3.75,1.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Originality,Advancement,3.88,4.0,4.25,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Originality,Novelty,3.62,3.62,3.62,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Originality,Redundancy Avoidance,3.88,4.25,4.12,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Presentation,Formatting,5.0,4.88,4.5,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Presentation,Visuals,1.25,2.25,1.5,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+References,Accuracy,4.88,4.62,4.5,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+References,Appropriateness,5.0,5.0,4.88,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Scope,Audience,4.62,4.62,4.75,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Scope,Objectives,3.0,3.0,3.12,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Scope,Relevance,4.75,4.75,5.0,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+TOTAL,,85.9,86.0,85.5,,,,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection.pdf
+Analysis,Depth,4.42,4.5,4.33,0.0,0.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Analysis,Gaps,4.67,4.67,4.67,1.0,1.0,1.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Analysis,Integration,4.67,4.58,4.58,1.0,0.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Literature,Balance,4.83,4.75,4.83,0.0,1.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Literature,Comprehensiveness,4.83,4.83,4.83,1.0,1.0,1.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Literature,Currency,4.92,4.92,4.92,1.0,1.0,1.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Organization,Logical Flow,5.0,5.0,5.0,1.0,1.0,1.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Organization,Section Clarity,5.0,4.92,5.0,0.0,1.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Organization,Summarization,3.75,3.92,3.92,1.0,0.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Originality,Advancement,4.08,4.33,4.25,0.0,0.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Originality,Novelty,3.75,3.67,3.75,0.0,1.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Originality,Redundancy Avoidance,4.33,4.0,4.42,0.0,0.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Presentation,Formatting,5.0,4.75,5.0,0.0,1.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Presentation,Visuals,1.33,1.83,1.67,0.0,0.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+References,Accuracy,5.0,4.83,4.83,1.0,0.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Scope,Audience,5.0,4.75,4.83,0.0,0.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Scope,Objectives,2.58,2.83,2.92,0.0,0.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Scope,Relevance,5.0,4.92,5.0,0.0,1.0,0.0,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+TOTAL,,88.16,88.0,88.75,,,,,"Applications of Artificial Intelligence in Facial Recognition Techniques, Challenges, and Future Directions.pdf"
+Analysis,Depth,4.0,3.88,4.12,0.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Analysis,Gaps,4.5,4.5,4.5,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Analysis,Integration,4.12,4.25,4.5,0.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Literature,Balance,4.88,4.62,4.88,0.0,1.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Literature,Comprehensiveness,4.75,4.75,4.75,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Literature,Currency,5.0,4.88,5.0,0.0,1.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Organization,Logical Flow,5.0,4.88,4.88,1.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Organization,Section Clarity,5.0,4.88,5.0,0.0,1.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Organization,Summarization,3.75,3.62,3.62,1.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Originality,Advancement,4.12,4.25,4.38,0.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Originality,Novelty,3.62,3.62,3.62,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Originality,Redundancy Avoidance,4.5,4.0,4.25,0.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Presentation,Formatting,4.88,4.88,4.88,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Presentation,Visuals,1.25,1.25,1.5,0.0,0.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+References,Accuracy,4.5,4.38,4.5,0.0,1.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Scope,Audience,4.5,4.75,4.5,0.0,1.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Scope,Objectives,3.0,2.88,2.75,0.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+Scope,Relevance,5.0,4.75,4.75,1.0,0.0,0.0,,A Comprehensive Survey on Efficient Video Generation.pdf
+TOTAL,,86.36999999999999,85.02,86.38,,,,,A Comprehensive Survey on Efficient Video Generation.pdf
+Analysis,Depth,4.6,4.6,4.6,1.0,1.0,1.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Analysis,Gaps,4.6,4.6,4.6,1.0,1.0,1.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Analysis,Integration,4.6,4.6,4.6,1.0,1.0,1.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Literature,Balance,4.8,4.8,4.9,0.0,0.0,1.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Literature,Comprehensiveness,4.8,4.9,4.9,1.0,0.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Literature,Currency,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Organization,Logical Flow,5.0,4.8,4.8,1.0,0.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Organization,Section Clarity,5.0,4.7,4.9,0.0,0.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Organization,Summarization,3.8,4.1,4.0,0.0,0.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Originality,Advancement,4.5,4.6,4.6,1.0,0.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Originality,Novelty,3.8,3.8,3.8,1.0,1.0,1.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Originality,Redundancy Avoidance,4.8,4.7,4.5,0.0,0.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Presentation,Formatting,5.0,4.9,5.0,0.0,1.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Presentation,Language,5.0,4.9,5.0,0.0,1.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Presentation,Visuals,2.1,2.6,2.4,0.0,0.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+References,Accuracy,4.8,4.9,4.9,1.0,0.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Scope,Audience,4.6,4.7,4.7,1.0,0.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Scope,Objectives,3.2,3.3,3.4,0.0,0.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Scope,Relevance,5.0,4.8,4.9,0.0,0.0,0.0,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+TOTAL,,90.0,90.3,90.50000000000001,,,,,A Comprehensive Survey on Layout-Guided Controllable Image Synthesis.pdf
+Analysis,Depth,4.25,4.12,4.25,0.0,1.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Analysis,Gaps,4.5,4.5,4.5,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Analysis,Integration,4.38,4.38,4.25,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Literature,Balance,4.75,4.88,4.75,0.0,1.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Literature,Comprehensiveness,4.25,4.38,4.5,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Literature,Currency,5.0,5.0,5.0,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Organization,Logical Flow,4.88,5.0,4.75,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Organization,Section Clarity,4.88,5.0,5.0,1.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Organization,Summarization,3.62,3.62,3.88,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Originality,Advancement,4.12,4.12,4.38,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Originality,Novelty,3.62,3.62,3.62,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Originality,Redundancy Avoidance,4.5,4.12,4.25,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Presentation,Formatting,4.88,4.88,4.88,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Presentation,Visuals,1.0,1.25,2.0,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+References,Accuracy,4.62,4.38,4.5,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Scope,Audience,4.62,4.62,4.5,0.0,0.0,1.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Scope,Objectives,3.12,2.88,3.0,0.0,0.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Scope,Relevance,5.0,4.88,5.0,0.0,1.0,0.0,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+TOTAL,,85.99000000000001,85.63,87.00999999999999,,,,,Comprehensive Survey on Synthetic Data Generation with Diffusion Models for Object Detection (1).pdf
+Analysis,Depth,4.64,4.55,4.55,1.0,0.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Analysis,Gaps,4.64,4.64,4.64,1.0,1.0,1.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Analysis,Integration,4.64,4.64,4.64,1.0,1.0,1.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Literature,Balance,5.0,4.91,5.0,0.0,1.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Literature,Comprehensiveness,4.82,4.73,4.82,0.0,1.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Literature,Currency,5.0,5.0,5.0,1.0,1.0,1.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Organization,Logical Flow,5.0,4.91,5.0,0.0,1.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Organization,Section Clarity,5.0,4.91,5.0,0.0,1.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Organization,Summarization,3.73,3.82,3.82,1.0,0.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Originality,Advancement,4.36,4.45,4.55,0.0,0.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Originality,Novelty,3.82,3.73,3.82,0.0,1.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Originality,Redundancy Avoidance,4.27,4.45,4.64,0.0,0.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Presentation,Formatting,5.0,5.0,4.82,0.0,0.0,1.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Presentation,Visuals,1.73,1.91,2.27,0.0,0.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+References,Accuracy,4.91,4.73,4.82,0.0,0.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Scope,Audience,4.82,4.82,4.91,0.0,0.0,1.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Scope,Objectives,2.91,3.27,3.09,0.0,0.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Scope,Relevance,5.0,4.82,5.0,0.0,1.0,0.0,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+TOTAL,,89.28999999999999,89.28999999999999,90.39,,,,,"Comprehensive Survey on Formal Verification of Neural Networks Foundations, Methods, and Future Directions.pdf"
+Analysis,Depth,4.3,4.2,4.0,0.0,0.0,0.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Analysis,Gaps,4.5,4.6,4.6,1.0,0.0,0.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Analysis,Integration,4.5,4.5,4.4,0.0,0.0,1.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Literature,Balance,4.8,4.8,5.0,0.0,0.0,1.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Literature,Comprehensiveness,4.5,4.5,4.6,0.0,0.0,1.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Literature,Currency,5.0,4.9,5.0,0.0,1.0,0.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Organization,Logical Flow,4.9,5.0,5.0,1.0,0.0,0.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Organization,Section Clarity,5.0,5.0,5.0,1.0,1.0,1.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Organization,Summarization,3.8,3.9,3.8,0.0,1.0,0.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Originality,Advancement,4.3,4.4,4.3,0.0,1.0,0.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Originality,Novelty,3.7,3.7,3.7,1.0,1.0,1.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Originality,Redundancy Avoidance,4.0,4.2,4.0,0.0,1.0,0.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Presentation,Formatting,5.0,5.0,5.0,1.0,1.0,1.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Presentation,Visuals,1.6,1.8,1.4,0.0,0.0,0.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+References,Accuracy,4.9,4.7,4.9,0.0,1.0,0.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Scope,Audience,4.8,4.6,4.6,1.0,0.0,0.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Scope,Objectives,3.2,3.1,3.2,0.0,1.0,0.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Scope,Relevance,5.0,5.0,5.0,1.0,1.0,1.0,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+TOTAL,,87.8,87.89999999999998,87.5,,,,,"Comprehensive Survey on Multimodal Large Language Models Advances, Challenges, and Future Directions.pdf"
+Analysis,Depth,4.1,4.4,4.0,0.0,0.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Analysis,Gaps,4.5,4.5,4.3,0.0,0.0,1.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Analysis,Integration,4.5,4.6,4.6,1.0,0.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Literature,Balance,4.6,4.8,4.6,0.0,1.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Literature,Comprehensiveness,4.3,4.3,4.4,0.0,0.0,1.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Literature,Currency,4.9,4.9,4.9,1.0,1.0,1.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Organization,Logical Flow,5.0,4.8,4.8,1.0,0.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Organization,Section Clarity,5.0,4.6,5.0,0.0,1.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Organization,Summarization,3.8,3.7,3.8,0.0,1.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Originality,Advancement,4.3,4.3,4.3,1.0,1.0,1.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Originality,Novelty,3.7,3.8,3.7,0.0,1.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Originality,Redundancy Avoidance,4.2,4.4,4.4,1.0,0.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Presentation,Formatting,5.0,4.8,5.0,0.0,1.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Presentation,Visuals,1.7,1.8,1.2,0.0,0.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+References,Accuracy,4.7,4.6,4.6,1.0,0.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Scope,Audience,4.6,4.8,5.0,0.0,0.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Scope,Objectives,3.2,2.9,3.2,0.0,1.0,0.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Scope,Relevance,5.0,5.0,5.0,1.0,1.0,1.0,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+TOTAL,,87.10000000000001,87.0,86.8,,,,,"A Comprehensive Survey on Embodied Artificial Intelligence Foundations, Advances, and Future Directions.pdf"
+Analysis,Depth,4.58,4.5,4.42,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Analysis,Gaps,4.58,4.67,4.67,1.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Analysis,Integration,4.58,4.58,4.5,0.0,0.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Literature,Balance,4.75,4.83,4.83,1.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Literature,Comprehensiveness,4.67,4.75,4.67,0.0,1.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Literature,Currency,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Organization,Logical Flow,4.83,4.92,4.83,0.0,1.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Organization,Section Clarity,4.75,5.0,4.67,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Organization,Summarization,4.0,3.83,3.83,1.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Originality,Advancement,4.17,4.58,4.33,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Originality,Novelty,3.75,3.75,3.67,0.0,0.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Originality,Redundancy Avoidance,4.25,4.33,4.17,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Presentation,Formatting,4.92,4.83,4.92,0.0,1.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Presentation,Visuals,1.83,1.5,2.17,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+References,Accuracy,4.83,4.75,4.58,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Scope,Audience,4.67,4.83,4.83,1.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Scope,Objectives,3.0,2.83,3.0,0.0,1.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Scope,Relevance,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+TOTAL,,88.16,88.47999999999999,88.09,,,,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf

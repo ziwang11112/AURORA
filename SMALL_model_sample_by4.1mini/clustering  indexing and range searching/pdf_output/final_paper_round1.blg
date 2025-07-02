@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_paper_round1.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Warning--I'm ignoring ref34's extra "note" field
+--line 376 of file references.bib
+Warning--I didn't find a database entry for ""
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--empty publisher in ref11
+Warning--empty address in ref11
+Warning--page numbers missing in both pages and numpages fields in ref11
+Warning--page numbers missing in both pages and numpages fields in ref20
+Warning--page numbers missing in both pages and numpages fields in ref21
+You've used 32 entries,
+            6056 wiz_defined-function locations,
+            1702 strings with 24378 characters,
+and the built_in function-call counts, 37448 in all, are:
+= -- 5769
+> -- 1088
+< -- 0
++ -- 367
+- -- 357
+* -- 2618
+:= -- 3350
+add.period$ -- 164
+call.type$ -- 32
+change.case$ -- 231
+chr.to.int$ -- 32
+cite$ -- 37
+duplicate$ -- 3077
+empty$ -- 2164
+format.name$ -- 469
+if$ -- 9717
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 113
+newline$ -- 384
+num.names$ -- 224
+pop$ -- 1063
+preamble$ -- 1
+purify$ -- 487
+quote$ -- 0
+skip$ -- 1086
+stack$ -- 0
+substring$ -- 2779
+swap$ -- 337
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 582
+warning$ -- 5
+while$ -- 184
+width$ -- 0
+write$ -- 728
+(There were 7 warnings)

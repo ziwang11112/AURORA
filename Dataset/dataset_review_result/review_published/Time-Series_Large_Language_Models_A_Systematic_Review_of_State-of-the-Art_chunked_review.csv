@@ -1,0 +1,22 @@
+﻿category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,3.78,3.78,3.78,1.0,1.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Analysis,Gaps,3.89,3.89,4.0,0.0,0.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Analysis,Integration,4.0,4.0,4.11,0.0,0.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Literature,Balance,4.44,4.56,4.33,0.0,0.0,0.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Literature,Comprehensiveness,4.89,5.0,5.0,1.0,0.0,0.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Literature,Currency,5.0,5.0,5.0,1.0,1.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Organization,Logical Flow,4.67,4.78,4.89,0.0,0.0,0.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Organization,Section Clarity,4.89,4.89,5.0,0.0,0.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Organization,Summarization,4.44,4.33,4.33,1.0,0.0,0.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Originality,Advancement,4.22,4.11,4.22,0.0,1.0,0.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Originality,Novelty,4.22,4.22,4.11,0.0,0.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Originality,Redundancy Avoidance,4.56,4.56,4.44,0.0,0.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Presentation,Formatting,4.78,4.89,4.89,1.0,0.0,0.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Presentation,Language,4.78,4.89,4.89,1.0,0.0,0.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Presentation,Visuals,3.78,3.78,3.89,0.0,0.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+References,Accuracy,4.89,4.89,4.89,1.0,1.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Scope,Audience,4.89,4.89,4.89,1.0,1.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Scope,Objectives,3.56,3.33,3.33,1.0,0.0,0.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+Scope,Relevance,5.0,5.0,5.0,1.0,1.0,1.0,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf
+TOTAL,,89.67999999999999,89.78999999999999,89.99000000000001,,,,,Time-Series_Large_Language_Models_A_Systematic_Review_of_State-of-the-Art.pdf

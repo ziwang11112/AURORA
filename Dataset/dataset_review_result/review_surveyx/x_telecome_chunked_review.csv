@@ -1,0 +1,22 @@
+﻿category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,3.25,3.25,3.25,1.0,1.0,1.0,,x_telecome.pdf
+Analysis,Gaps,3.25,3.5,3.12,0.0,0.0,0.0,,x_telecome.pdf
+Analysis,Integration,3.88,3.88,4.0,0.0,0.0,1.0,,x_telecome.pdf
+Literature,Balance,4.12,3.88,4.0,0.0,0.0,0.0,,x_telecome.pdf
+Literature,Comprehensiveness,4.75,4.75,4.62,0.0,0.0,1.0,,x_telecome.pdf
+Literature,Currency,5.0,5.0,5.0,1.0,1.0,1.0,,x_telecome.pdf
+Organization,Logical Flow,4.75,4.5,4.62,0.0,0.0,0.0,,x_telecome.pdf
+Organization,Section Clarity,4.62,4.5,4.75,0.0,0.0,0.0,,x_telecome.pdf
+Organization,Summarization,3.62,3.62,3.88,0.0,0.0,1.0,,x_telecome.pdf
+Originality,Advancement,3.25,3.5,3.38,0.0,0.0,0.0,,x_telecome.pdf
+Originality,Novelty,3.38,3.38,3.25,0.0,0.0,1.0,,x_telecome.pdf
+Originality,Redundancy Avoidance,3.88,3.88,3.62,0.0,0.0,1.0,,x_telecome.pdf
+Presentation,Formatting,4.75,4.62,4.5,0.0,0.0,0.0,,x_telecome.pdf
+Presentation,Language,4.88,4.75,4.75,1.0,0.0,0.0,,x_telecome.pdf
+Presentation,Visuals,3.0,2.88,2.75,0.0,0.0,0.0,,x_telecome.pdf
+References,Accuracy,4.12,4.38,4.25,0.0,0.0,0.0,,x_telecome.pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,x_telecome.pdf
+Scope,Audience,4.25,4.38,4.38,1.0,0.0,0.0,,x_telecome.pdf
+Scope,Objectives,2.88,2.88,2.75,0.0,0.0,1.0,,x_telecome.pdf
+Scope,Relevance,4.88,4.62,4.75,0.0,0.0,0.0,,x_telecome.pdf
+TOTAL,,81.50999999999999,81.14999999999999,80.62,,,,,x_telecome.pdf

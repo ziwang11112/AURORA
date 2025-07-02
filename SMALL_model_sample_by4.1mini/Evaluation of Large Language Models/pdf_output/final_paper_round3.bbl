@@ -1,0 +1,659 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{41}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Alwabisi({[n.\,d.]})]%
+        {ref31}
+\bibfield{author}{\bibinfo{person}{S.~O. Alwabisi}.}
+  \bibinfo{year}{[n.\,d.]}\natexlab{}.
+\newblock \bibinfo{title}{AI in Penetration Testing: A Systematic Mapping
+  Study}.
+\newblock \bibinfo{howpublished}{Online}.
+\newblock
+\urldef\tempurl%
+\url{https://www.techrxiv.org/doi/full/10.36227/techrxiv.175099664.46246512/v1}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2025-06-27}.
+
+
+\bibitem[Belinkov and Glass(2022)]%
+        {ref36}
+\bibfield{author}{\bibinfo{person}{M. Belinkov} {and} \bibinfo{person}{I.
+  Glass}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Analysis Methods in Neural Language Processing: A
+  Survey}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{10} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{489--524}.
+\newblock
+\href{https://doi.org/10.1162/tacl_a_00254}{doi:\nolinkurl{10.1162/tacl_a_00254}}
+
+
+\bibitem[Birchler et~al\mbox{.}(2023)]%
+        {ref29}
+\bibfield{author}{\bibinfo{person}{C. Birchler}, \bibinfo{person}{C. Karlsson},
+  {and} \bibinfo{person}{W. Meding}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Machine learning-based test selection for
+  simulation-based testing of automotive lane keeping systems}.
+\newblock \bibinfo{journal}{\emph{Machine Learning}} \bibinfo{volume}{112},
+  \bibinfo{number}{3} (\bibinfo{year}{2023}), \bibinfo{pages}{593--633}.
+\newblock
+\href{https://doi.org/10.1007/s10994-023-06335-y}{doi:\nolinkurl{10.1007/s10994-023-06335-y}}
+
+
+\bibitem[Bross and Gannot(2023)]%
+        {ref38}
+\bibfield{author}{\bibinfo{person}{A. Bross} {and} \bibinfo{person}{S.
+  Gannot}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Training-Based Multiple Source Tracking Using
+  Manifold-Learning and Recursive Expectation-Maximization}.
+\newblock \bibinfo{journal}{\emph{IEEE/ACM Transactions on Audio, Speech, and
+  Language Processing}}  \bibinfo{volume}{31} (\bibinfo{date}{March}
+  \bibinfo{year}{2023}), \bibinfo{pages}{1124--1140}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9720051}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Burnell et~al\mbox{.}(2023)]%
+        {ref45}
+\bibfield{author}{\bibinfo{person}{R. Burnell}, \bibinfo{person}{H. Hao},
+  \bibinfo{person}{A.~R.~A. Conway}, {and} \bibinfo{person}{J.~Hernandez
+  Orallo}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{title}{Revealing the structure of language model
+  capabilities}.
+\newblock \bibinfo{howpublished}{Online}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2306.10062}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2024-06-05}.
+
+
+\bibitem[Chang et~al\mbox{.}(2023)]%
+        {ref20}
+\bibfield{author}{\bibinfo{person}{Y. Chang}, \bibinfo{person}{X. Wang},
+  \bibinfo{person}{J. Wang}, \bibinfo{person}{Y. Wu}, \bibinfo{person}{L.
+  Yang}, \bibinfo{person}{K. Zhu}, \bibinfo{person}{H. Chen},
+  \bibinfo{person}{X. Yi}, \bibinfo{person}{C. Wang}, \bibinfo{person}{Y.
+  Wang}, \bibinfo{person}{W. Ye}, \bibinfo{person}{Y. Zhang},
+  \bibinfo{person}{Y. Chang}, \bibinfo{person}{P.~S. Yu}, \bibinfo{person}{Q.
+  Yang}, {and} \bibinfo{person}{X. Xie}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{A Survey on Evaluation of Large Language Models}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Intelligent Systems and
+  Technology (TIST)}}  \bibinfo{volume}{Accepted} (\bibinfo{year}{2023}).
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2307.03109}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Chowdhery et~al\mbox{.}(2023)]%
+        {ref7}
+\bibfield{author}{\bibinfo{person}{A. Chowdhery}, \bibinfo{person}{S. Narang},
+  \bibinfo{person}{Y. Devlin}, {and} \bibinfo{person}{et al.}}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{PaLM: Scaling Language Modeling with Pathways}.
+\newblock \bibinfo{journal}{\emph{J. Mach. Learn. Res.}} \bibinfo{volume}{24},
+  \bibinfo{number}{270} (\bibinfo{year}{2023}), \bibinfo{pages}{1--41}.
+\newblock
+\urldef\tempurl%
+\url{https://jmlr.org/papers/v24/22-1144.html}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Christakis(2025)]%
+        {ref9}
+\bibfield{author}{\bibinfo{person}{N. Christakis}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Evaluating Large Language Models in Code
+  Generation: INFINITE Methodology for Defining the Inference Index}.
+\newblock \bibinfo{journal}{\emph{Applied Sciences}} \bibinfo{volume}{15},
+  \bibinfo{number}{7} (\bibinfo{year}{2025}).
+\newblock
+\urldef\tempurl%
+\url{https://www.mdpi.com/2076-3417/15/7/3784}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Ding et~al\mbox{.}(2023)]%
+        {ref48}
+\bibfield{author}{\bibinfo{person}{N. Ding}, \bibinfo{person}{Y. Qin}, {and}
+  \bibinfo{person}{M. Sun}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Parameter-efficient fine-tuning of large-scale
+  pre-trained language models}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{5}, \bibinfo{number}{3} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{212--221}.
+\newblock
+\href{https://doi.org/10.1038/s42256-023-00614-3}{doi:\nolinkurl{10.1038/s42256-023-00614-3}}
+
+
+\bibitem[Eecke(2022)]%
+        {ref40}
+\bibfield{author}{\bibinfo{person}{P.~Van Eecke}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Neural heuristics for scaling constructional
+  language processing}.
+\newblock \bibinfo{journal}{\emph{Journal of Language Modelling}}
+  \bibinfo{volume}{10}, \bibinfo{number}{2} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{347--372}.
+\newblock
+\urldef\tempurl%
+\url{https://jlm.ipipan.waw.pl/index.php/JLM/article/download/318/267/2693}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Elsner(2019)]%
+        {ref42}
+\bibfield{author}{\bibinfo{person}{M. Elsner}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Modeling morphological learning, typology, and
+  change}.
+\newblock \bibinfo{journal}{\emph{Journal of Language Modelling}}
+  \bibinfo{volume}{7}, \bibinfo{number}{2} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{225--246}.
+\newblock
+\urldef\tempurl%
+\url{https://jlm.ipipan.waw.pl/index.php/JLM/article/download/244/238/1847}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Hu et~al\mbox{.}(2020)]%
+        {ref52}
+\bibfield{author}{\bibinfo{person}{Y. Hu}, \bibinfo{person}{P.~N.
+  Samarasinghe}, \bibinfo{person}{S. Gannot}, {and} \bibinfo{person}{T.~D.
+  Abhayapala}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Semi-Supervised Multiple Source Localization Using
+  Relative Harmonic Coefficients Under Noisy and Reverberant Environments}.
+\newblock \bibinfo{journal}{\emph{IEEE/ACM Transactions on Audio, Speech, and
+  Language Processing}}  \bibinfo{volume}{28} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{3108--3123}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9170138}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Izacard et~al\mbox{.}(2023)]%
+        {ref8}
+\bibfield{author}{\bibinfo{person}{G. Izacard}, \bibinfo{person}{P. Oulad},
+  \bibinfo{person}{K. Duh}, {and} \bibinfo{person}{E. Grave}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Atlas: Few-shot Learning with Retrieval Augmented
+  Language Models}.
+\newblock \bibinfo{journal}{\emph{J. Mach. Learn. Res.}} \bibinfo{volume}{24},
+  \bibinfo{number}{37} (\bibinfo{year}{2023}), \bibinfo{pages}{1--53}.
+\newblock
+\urldef\tempurl%
+\url{https://jmlr.org/papers/v24/23-0037.html}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Jiang et~al\mbox{.}(2020)]%
+        {ref3}
+\bibfield{author}{\bibinfo{person}{Z. Jiang}, \bibinfo{person}{F.~F. Xu},
+  \bibinfo{person}{J. Araki}, {and} \bibinfo{person}{G. Neubig}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{How Can We Know What Language Models Know?}
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{8} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{423--438}.
+\newblock
+\href{https://doi.org/10.1162/tacl_a_00324}{doi:\nolinkurl{10.1162/tacl_a_00324}}
+
+
+\bibitem[Jones(2024)]%
+        {ref15}
+\bibfield{author}{\bibinfo{person}{C.~R. Jones}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Comparing Humans and Large Language Models on an
+  Evaluation of Theory of Mind}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}} (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://transacl.org/index.php/tacl/article/view/6317/2031}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Joshi and Band(2024)]%
+        {ref32}
+\bibfield{author}{\bibinfo{person}{V. Joshi} {and} \bibinfo{person}{I. Band}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{Disrupting Test Development with AI Assistants:
+  Building the Base of the Test Pyramid with Three AI Coding Assistants}.
+\newblock \bibinfo{howpublished}{Online}.
+\newblock
+\urldef\tempurl%
+\url{https://www.techrxiv.org/users/846197/articles/1234462-disrupting-test-development-with-ai-assistants-building-the-base-of-the-test-pyramid-with-three-ai-coding-assistants}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2024-06-06}.
+
+
+\bibitem[Klaussner(2018)]%
+        {ref41}
+\bibfield{author}{\bibinfo{person}{C. Klaussner}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Temporal predictive regression models for language
+  change}.
+\newblock \bibinfo{journal}{\emph{Journal of Language Modelling}}
+  \bibinfo{volume}{6}, \bibinfo{number}{2} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{163--187}.
+\newblock
+\urldef\tempurl%
+\url{https://jlm.ipipan.waw.pl/index.php/JLM/article/view/177/199}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Levi et~al\mbox{.}(2021)]%
+        {ref39}
+\bibfield{author}{\bibinfo{person}{D. Levi}, \bibinfo{person}{Y. Noam}, {and}
+  \bibinfo{person}{S. Gannot}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{The Hybrid Cramér-Rao Lower Bound for Simultaneous
+  Speaker Tracking and Room Geometry Estimation}.
+\newblock \bibinfo{journal}{\emph{IEEE/ACM Transactions on Audio, Speech, and
+  Language Processing}}  \bibinfo{volume}{29} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{1--22}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9352386}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Li et~al\mbox{.}(2024)]%
+        {ref46}
+\bibfield{author}{\bibinfo{person}{S. Li}, \bibinfo{person}{L. Li},
+  \bibinfo{person}{R. Geng}, \bibinfo{person}{M. Yang}, \bibinfo{person}{B.
+  Li}, \bibinfo{person}{G. Yuan}, \bibinfo{person}{W. He}, \bibinfo{person}{S.
+  Yuan}, \bibinfo{person}{C. Ma}, \bibinfo{person}{F. Huang}, {and}
+  \bibinfo{person}{Y. Li}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Unifying Structured Data as Graph for Data-to-Text
+  Pre-Training}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{12} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{210--228}.
+\newblock
+\urldef\tempurl%
+\url{https://aclanthology.org/2024.tacl-1.12/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Liu et~al\mbox{.}(2024)]%
+        {ref33}
+\bibfield{author}{\bibinfo{person}{N.~F. Liu}, \bibinfo{person}{K. Lin},
+  \bibinfo{person}{J. Hewitt}, \bibinfo{person}{A. Paranjape},
+  \bibinfo{person}{M. Bevilacqua}, \bibinfo{person}{F. Petroni}, {and}
+  \bibinfo{person}{P. Liang}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Lost in the Middle: How Language Models Use Long
+  Contexts}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{12} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{157--173}.
+\newblock
+\href{https://doi.org/10.1162/tacl_a_00638}{doi:\nolinkurl{10.1162/tacl_a_00638}}
+
+
+\bibitem[Lu et~al\mbox{.}(2024)]%
+        {ref49}
+\bibfield{author}{\bibinfo{person}{R.~S. Lu} {et~al\mbox{.}}}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Empowering Large Language Models to Leverage Domain
+  Knowledge: Implications for Education}.
+\newblock \bibinfo{journal}{\emph{Applied Sciences}} \bibinfo{volume}{14},
+  \bibinfo{number}{12} (\bibinfo{year}{2024}), \bibinfo{pages}{5264}.
+\newblock
+\urldef\tempurl%
+\url{https://www.mdpi.com/2076-3417/14/12/5264}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Mugaanyi et~al\mbox{.}(2024)]%
+        {ref17}
+\bibfield{author}{\bibinfo{person}{J. Mugaanyi}, \bibinfo{person}{L. Cai},
+  \bibinfo{person}{S. Cheng}, \bibinfo{person}{C. Lu}, {and}
+  \bibinfo{person}{J. Huang}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Evaluation of Large Language Model Performance and
+  Reliability for Citations and References in Scholarly Writing:
+  Cross-Disciplinary Study}.
+\newblock \bibinfo{journal}{\emph{J. Med. Internet Res.}}  \bibinfo{volume}{26}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{e52935}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmir.org/2024/1/e52935/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Nedumpozhimana and Kelleher(2025)]%
+        {ref44}
+\bibfield{author}{\bibinfo{person}{V. Nedumpozhimana} {and}
+  \bibinfo{person}{J.~D. Kelleher}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Topic aware probing: From sentence length
+  prediction to idiom identification how reliant are neural language models on
+  topic?}
+\newblock \bibinfo{journal}{\emph{Natural Language Processing}}
+  \bibinfo{volume}{31}, \bibinfo{number}{3} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{936--964}.
+\newblock
+\href{https://doi.org/10.1017/nlp.2024.43}{doi:\nolinkurl{10.1017/nlp.2024.43}}
+
+
+\bibitem[Oh and Schuler(2023)]%
+        {ref35}
+\bibfield{author}{\bibinfo{person}{B.-D. Oh} {and} \bibinfo{person}{W.
+  Schuler}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Why Does Surprisal From Larger Transformer-Based
+  Language Models Provide a Poorer Fit to Human Reading Times?}
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{11} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{336--350}.
+\newblock
+\href{https://doi.org/10.1162/tacl_a_00548}{doi:\nolinkurl{10.1162/tacl_a_00548}}
+
+
+\bibitem[Park et~al\mbox{.}(2021)]%
+        {ref34}
+\bibfield{author}{\bibinfo{person}{H.~H. Park}, \bibinfo{person}{K.~J. Zhang},
+  \bibinfo{person}{C. Haley}, \bibinfo{person}{K. Steimel}, \bibinfo{person}{H.
+  Liu}, {and} \bibinfo{person}{L. Schwartz}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Morphology Matters: A Multilingual Language
+  Modeling Analysis}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{9} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{261--276}.
+\newblock
+\href{https://doi.org/10.1162/tacl_a_00365}{doi:\nolinkurl{10.1162/tacl_a_00365}}
+
+
+\bibitem[Pternea et~al\mbox{.}(2024)]%
+        {ref12}
+\bibfield{author}{\bibinfo{person}{M. Pternea}, \bibinfo{person}{P. Singh},
+  \bibinfo{person}{A. Chakraborty}, \bibinfo{person}{Y. Oruganti},
+  \bibinfo{person}{M. Milletari}, \bibinfo{person}{S. Bapat}, {and}
+  \bibinfo{person}{K. Jiang}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{The RL/LLM Taxonomy Tree: Reviewing Synergies
+  Between Reinforcement Learning and Large Language Models}.
+\newblock \bibinfo{journal}{\emph{Journal of Artificial Intelligence Research}}
+   \bibinfo{volume}{80} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1613/jair.1.15960}{doi:\nolinkurl{10.1613/jair.1.15960}}
+
+
+\bibitem[Rajak(2022)]%
+        {ref30}
+\bibfield{author}{\bibinfo{person}{A. Rajak}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{title}{An AI-Driven Framework for Automated Software Testing
+  Using Natural Language Processing and Deep Learning}.
+\newblock \bibinfo{howpublished}{Online}.
+\newblock
+\urldef\tempurl%
+\url{https://www.techrxiv.org/users/929868/articles/1301150-an-ai-driven-framework-for-automated-software-testing-using-natural-language-processing-and-deep-learning}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2024-06-05}.
+
+
+\bibitem[Riccio et~al\mbox{.}(2020)]%
+        {ref27}
+\bibfield{author}{\bibinfo{person}{V. Riccio}, \bibinfo{person}{G.
+  Jahangirova}, \bibinfo{person}{A. Stocco}, \bibinfo{person}{N. Humbatova},
+  \bibinfo{person}{M. Weiss}, {and} \bibinfo{person}{P. Tonella}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Testing machine learning based systems: A
+  systematic mapping}.
+\newblock \bibinfo{journal}{\emph{Empirical Software Engineering}}
+  \bibinfo{volume}{25} (\bibinfo{year}{2020}), \bibinfo{pages}{5193--5254}.
+\newblock
+\href{https://doi.org/10.1007/s10664-020-09881-0}{doi:\nolinkurl{10.1007/s10664-020-09881-0}}
+
+
+\bibitem[Santis et~al\mbox{.}(2024)]%
+        {ref25}
+\bibfield{author}{\bibinfo{person}{E.~De Santis}, \bibinfo{person}{A. Kumar},
+  {and} \bibinfo{person}{M. Patel}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Human Versus Machine Intelligence: Assessing
+  Natural Language Generation Models Through Complex Systems Theory}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}} \bibinfo{volume}{46}, \bibinfo{number}{7}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{12345--12362}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/10413606/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Sarker(2021)]%
+        {ref28}
+\bibfield{author}{\bibinfo{person}{I.~H. Sarker}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Machine learning: algorithms, real-world
+  applications and research directions}.
+\newblock \bibinfo{journal}{\emph{Machine Learning}} \bibinfo{volume}{110},
+  \bibinfo{number}{9} (\bibinfo{year}{2021}), \bibinfo{pages}{3137--3183}.
+\newblock
+\href{https://doi.org/10.1007/s10994-021-05946-3}{doi:\nolinkurl{10.1007/s10994-021-05946-3}}
+
+
+\bibitem[Schuff et~al\mbox{.}(2025)]%
+        {ref43}
+\bibfield{author}{\bibinfo{person}{H. Schuff}, \bibinfo{person}{H. Adel}, {and}
+  \bibinfo{person}{N.~T. Vu}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Thought flow nets: From single predictions to
+  trains of model thought}.
+\newblock \bibinfo{journal}{\emph{Natural Language Processing}}
+  \bibinfo{volume}{31}, \bibinfo{number}{3} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{842--873}.
+\newblock
+\href{https://doi.org/10.1017/nlp.2024.41}{doi:\nolinkurl{10.1017/nlp.2024.41}}
+
+
+\bibitem[Sennrich et~al\mbox{.}(2018)]%
+        {ref37}
+\bibfield{author}{\bibinfo{person}{A. Sennrich}, \bibinfo{person}{B. Haddow},
+  {and} \bibinfo{person}{Q.~V. Le}.} \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Language Models for Machine Translation: Original
+  vs. Automatic Corpus}.
+\newblock \bibinfo{journal}{\emph{Computational Linguistics}}
+  \bibinfo{volume}{44}, \bibinfo{number}{3} (\bibinfo{year}{2018}),
+  \bibinfo{pages}{365--389}.
+\newblock
+\href{https://doi.org/10.1162/COLI_a_00111}{doi:\nolinkurl{10.1162/COLI_a_00111}}
+
+
+\bibitem[Shen et~al\mbox{.}(2023)]%
+        {ref11}
+\bibfield{author}{\bibinfo{person}{T. Shen}, \bibinfo{person}{R. Jin},
+  \bibinfo{person}{Y. Huang}, \bibinfo{person}{C. Liu}, \bibinfo{person}{W.
+  Dong}, \bibinfo{person}{Z. Guo}, \bibinfo{person}{X. Wu}, \bibinfo{person}{Y.
+  Liu}, {and} \bibinfo{person}{D. Xiong}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{title}{Large Language Model Alignment: A Survey}.
+\newblock \bibinfo{howpublished}{arXiv preprint arXiv:2309.15025, Online}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2309.15025}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2024-06-16}.
+
+
+\bibitem[Stan and Rostami(2024)]%
+        {ref26}
+\bibfield{author}{\bibinfo{person}{S. Stan} {and} \bibinfo{person}{M.
+  Rostami}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Preserving Fairness in AI under Domain Shift}.
+\newblock \bibinfo{journal}{\emph{Journal of Artificial Intelligence Research}}
+   \bibinfo{volume}{81} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1613/jair.1.16694}{doi:\nolinkurl{10.1613/jair.1.16694}}
+
+
+\bibitem[Takahashi et~al\mbox{.}(2019)]%
+        {ref51}
+\bibfield{author}{\bibinfo{person}{S. Takahashi}, \bibinfo{person}{E. Ponti},
+  {and} \bibinfo{person}{M. Yamada}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Evaluating Computational Language Models with
+  Scaling Properties of Language}.
+\newblock \bibinfo{journal}{\emph{Computational Linguistics}}
+  \bibinfo{volume}{45}, \bibinfo{number}{3} (\bibinfo{year}{2019}),
+  \bibinfo{pages}{417--448}.
+\newblock
+\href{https://doi.org/10.1162/COLI_a_00355}{doi:\nolinkurl{10.1162/COLI_a_00355}}
+
+
+\bibitem[Yang et~al\mbox{.}(2024)]%
+        {ref2}
+\bibfield{author}{\bibinfo{person}{C. Yang}, \bibinfo{person}{G. Huang},
+  \bibinfo{person}{M. Yu}, \bibinfo{person}{Z. Zhang}, \bibinfo{person}{S. Li},
+  \bibinfo{person}{M. Yang}, \bibinfo{person}{S. Shi}, \bibinfo{person}{Y.
+  Yang}, {and} \bibinfo{person}{L. Liu}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{An Energy-based Model for Word-level AutoCompletion
+  in Computer-aided Translation}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{12} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{137--156}.
+\newblock
+\urldef\tempurl%
+\url{https://aclanthology.org/2024.tacl-1.8/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Yang et~al\mbox{.}(2023)]%
+        {ref47}
+\bibfield{author}{\bibinfo{person}{X. Yang}, \bibinfo{person}{H. Zhao},
+  \bibinfo{person}{D. Phung}, \bibinfo{person}{W. Buntine}, {and}
+  \bibinfo{person}{L. Du}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{LLM Reading Tea Leaves: Automatically Evaluating
+  Topic Models with Large Language Models}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{11} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{1786--1804}.
+\newblock
+\href{https://doi.org/10.1162/tacl_a_00642}{doi:\nolinkurl{10.1162/tacl_a_00642}}
+
+
+\bibitem[Yehudai et~al\mbox{.}(2025)]%
+        {ref21}
+\bibfield{author}{\bibinfo{person}{A. Yehudai}, \bibinfo{person}{L. Eden},
+  \bibinfo{person}{A. Li}, \bibinfo{person}{G. Uziel}, \bibinfo{person}{Y.
+  Zhao}, \bibinfo{person}{R. Bar-Haim}, \bibinfo{person}{A. Cohan}, {and}
+  \bibinfo{person}{M. Shmueli-Scheuer}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{title}{Survey on Evaluation of LLM-based Agents}.
+\newblock \bibinfo{howpublished}{arXiv preprint}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2503.16416}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv:2503.16416}.
+
+
+\bibitem[Zhang et~al\mbox{.}(2024)]%
+        {ref1}
+\bibfield{author}{\bibinfo{person}{T. Zhang}, \bibinfo{person}{F. Ladhak},
+  \bibinfo{person}{E. Durmus}, \bibinfo{person}{P. Liang}, \bibinfo{person}{K.
+  McKeown}, {and} \bibinfo{person}{T.~B. Hashimoto}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Benchmarking Large Language Models for News
+  Summarization}.
+\newblock \bibinfo{journal}{\emph{Transactions of the Association for
+  Computational Linguistics}}  \bibinfo{volume}{12} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{39--57}.
+\newblock
+\urldef\tempurl%
+\url{https://aclanthology.org/2024.tacl-1.3/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Zhao et~al\mbox{.}(2023)]%
+        {ref10}
+\bibfield{author}{\bibinfo{person}{W.~X. Zhao} {et~al\mbox{.}}}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \bibinfo{title}{A Survey of Large Language Models}.
+\newblock \bibinfo{howpublished}{Online}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2303.18223}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2024-06-01}.
+
+
+\bibitem[Zhu et~al\mbox{.}(2024)]%
+        {ref6}
+\bibfield{author}{\bibinfo{person}{K. Zhu}, \bibinfo{person}{R. Fedus},
+  \bibinfo{person}{K. Borgeaud}, {and} \bibinfo{person}{et al.}}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{A Unified Library for Evaluation of Large Language
+  Models}.
+\newblock \bibinfo{journal}{\emph{J. Mach. Learn. Res.}} \bibinfo{volume}{25},
+  \bibinfo{number}{238} (\bibinfo{year}{2024}), \bibinfo{pages}{1--31}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmlr.org/papers/v25/24-0023.html}
+\showURL{%
+\tempurl}
+
+
+\end{thebibliography}

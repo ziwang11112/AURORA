@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_paper_round2.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: references.bib
+Warning--I'm ignoring ref21's extra "note" field
+--line 208 of file references.bib
+Warning--I didn't find a database entry for ""
+Warning--I didn't find a database entry for "adaptercitation"
+Warning--I didn't find a database entry for "prompttuningcitation"
+Warning--I didn't find a database entry for "loracitation"
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Warning--empty year in ref31
+Warning--using n.d. in ref31
+Warning--page numbers missing in both pages and numpages fields in ref20
+Warning--page numbers missing in both pages and numpages fields in ref9
+Warning--no number and no volume in ref15
+Warning--page numbers missing in both pages and numpages fields in ref15
+Warning--page numbers missing in both pages and numpages fields in ref12
+Warning--page numbers missing in both pages and numpages fields in ref26
+You've used 41 entries,
+            6056 wiz_defined-function locations,
+            1747 strings with 26654 characters,
+and the built_in function-call counts, 49529 in all, are:
+= -- 7505
+> -- 1679
+< -- 0
++ -- 579
+- -- 588
+* -- 3581
+:= -- 4661
+add.period$ -- 212
+call.type$ -- 41
+change.case$ -- 326
+chr.to.int$ -- 41
+cite$ -- 49
+duplicate$ -- 3877
+empty$ -- 2762
+format.name$ -- 712
+if$ -- 12644
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 136
+newline$ -- 497
+num.names$ -- 287
+pop$ -- 1381
+preamble$ -- 1
+purify$ -- 649
+quote$ -- 0
+skip$ -- 1341
+stack$ -- 0
+substring$ -- 3616
+swap$ -- 396
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 754
+warning$ -- 8
+while$ -- 268
+width$ -- 0
+write$ -- 935
+(There were 13 warnings)

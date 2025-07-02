@@ -1,0 +1,460 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{28}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Acosta et~al\mbox{.}(2022)]%
+        {ref24}
+\bibfield{author}{\bibinfo{person}{J.~N. Acosta}, \bibinfo{person}{G.~J.
+  Falcone}, \bibinfo{person}{P. Rajpurkar}, {and} \bibinfo{person}{E.~J.
+  Topol}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Multimodal biomedical AI}.
+\newblock \bibinfo{journal}{\emph{Nature Medicine}}  \bibinfo{volume}{28}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{1773--1784}.
+\newblock
+\href{https://doi.org/10.1038/s41591-022-01981-2}{doi:\nolinkurl{10.1038/s41591-022-01981-2}}
+
+
+\bibitem[AlSaad et~al\mbox{.}(2024)]%
+        {ref11}
+\bibfield{author}{\bibinfo{person}{R. AlSaad}, \bibinfo{person}{A.
+  Abd-alrazaq}, \bibinfo{person}{S. Boughorbel}, \bibinfo{person}{A. Ahmed},
+  \bibinfo{person}{M.-A. Renault}, \bibinfo{person}{R. Damseh}, {and}
+  \bibinfo{person}{J. Sheikh}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Multimodal Large Language Models in Health Care:
+  Applications, Challenges, and Future Outlook}.
+\newblock \bibinfo{journal}{\emph{Journal of Medical Internet Research}}
+  \bibinfo{volume}{26} (\bibinfo{year}{2024}), \bibinfo{pages}{e59505}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmir.org/2024/1/e59505/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Born and Manica(2023)]%
+        {ref34}
+\bibfield{author}{\bibinfo{person}{J. Born} {and} \bibinfo{person}{M. Manica}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Regression Transformer enables concurrent sequence
+  regression and generation for molecular language modelling}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{5}, \bibinfo{number}{4} (\bibinfo{date}{April}
+  \bibinfo{year}{2023}).
+\newblock
+\urldef\tempurl%
+\url{https://www.nature.com/natmachintell/volumes/5/issues/4}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Chen et~al\mbox{.}(2024)]%
+        {ref41}
+\bibfield{author}{\bibinfo{person}{X. Chen}, \bibinfo{person}{H. Xie}, {and}
+  \bibinfo{person}{B. Lei}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Artificial intelligence and multimodal data fusion
+  for smart healthcare: topic modeling and bibliometrics}.
+\newblock \bibinfo{journal}{\emph{Artificial Intelligence Review}}
+  \bibinfo{volume}{57}, \bibinfo{number}{4} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{91}.
+\newblock
+\href{https://doi.org/10.1007/s10462-024-10591-5}{doi:\nolinkurl{10.1007/s10462-024-10591-5}}
+
+
+\bibitem[Chu et~al\mbox{.}(2022)]%
+        {ref33}
+\bibfield{author}{\bibinfo{person}{Y. Chu}, \bibinfo{person}{Y. Zhang},
+  \bibinfo{person}{Q. Wang}, \bibinfo{person}{L. Zhang}, \bibinfo{person}{X.
+  Wang}, \bibinfo{person}{Y. Wang}, \bibinfo{person}{D.~R. Salahub},
+  \bibinfo{person}{Q. Xu}, \bibinfo{person}{J. Wang}, \bibinfo{person}{X.
+  Jiang}, \bibinfo{person}{Y. Xiong}, {and} \bibinfo{person}{D.-Q. Wei}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{A transformer-based model to predict peptide--HLA
+  class I binding and optimize mutated peptides for vaccine design}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{4} (\bibinfo{year}{2022}), \bibinfo{pages}{300--311}.
+\newblock
+\href{https://doi.org/10.1038/s42256-022-00459-7}{doi:\nolinkurl{10.1038/s42256-022-00459-7}}
+
+
+\bibitem[Du et~al\mbox{.}(2025)]%
+        {ref1}
+\bibfield{author}{\bibinfo{person}{C. Du}, \bibinfo{person}{K. Fu}, {and}
+  \bibinfo{person}{H. He}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Human-like object concept representations emerge
+  naturally in multimodal large language models}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{7}, \bibinfo{number}{6} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{548--559}.
+\newblock
+\urldef\tempurl%
+\url{https://www.nature.com/articles/s42256-025-00435-2}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Fedus et~al\mbox{.}(2022)]%
+        {ref27}
+\bibfield{author}{\bibinfo{person}{W. Fedus}, \bibinfo{person}{B. Zoph}, {and}
+  \bibinfo{person}{D.~P. Kingma}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Switch Transformers: Scaling to Trillion Parameter
+  Models with Simple and Efficient Sparsity}.
+\newblock \bibinfo{journal}{\emph{Journal of Machine Learning Research}}
+  \bibinfo{volume}{23}, \bibinfo{number}{1} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{1--39}.
+\newblock
+\urldef\tempurl%
+\url{https://jmlr.org/papers/volume23/21-0998/21-0998.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Feretzakis et~al\mbox{.}(2024)]%
+        {ref21}
+\bibfield{author}{\bibinfo{person}{G. Feretzakis}, \bibinfo{person}{A. Rivas},
+  \bibinfo{person}{S.~D. Georgakopoulos}, {and} \bibinfo{person}{S.
+  Mitrokotsa}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Trustworthy AI: Securing Sensitive Data in Large
+  Language Models}.
+\newblock \bibinfo{journal}{\emph{AI}} \bibinfo{volume}{5}, \bibinfo{number}{4}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{134}.
+\newblock
+\urldef\tempurl%
+\url{https://www.mdpi.com/2673-2688/5/4/134}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Khan et~al\mbox{.}(2022)]%
+        {ref37}
+\bibfield{author}{\bibinfo{person}{S. Khan}, \bibinfo{person}{M. Naseer},
+  \bibinfo{person}{M. Hayat}, \bibinfo{person}{S. Zamir}, \bibinfo{person}{F.
+  Siddiqui}, {and} \bibinfo{person}{M. Shah}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Transformers in Vision: A Survey}.
+\newblock \bibinfo{journal}{\emph{Comput. Surveys}} \bibinfo{volume}{54},
+  \bibinfo{number}{10s} (\bibinfo{year}{2022}), \bibinfo{pages}{1--41}.
+\newblock
+\href{https://doi.org/10.1145/3505244}{doi:\nolinkurl{10.1145/3505244}}
+
+
+\bibitem[Li et~al\mbox{.}(2022)]%
+        {ref31}
+\bibfield{author}{\bibinfo{person}{Z. Li}, \bibinfo{person}{Y. Han},
+  \bibinfo{person}{T. Liu}, \bibinfo{person}{C. Ding}, \bibinfo{person}{Q. Li},
+  {and} \bibinfo{person}{J. Yin}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Transformer-based Context-Aware Feature
+  Interactions for Click-Through Rate Prediction}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}} \bibinfo{volume}{44}, \bibinfo{number}{9}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{5433--5446}.
+\newblock
+\href{https://doi.org/10.1109/TPAMI.2021.3123474}{doi:\nolinkurl{10.1109/TPAMI.2021.3123474}}
+
+
+\bibitem[Liu et~al\mbox{.}(2022)]%
+        {ref8}
+\bibfield{author}{\bibinfo{person}{M. Liu}, \bibinfo{person}{X. Chen}, {and}
+  \bibinfo{person}{Q. Huang}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Towards Multimodal Large Language Models: Advances,
+  Challenges, and Opportunities}.
+\newblock \bibinfo{journal}{\emph{AI}} \bibinfo{volume}{3}, \bibinfo{number}{4}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{407--420}.
+\newblock
+\urldef\tempurl%
+\url{https://www.mdpi.com/2673-9541/3/4/407}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Mahner et~al\mbox{.}(2025)]%
+        {ref3}
+\bibfield{author}{\bibinfo{person}{F.~P. Mahner}, \bibinfo{person}{L.
+  Muttenthaler}, {and} \bibinfo{person}{M.~N. Hebart}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Dimensions underlying the representational
+  alignment of deep neural networks with humans}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{7}, \bibinfo{number}{6} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{575--588}.
+\newblock
+\urldef\tempurl%
+\url{https://www.nature.com/articles/s42256-025-00437-4}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Malfa et~al\mbox{.}(2024)]%
+        {ref17}
+\bibfield{author}{\bibinfo{person}{E.~La Malfa}, \bibinfo{person}{A. Petrov},
+  \bibinfo{person}{S. Frieder}, \bibinfo{person}{C. Weinhuber},
+  \bibinfo{person}{R. Burnell}, \bibinfo{person}{R. Nazar}, \bibinfo{person}{A.
+  Cohn}, \bibinfo{person}{N. Shadbolt}, {and} \bibinfo{person}{M. Wooldridge}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Language-Models-as-a-Service: Overview of a New
+  Paradigm and its Challenges}.
+\newblock \bibinfo{journal}{\emph{Journal of Artificial Intelligence Research}}
+   \bibinfo{volume}{80} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1613/jair.1.15865}{doi:\nolinkurl{10.1613/jair.1.15865}}
+
+
+\bibitem[Moschoula et~al\mbox{.}(2024)]%
+        {ref18}
+\bibfield{author}{\bibinfo{person}{P. Moschoula}, \bibinfo{person}{P. Singh},
+  \bibinfo{person}{A. Chakraborty}, \bibinfo{person}{Y. Oruganti},
+  \bibinfo{person}{M. Milletari}, \bibinfo{person}{S. Bapat}, {and}
+  \bibinfo{person}{K. Jiang}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{The RL/LLM Taxonomy Tree: Reviewing Synergies
+  Between Reinforcement Learning and Large Language Models}.
+\newblock \bibinfo{journal}{\emph{Journal of Artificial Intelligence Research}}
+   \bibinfo{volume}{80} (\bibinfo{year}{2024}).
+\newblock
+\href{https://doi.org/10.1613/jair.1.15960}{doi:\nolinkurl{10.1613/jair.1.15960}}
+
+
+\bibitem[Pontikos et~al\mbox{.}(2025)]%
+        {ref20}
+\bibfield{author}{\bibinfo{person}{N. Pontikos}, \bibinfo{person}{W.~A. Woof},
+  {and} \bibinfo{person}{M. Michaelides}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Next-generation phenotyping of inherited retinal
+  diseases from multimodal imaging with Eye2Gene}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{7}, \bibinfo{number}{6} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{594--608}.
+\newblock
+\urldef\tempurl%
+\url{https://www.nature.com/articles/s42256-025-01040-8}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Pérez et~al\mbox{.}(2021)]%
+        {ref28}
+\bibfield{author}{\bibinfo{person}{J. Pérez}, \bibinfo{person}{R.~L. Uria},
+  \bibinfo{person}{P. Pollakis}, \bibinfo{person}{J. Marecek},
+  \bibinfo{person}{K. Muroya}, {and} \bibinfo{person}{N. Durrani}.}
+  \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Attention is Turing Complete}.
+\newblock \bibinfo{journal}{\emph{Journal of Machine Learning Research}}
+  \bibinfo{volume}{22}, \bibinfo{number}{1} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{1--24}.
+\newblock
+\urldef\tempurl%
+\url{https://jmlr.org/papers/volume22/20-302/20-302.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Raffel et~al\mbox{.}(2020)]%
+        {ref29}
+\bibfield{author}{\bibinfo{person}{Colin Raffel}, \bibinfo{person}{Noam
+  Shazeer}, \bibinfo{person}{Adam Roberts}, \bibinfo{person}{Katherine Lee},
+  \bibinfo{person}{Sharan Narang}, \bibinfo{person}{Michael Matena},
+  \bibinfo{person}{Yanqi Zhou}, \bibinfo{person}{Wei Li}, {and}
+  \bibinfo{person}{Peter~J. Liu}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Exploring the Limits of Transfer Learning with a
+  Unified Text-to-Text Transformer}.
+\newblock \bibinfo{journal}{\emph{Journal of Machine Learning Research}}
+  \bibinfo{volume}{21}, \bibinfo{number}{1} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{1--67}.
+\newblock
+\urldef\tempurl%
+\url{https://jmlr.org/papers/volume21/20-074/20-074.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Salierno(2025)]%
+        {ref22}
+\bibfield{author}{\bibinfo{person}{G. Salierno}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Generative AI and Large Language Models in Industry
+  5.0}.
+\newblock \bibinfo{journal}{\emph{AI}} \bibinfo{volume}{5}, \bibinfo{number}{1}
+  (\bibinfo{year}{2025}), \bibinfo{pages}{30}.
+\newblock
+\urldef\tempurl%
+\url{https://www.mdpi.com/2673-8392/5/1/30}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Shah et~al\mbox{.}(2024)]%
+        {ref23}
+\bibfield{author}{\bibinfo{person}{K. Shah}, \bibinfo{person}{S. Russell},
+  {and} \bibinfo{person}{M. Lakshmanan}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Large Language Model Prompting Techniques for
+  Clinical Decision Support}.
+\newblock \bibinfo{journal}{\emph{J. Clin. Med.}} \bibinfo{volume}{13},
+  \bibinfo{number}{17} (\bibinfo{year}{2024}), \bibinfo{pages}{5101}.
+\newblock
+\urldef\tempurl%
+\url{https://www.mdpi.com/2077-0383/13/17/5101}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Sublime(2024)]%
+        {ref16}
+\bibfield{author}{\bibinfo{person}{J. Sublime}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{The AI Race: Why Current Neural Network-based
+  Architectures are a Poor Basis for Artificial General Intelligence}.
+\newblock \bibinfo{journal}{\emph{Journal of Artificial Intelligence Research}}
+   \bibinfo{volume}{80} (\bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://jair.org/index.php/jair/article/view/15315}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Sun et~al\mbox{.}(2024)]%
+        {ref25}
+\bibfield{author}{\bibinfo{person}{S. Sun}, \bibinfo{person}{W. An},
+  \bibinfo{person}{F. Tian}, \bibinfo{person}{F. Nan}, \bibinfo{person}{Q.
+  Liu}, \bibinfo{person}{J. Liu}, \bibinfo{person}{N. Shah}, {and}
+  \bibinfo{person}{P. Chen}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{A Review of Multimodal Explainable Artificial
+  Intelligence: Past, Present and Future}.
+\newblock \bibinfo{howpublished}{arXiv preprint arXiv:2412.14056}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2412.14056}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2024-06-20}.
+
+
+\bibitem[Tay et~al\mbox{.}(2022)]%
+        {ref36}
+\bibfield{author}{\bibinfo{person}{Y. Tay}, \bibinfo{person}{M. Dehghani},
+  \bibinfo{person}{D. Bahri}, {and} \bibinfo{person}{D. Metzler}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Efficient Transformers: A Survey}.
+\newblock \bibinfo{journal}{\emph{Comput. Surveys}} \bibinfo{volume}{55},
+  \bibinfo{number}{6} (\bibinfo{year}{2022}), \bibinfo{pages}{1--28}.
+\newblock
+\href{https://doi.org/10.1145/3530811}{doi:\nolinkurl{10.1145/3530811}}
+
+
+\bibitem[Whitehead et~al\mbox{.}(2025)]%
+        {ref10}
+\bibfield{author}{\bibinfo{person}{R. Whitehead}, \bibinfo{person}{A. Nguyen},
+  {and} \bibinfo{person}{S. Järvelä}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Utilizing Multimodal Large Language Models for
+  Video Analysis of Posture in Studying Collaborative Learning: A Case Study}.
+\newblock \bibinfo{journal}{\emph{Journal of Learning Analytics}}
+  \bibinfo{volume}{12}, \bibinfo{number}{1} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{186--200}.
+\newblock
+\href{https://doi.org/10.18608/jla.2025.8595}{doi:\nolinkurl{10.18608/jla.2025.8595}}
+
+
+\bibitem[Wu et~al\mbox{.}(2022)]%
+        {ref32}
+\bibfield{author}{\bibinfo{person}{H. Wu}, \bibinfo{person}{W. Wang},
+  \bibinfo{person}{F. Wang}, \bibinfo{person}{X. Chen}, {and}
+  \bibinfo{person}{W. Chen}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{End-to-End Transformer-Based Framework for Facial
+  Action Unit Detection}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}} \bibinfo{volume}{44}, \bibinfo{number}{3}
+  (\bibinfo{year}{2022}), \bibinfo{pages}{1196--1209}.
+\newblock
+\href{https://doi.org/10.1109/TPAMI.2020.3033120}{doi:\nolinkurl{10.1109/TPAMI.2020.3033120}}
+
+
+\bibitem[Wu et~al\mbox{.}(2023)]%
+        {ref13}
+\bibfield{author}{\bibinfo{person}{J. Wu}, \bibinfo{person}{W. Gan},
+  \bibinfo{person}{Z. Chen}, \bibinfo{person}{S. Wan}, {and}
+  \bibinfo{person}{P.~S. Yu}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Multimodal Large Language Models: A Survey}. In
+  \bibinfo{booktitle}{\emph{IEEE BigData 2023}}. \bibinfo{pages}{1--10}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2311.13165}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Yin et~al\mbox{.}(2023)]%
+        {ref14}
+\bibfield{author}{\bibinfo{person}{S. Yin}, \bibinfo{person}{C. Fu},
+  \bibinfo{person}{S. Zhao}, \bibinfo{person}{K. Li}, \bibinfo{person}{X. Sun},
+  \bibinfo{person}{T. Xu}, {and} \bibinfo{person}{E. Chen}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{A Survey on Multimodal Large Language Models}.
+\newblock \bibinfo{journal}{\emph{Nat. Sci. Rev.}} \bibinfo{volume}{11},
+  \bibinfo{number}{6} (\bibinfo{year}{2023}).
+\newblock
+\href{https://doi.org/10.1093/nsr/nwae403}{doi:\nolinkurl{10.1093/nsr/nwae403}}
+
+
+\bibitem[Zhang et~al\mbox{.}(2023)]%
+        {ref7}
+\bibfield{author}{\bibinfo{person}{Y. Zhang}, \bibinfo{person}{L. Wang}, {and}
+  \bibinfo{person}{J. Hu}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Multimodal Large Language Models for Medical Visual
+  Question Answering: A Survey}.
+\newblock \bibinfo{journal}{\emph{AI}} \bibinfo{volume}{4}, \bibinfo{number}{2}
+  (\bibinfo{year}{2023}), \bibinfo{pages}{287--311}.
+\newblock
+\urldef\tempurl%
+\url{https://www.mdpi.com/2673-9541/4/2/287}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Zhang et~al\mbox{.}(2024)]%
+        {ref35}
+\bibfield{author}{\bibinfo{person}{Z. Zhang}, \bibinfo{person}{W. Xiang}, {and}
+  \bibinfo{person}{M. Zitnik}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Efficient generation of protein pockets with
+  PocketGen}.
+\newblock \bibinfo{journal}{\emph{Nature Machine Intelligence}}
+  \bibinfo{volume}{6}, \bibinfo{number}{4} (\bibinfo{date}{Nov}
+  \bibinfo{year}{2024}).
+\newblock
+\urldef\tempurl%
+\url{https://www.nature.com/natmachintell/articles}
+\showURL{%
+\tempurl}
+
+
+\end{thebibliography}

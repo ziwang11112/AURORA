@@ -1,0 +1,22 @@
+﻿category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,3.19,3.38,3.25,0.0,0.0,0.0,,2505.00525v1.pdf
+Analysis,Gaps,3.62,3.69,3.62,0.0,1.0,0.0,,2505.00525v1.pdf
+Analysis,Integration,3.5,3.44,3.62,0.0,0.0,0.0,,2505.00525v1.pdf
+Literature,Balance,4.31,4.44,4.31,0.0,1.0,0.0,,2505.00525v1.pdf
+Literature,Comprehensiveness,4.94,4.94,5.0,0.0,0.0,1.0,,2505.00525v1.pdf
+Literature,Currency,5.0,5.0,5.0,1.0,1.0,1.0,,2505.00525v1.pdf
+Organization,Logical Flow,4.56,4.62,4.56,0.0,1.0,0.0,,2505.00525v1.pdf
+Organization,Section Clarity,4.56,4.81,4.62,0.0,0.0,0.0,,2505.00525v1.pdf
+Organization,Summarization,4.0,4.12,4.0,0.0,1.0,0.0,,2505.00525v1.pdf
+Originality,Advancement,3.44,3.62,3.56,0.0,0.0,0.0,,2505.00525v1.pdf
+Originality,Novelty,3.44,3.38,3.44,0.0,1.0,0.0,,2505.00525v1.pdf
+Originality,Redundancy Avoidance,4.06,4.0,4.0,1.0,0.0,0.0,,2505.00525v1.pdf
+Presentation,Formatting,4.44,4.69,4.44,0.0,1.0,0.0,,2505.00525v1.pdf
+Presentation,Language,4.62,4.62,4.69,0.0,0.0,1.0,,2505.00525v1.pdf
+Presentation,Visuals,4.0,4.06,4.0,0.0,1.0,0.0,,2505.00525v1.pdf
+References,Accuracy,4.75,4.88,4.88,1.0,0.0,0.0,,2505.00525v1.pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,2505.00525v1.pdf
+Scope,Audience,4.62,4.56,4.62,0.0,1.0,0.0,,2505.00525v1.pdf
+Scope,Objectives,2.88,2.88,2.62,0.0,0.0,1.0,,2505.00525v1.pdf
+Scope,Relevance,4.75,4.88,4.94,0.0,0.0,0.0,,2505.00525v1.pdf
+TOTAL,,83.67999999999999,85.00999999999999,84.17,,,,,2505.00525v1.pdf

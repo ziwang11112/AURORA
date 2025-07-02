@@ -1,0 +1,501 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{32}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Afshani et~al\mbox{.}(2023)]%
+        {ref11}
+\bibfield{author}{\bibinfo{person}{P. Afshani}, \bibinfo{person}{P. Cheng},
+  \bibinfo{person}{A.~B. Roy}, {and} \bibinfo{person}{Z. Wei}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{On Range Summary Queries}. In
+  \bibinfo{booktitle}{\emph{Proceedings of the 50th International Colloquium on
+  Automata, Languages, and Programming (ICALP)}}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2305.03180}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{To appear}.
+
+
+\bibitem[Agarwal et~al\mbox{.}(2013)]%
+        {ref2}
+\bibfield{author}{\bibinfo{person}{P.~K. Agarwal}, \bibinfo{person}{J.
+  Matoušek}, {and} \bibinfo{person}{M. Sharir}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{On Range Searching with Semialgebraic Sets. II}.
+\newblock \bibinfo{journal}{\emph{SIAM J. Comput.}} \bibinfo{volume}{42},
+  \bibinfo{number}{6} (\bibinfo{year}{2013}), \bibinfo{pages}{2039--2062}.
+\newblock
+\href{https://doi.org/10.1137/120890855}{doi:\nolinkurl{10.1137/120890855}}
+
+
+\bibitem[Al-Mamun et~al\mbox{.}(2024)]%
+        {ref34}
+\bibfield{author}{\bibinfo{person}{A. Al-Mamun}, \bibinfo{person}{H. Wu},
+  \bibinfo{person}{Q. He}, \bibinfo{person}{J. Wang}, {and}
+  \bibinfo{person}{W.~G. Aref}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{A Survey of Learned Indexes for the Multi-dimensional
+  Space}.
+\newblock \bibinfo{howpublished}{Online}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2403.06456}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{arXiv preprint arXiv:2403.06456}.
+
+
+\bibitem[Bahri(2019)]%
+        {ref30}
+\bibfield{author}{\bibinfo{person}{N. Bahri}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{On indexing evidential data}.
+\newblock \bibinfo{journal}{\emph{Information Systems}}  \bibinfo{volume}{84}
+  (\bibinfo{year}{2019}), \bibinfo{pages}{1--14}.
+\newblock
+\urldef\tempurl%
+\url{https://www.sciencedirect.com/science/article/pii/S0888613X18303566}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Cai et~al\mbox{.}(2025)]%
+        {ref20}
+\bibfield{author}{\bibinfo{person}{W. Cai}, \bibinfo{person}{F. Yang},
+  \bibinfo{person}{B. Yao}, \bibinfo{person}{C. Li}, {and} \bibinfo{person}{G.
+  Sun}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{An adaptive k-means clustering algorithm based on
+  grid and domain centroid weights for digital twins in the context of digital
+  transformation}.
+\newblock \bibinfo{journal}{\emph{J. Big Data}} \bibinfo{volume}{12},
+  \bibinfo{number}{130} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s40537-025-01180-z}{doi:\nolinkurl{10.1186/s40537-025-01180-z}}
+
+
+\bibitem[Choi et~al\mbox{.}(2020)]%
+        {ref7}
+\bibfield{author}{\bibinfo{person}{W. Choi}, \bibinfo{person}{C. Shim},
+  \bibinfo{person}{I. Yun}, {and} \bibinfo{person}{H. Shin}.}
+  \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Scalable Algorithms for Maximizing Spatiotemporal
+  Range Queries}.
+\newblock \bibinfo{journal}{\emph{Electronics}} \bibinfo{volume}{9},
+  \bibinfo{number}{3} (\bibinfo{year}{2020}), \bibinfo{pages}{514}.
+\newblock
+\urldef\tempurl%
+\url{https://www.mdpi.com/2079-9292/9/3/514}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Cong et~al\mbox{.}(2024)]%
+        {ref26}
+\bibfield{author}{\bibinfo{person}{G. Cong}, \bibinfo{person}{W. You}, {and}
+  \bibinfo{person}{J. Gehrke}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Machine Learning for Databases: Foundations,
+  Paradigms, and Future Directions}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Database Systems}}
+  \bibinfo{volume}{48}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{1--45}.
+\newblock
+\href{https://doi.org/10.1145/3626246.3654686}{doi:\nolinkurl{10.1145/3626246.3654686}}
+
+
+\bibitem[Garcia-Pedrajas and Cerruela-Garc\'{\i}a(2025)]%
+        {ref17}
+\bibfield{author}{\bibinfo{person}{N.~E. Garcia-Pedrajas} {and}
+  \bibinfo{person}{G. Cerruela-Garc\'{\i}a}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{PYRAMID: A label hierarchical clustering approach
+  for multilabel classification}.
+\newblock \bibinfo{journal}{\emph{Machine Learning: Science and Technology}}
+  \bibinfo{volume}{6}, \bibinfo{number}{3} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{035013}.
+\newblock
+\href{https://doi.org/10.1088/2632-2153/adde0e}{doi:\nolinkurl{10.1088/2632-2153/adde0e}}
+
+
+\bibitem[Haripriya et~al\mbox{.}(2024)]%
+        {ref22}
+\bibfield{author}{\bibinfo{person}{R. Haripriya}, \bibinfo{person}{N. Khare},
+  \bibinfo{person}{M. Pandey}, {and} \bibinfo{person}{S. Biswas}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Decentralized big data mining: federated learning
+  for clustering youth tobacco use in India}.
+\newblock \bibinfo{journal}{\emph{J. Big Data}}  \bibinfo{volume}{11}
+  (\bibinfo{year}{2024}), \bibinfo{pages}{179}.
+\newblock
+\href{https://doi.org/10.1186/s40537-024-01042-0}{doi:\nolinkurl{10.1186/s40537-024-01042-0}}
+
+
+\bibitem[Ho et~al\mbox{.}(2025)]%
+        {ref19}
+\bibfield{author}{\bibinfo{person}{M. Ho}, \bibinfo{person}{X. Zhao}, {and}
+  \bibinfo{person}{B.~D. Wandelt}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Ordered embeddings and intrinsic dimensionalities
+  with information-ordered bottlenecks}.
+\newblock \bibinfo{journal}{\emph{Machine Learning: Science and Technology}}
+  \bibinfo{volume}{6}, \bibinfo{number}{3} (\bibinfo{year}{2025}),
+  \bibinfo{pages}{035008}.
+\newblock
+\href{https://doi.org/10.1088/2632-2153/ade94d}{doi:\nolinkurl{10.1088/2632-2153/ade94d}}
+
+
+\bibitem[Huang et~al\mbox{.}(2023)]%
+        {ref27}
+\bibfield{author}{\bibinfo{person}{K. Huang}, \bibinfo{person}{J. Zhang},
+  \bibinfo{person}{J. Li}, {and} \bibinfo{person}{W. Chen}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{The Past, Present and Future of Indexing on
+  Persistent Memory}.
+\newblock \bibinfo{journal}{\emph{ACM Transactions on Database Systems}}
+  \bibinfo{volume}{48}, \bibinfo{number}{1} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{2:1--2:35}.
+\newblock
+\href{https://doi.org/10.14778/3554821.3554897}{doi:\nolinkurl{10.14778/3554821.3554897}}
+
+
+\bibitem[Huang et~al\mbox{.}(2021)]%
+        {ref14}
+\bibfield{author}{\bibinfo{person}{Y. Huang}, \bibinfo{person}{M. Chen}, {and}
+  \bibinfo{person}{T. Li}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Incorporating domain ontology information into
+  clustering heterogeneous networks}.
+\newblock \bibinfo{journal}{\emph{WIREs Data Mining and Knowledge Discovery}}
+  \bibinfo{volume}{11}, \bibinfo{number}{3} (\bibinfo{year}{2021}),
+  \bibinfo{pages}{e1413}.
+\newblock
+\href{https://doi.org/10.1002/widm.1413}{doi:\nolinkurl{10.1002/widm.1413}}
+
+
+\bibitem[Klepper et~al\mbox{.}(2023)]%
+        {ref13}
+\bibfield{author}{\bibinfo{person}{S. Klepper}, \bibinfo{person}{C. Heuss},
+  \bibinfo{person}{S.~L. Campêlo}, {and} \bibinfo{person}{S. Hildebrandt}.}
+  \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Clustering with Tangles: Algorithmic Framework and
+  Guarantees}.
+\newblock \bibinfo{journal}{\emph{Journal of Machine Learning Research}}
+  \bibinfo{volume}{24}, \bibinfo{number}{1} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{1--55}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmlr.org/papers/volume24/21-1160/21-1160.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Larsen(2014)]%
+        {ref1}
+\bibfield{author}{\bibinfo{person}{K.~G. Larsen}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{On Range Searching in the Group Model and
+  Combinatorial Discrepancy}.
+\newblock \bibinfo{journal}{\emph{SIAM J. Comput.}} \bibinfo{volume}{43},
+  \bibinfo{number}{2} (\bibinfo{year}{2014}), \bibinfo{pages}{673--686}.
+\newblock
+\href{https://doi.org/10.1137/120865240}{doi:\nolinkurl{10.1137/120865240}}
+
+
+\bibitem[Liao et~al\mbox{.}(2020)]%
+        {ref5}
+\bibfield{author}{\bibinfo{person}{Q. Liao}, \bibinfo{person}{S. Li}, {and}
+  \bibinfo{person}{X. Hu}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Point Set Registration for 3D Range Scans Using
+  Fuzzy Correspondences}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}} \bibinfo{volume}{42}, \bibinfo{number}{9}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{2167--2180}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9026868}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Licks and Meneguzzi(2020)]%
+        {ref33}
+\bibfield{author}{\bibinfo{person}{G.~P. Licks} {and} \bibinfo{person}{F.
+  Meneguzzi}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \bibinfo{title}{Automated Database Indexing using Model-free
+  Reinforcement Learning}.
+\newblock \bibinfo{howpublished}{arXiv preprint arXiv:2007.14244}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2007.14244}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2024-06-10}.
+
+
+\bibitem[Malkov and Yashunin(2020)]%
+        {ref4}
+\bibfield{author}{\bibinfo{person}{Y.~A. Malkov} {and} \bibinfo{person}{D.~A.
+  Yashunin}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{Efficient and Robust Approximate Nearest Neighbor
+  Search Using Hierarchical Navigable Small World Graphs}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}} \bibinfo{volume}{42}, \bibinfo{number}{4}
+  (\bibinfo{year}{2020}), \bibinfo{pages}{824--836}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/8594636}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Medina et~al\mbox{.}(2018)]%
+        {ref31}
+\bibfield{author}{\bibinfo{person}{J.~M. Medina}, \bibinfo{person}{J.~F.
+  Nieves}, {and} \bibinfo{person}{J.~A. Pulido}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \showarticletitle{Indexing techniques to improve the performance of
+  database systems: Overview and current trends}.
+\newblock \bibinfo{journal}{\emph{Information Systems}}  \bibinfo{volume}{72}
+  (\bibinfo{year}{2018}), \bibinfo{pages}{42--56}.
+\newblock
+\urldef\tempurl%
+\url{https://www.sciencedirect.com/science/article/abs/pii/S030643791830097X}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Melton et~al\mbox{.}(2020)]%
+        {ref18}
+\bibfield{author}{\bibinfo{person}{C.~N. Melton}, \bibinfo{person}{S.~L.
+  Johnson}, \bibinfo{person}{N.~C. Plumb}, \bibinfo{person}{M. Radovic},
+  \bibinfo{person}{M. Hashimoto}, \bibinfo{person}{P.~D.~C. King}, {and}
+  \bibinfo{person}{D.~F. McMorrow}.} \bibinfo{year}{2020}\natexlab{}.
+\newblock \showarticletitle{K-means-driven Gaussian Process data collection for
+  angle-resolved photoemission spectroscopy}.
+\newblock \bibinfo{journal}{\emph{Machine Learning: Science and Technology}}
+  \bibinfo{volume}{1}, \bibinfo{number}{4} (\bibinfo{year}{2020}),
+  \bibinfo{pages}{045015}.
+\newblock
+\href{https://doi.org/10.1088/2632-2153/abab61}{doi:\nolinkurl{10.1088/2632-2153/abab61}}
+
+
+\bibitem[Mortensen(2006)]%
+        {ref3}
+\bibfield{author}{\bibinfo{person}{C.-W. Mortensen}.}
+  \bibinfo{year}{2006}\natexlab{}.
+\newblock \showarticletitle{Fully Dynamic Orthogonal Range Reporting on RAM}.
+\newblock \bibinfo{journal}{\emph{SIAM J. Comput.}} \bibinfo{volume}{35},
+  \bibinfo{number}{5} (\bibinfo{year}{2006}), \bibinfo{pages}{1268--1303}.
+\newblock
+\href{https://doi.org/10.1137/S0097539703436722}{doi:\nolinkurl{10.1137/S0097539703436722}}
+
+
+\bibitem[Moseley et~al\mbox{.}(2023)]%
+        {ref12}
+\bibfield{author}{\bibinfo{person}{B. Moseley}, \bibinfo{person}{J. Wang},
+  {and} \bibinfo{person}{M. Wang}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Average Linkage, Bisecting K-means, and Local
+  Search}.
+\newblock \bibinfo{journal}{\emph{Journal of Machine Learning Research}}
+  \bibinfo{volume}{24}, \bibinfo{number}{1} (\bibinfo{year}{2023}),
+  \bibinfo{pages}{1--39}.
+\newblock
+\urldef\tempurl%
+\url{https://www.jmlr.org/papers/volume24/18-080/18-080.pdf}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Nakazono et~al\mbox{.}(2024)]%
+        {ref35}
+\bibfield{author}{\bibinfo{person}{S. Nakazono}, \bibinfo{person}{Y. Bessho},
+  \bibinfo{person}{H. Kawashima}, {and} \bibinfo{person}{T. Nakamori}.}
+  \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{Griffin: Fast Transactional Database Index with Hash
+  and B+-Tree}.
+\newblock \bibinfo{howpublished}{arXiv preprint arXiv:2407.13294, Online}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2407.13294}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2024-07}.
+
+
+\bibitem[Niu et~al\mbox{.}(2019)]%
+        {ref25}
+\bibfield{author}{\bibinfo{person}{Chaoyue Niu}, \bibinfo{person}{Zhenzhe
+  Zheng}, \bibinfo{person}{Fan Wu}, \bibinfo{person}{Xiaofeng Gao}, {and}
+  \bibinfo{person}{Guihai Chen}.} \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{Achieving Data Truthfulness and Privacy
+  Preservation in Data Markets}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Knowledge and Data
+  Engineering}} \bibinfo{volume}{31}, \bibinfo{number}{1}
+  (\bibinfo{year}{2019}), \bibinfo{pages}{105--119}.
+\newblock
+\href{https://doi.org/10.1109/TKDE.2018.2850348}{doi:\nolinkurl{10.1109/TKDE.2018.2850348}}
+
+
+\bibitem[Paparrizos et~al\mbox{.}(2024)]%
+        {ref23}
+\bibfield{author}{\bibinfo{person}{J. Paparrizos}, \bibinfo{person}{F. Yang},
+  {and} \bibinfo{person}{H. Li}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \bibinfo{title}{Bridging the Gap: A Decade Review of Time-Series
+  Clustering Methods}.
+\newblock \bibinfo{howpublished}{arXiv preprint arXiv:2412.20582}.
+\newblock
+\urldef\tempurl%
+\url{https://arxiv.org/abs/2412.20582}
+\showURL{%
+\tempurl}
+\newblock
+\shownote{Accessed: 2024-06}.
+
+
+\bibitem[Plevris et~al\mbox{.}(2021)]%
+        {ref8}
+\bibfield{author}{\bibinfo{person}{V. Plevris}, \bibinfo{person}{G. Kalivas},
+  {and} \bibinfo{person}{I. Andreadou}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{Pure Random Orthogonal Search (PROS): A Plain and
+  Efficient Method for Global Optimization}.
+\newblock \bibinfo{journal}{\emph{Applied Sciences}} \bibinfo{volume}{11},
+  \bibinfo{number}{11} (\bibinfo{year}{2021}), \bibinfo{pages}{5053}.
+\newblock
+\urldef\tempurl%
+\url{https://www.mdpi.com/2076-3417/11/11/5053}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Sardar et~al\mbox{.}(2024)]%
+        {ref16}
+\bibfield{author}{\bibinfo{person}{T.~H. Sardar}, \bibinfo{person}{M.~A.
+  Saleh}, {and} \bibinfo{person}{I. Atoum}.} \bibinfo{year}{2024}\natexlab{}.
+\newblock \showarticletitle{Reflecting on a decade of evolution:
+  MapReduce‐based clustering of big data}.
+\newblock \bibinfo{journal}{\emph{WIREs Data Mining and Knowledge Discovery}}
+  \bibinfo{volume}{14}, \bibinfo{number}{1} (\bibinfo{year}{2024}),
+  \bibinfo{pages}{e1566}.
+\newblock
+\href{https://doi.org/10.1002/widm.1566}{doi:\nolinkurl{10.1002/widm.1566}}
+
+
+\bibitem[Sharma et~al\mbox{.}(2021)]%
+        {ref32}
+\bibfield{author}{\bibinfo{person}{A. Sharma}, \bibinfo{person}{S. Hajj}, {and}
+  \bibinfo{person}{B. Bhuyan}.} \bibinfo{year}{2021}\natexlab{}.
+\newblock \showarticletitle{PalmHashNet: Palmprint Hashing Network for Indexing
+  Large Databases to Boost Identification}.
+\newblock \bibinfo{journal}{\emph{IEEE Access}}  \bibinfo{volume}{9}
+  (\bibinfo{year}{2021}), \bibinfo{pages}{43522--43534}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/9585462/}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Sieranoja and Fränti(2025)]%
+        {ref21}
+\bibfield{author}{\bibinfo{person}{S. Sieranoja} {and} \bibinfo{person}{P.
+  Fränti}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{Fast agglomerative clustering using approximate
+  traveling salesman solutions}.
+\newblock \bibinfo{journal}{\emph{J. Big Data}} \bibinfo{volume}{12},
+  \bibinfo{number}{21} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.1186/s40537-024-01053-x}{doi:\nolinkurl{10.1186/s40537-024-01053-x}}
+
+
+\bibitem[Wu(2022)]%
+        {ref29}
+\bibfield{author}{\bibinfo{person}{G. Wu}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{A case study for Adaptive Radix Tree index}.
+\newblock \bibinfo{journal}{\emph{Information Systems}} \bibinfo{volume}{104},
+  \bibinfo{number}{C} (\bibinfo{year}{2022}), \bibinfo{pages}{101--113}.
+\newblock
+\urldef\tempurl%
+\url{https://www.sciencedirect.com/science/article/abs/pii/S0306437921001228}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Yao et~al\mbox{.}(2023)]%
+        {ref6}
+\bibfield{author}{\bibinfo{person}{R. Yao}, \bibinfo{person}{J. Liu}, {and}
+  \bibinfo{person}{H. Li}.} \bibinfo{year}{2023}\natexlab{}.
+\newblock \showarticletitle{Hunter: Exploring High-Order Consistency for Point
+  Cloud Registration}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Pattern Analysis and
+  Machine Intelligence}} \bibinfo{volume}{45}, \bibinfo{number}{12}
+  (\bibinfo{year}{2023}), \bibinfo{pages}{14760--14776}.
+\newblock
+\urldef\tempurl%
+\url{https://ieeexplore.ieee.org/document/10246849}
+\showURL{%
+\tempurl}
+
+
+\bibitem[Zhang et~al\mbox{.}(2022)]%
+        {ref28}
+\bibfield{author}{\bibinfo{person}{Y. Zhang}, \bibinfo{person}{H. Tang}, {and}
+  \bibinfo{person}{S. Chen}.} \bibinfo{year}{2022}\natexlab{}.
+\newblock \showarticletitle{Longshot: Indexing Growing Databases using MPC and
+  Differential Privacy}.
+\newblock \bibinfo{journal}{\emph{ACM Trans. Database Syst.}}
+  \bibinfo{volume}{47}, \bibinfo{number}{4} (\bibinfo{year}{2022}),
+  \bibinfo{pages}{46:1--46:30}.
+\newblock
+\href{https://doi.org/10.14778/3594512.3594529}{doi:\nolinkurl{10.14778/3594512.3594529}}
+
+
+\bibitem[Zhou et~al\mbox{.}(2019)]%
+        {ref24}
+\bibfield{author}{\bibinfo{person}{Zimeng Zhou}, \bibinfo{person}{Chenyun Yu},
+  \bibinfo{person}{Sarana Nutanong}, \bibinfo{person}{Yufei Cui},
+  \bibinfo{person}{Chenchen Fu}, {and} \bibinfo{person}{Chun~Jason Xue}.}
+  \bibinfo{year}{2019}\natexlab{}.
+\newblock \showarticletitle{A Hardware-Accelerated Solution for Hierarchical
+  Index-Based Merge-Join}.
+\newblock \bibinfo{journal}{\emph{IEEE Transactions on Knowledge and Data
+  Engineering}} \bibinfo{volume}{31}, \bibinfo{number}{1}
+  (\bibinfo{year}{2019}), \bibinfo{pages}{91--104}.
+\newblock
+\href{https://doi.org/10.1109/TKDE.2018.2833615}{doi:\nolinkurl{10.1109/TKDE.2018.2833615}}
+
+
+\end{thebibliography}

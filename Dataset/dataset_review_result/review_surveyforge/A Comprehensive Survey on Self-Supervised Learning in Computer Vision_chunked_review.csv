@@ -1,0 +1,22 @@
+﻿category,item,claude-3.7,gemini-2.5,gpt-4.1,Agree (gpt-4.1 vs gemini-2.5),Agree (gpt-4.1 vs claude-3.7),Agree (gemini-2.5 vs claude-3.7),Agreement,Paper Name
+Analysis,Depth,4.58,4.5,4.42,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Analysis,Gaps,4.58,4.67,4.67,1.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Analysis,Integration,4.58,4.58,4.5,0.0,0.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Literature,Balance,4.75,4.83,4.83,1.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Literature,Comprehensiveness,4.67,4.75,4.67,0.0,1.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Literature,Currency,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Organization,Logical Flow,4.83,4.92,4.83,0.0,1.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Organization,Section Clarity,4.75,5.0,4.67,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Organization,Summarization,4.0,3.83,3.83,1.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Originality,Advancement,4.17,4.58,4.33,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Originality,Novelty,3.75,3.75,3.67,0.0,0.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Originality,Redundancy Avoidance,4.25,4.33,4.17,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Presentation,Formatting,4.92,4.83,4.92,0.0,1.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Presentation,Language,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Presentation,Visuals,1.83,1.5,2.17,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+References,Accuracy,4.83,4.75,4.58,0.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+References,Appropriateness,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Scope,Audience,4.67,4.83,4.83,1.0,0.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Scope,Objectives,3.0,2.83,3.0,0.0,1.0,0.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+Scope,Relevance,5.0,5.0,5.0,1.0,1.0,1.0,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
+TOTAL,,88.16,88.47999999999999,88.09,,,,,A Comprehensive Survey on Self-Supervised Learning in Computer Vision.pdf
