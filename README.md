@@ -32,7 +32,7 @@ AURORA is a modular, multi-agent framework for automated academic survey generat
 │   └── surveyx/                             # Outputs from SurveyX baseline
 ├── README                                  # This file
 └── .gitignore
-
+```
 ### 📑 Folder Details
 **  AURORA_sample_surveys_ouput_gpt4.1/**
 All sample surveys and outputs generated using GPT-4.1 as the writing model. For each survey topic (e.g., "Disease detection across modalities"), you will find:
