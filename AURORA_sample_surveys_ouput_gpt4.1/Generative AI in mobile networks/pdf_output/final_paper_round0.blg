@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: final_paper_round0.aux
+The style file: unsrt.bst
+Illegal, another \bibstyle command---line 334 of file final_paper_round0.aux
+ : \bibstyle
+ :          {ACM-Reference-Format}
+I'm skipping whatever remains of this command
+Illegal, another \bibdata command---line 335 of file final_paper_round0.aux
+ : \bibdata
+ :         {references}
+I'm skipping whatever remains of this command
+Database file #1: references.bib
+Warning--I didn't find a database entry for "ref51"
+Warning--I didn't find a database entry for "ref511"
+You've used 49 entries,
+            1791 wiz_defined-function locations,
+            690 strings with 14067 characters,
+and the built_in function-call counts, 14061 in all, are:
+= -- 1035
+> -- 1166
+< -- 0
++ -- 405
+- -- 356
+* -- 1297
+:= -- 2491
+add.period$ -- 150
+call.type$ -- 49
+change.case$ -- 49
+chr.to.int$ -- 0
+cite$ -- 49
+duplicate$ -- 426
+empty$ -- 1057
+format.name$ -- 356
+if$ -- 2840
+int.to.chr$ -- 0
+int.to.str$ -- 49
+missing$ -- 49
+newline$ -- 251
+num.names$ -- 49
+pop$ -- 76
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 154
+stack$ -- 0
+substring$ -- 959
+swap$ -- 49
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 115
+width$ -- 51
+write$ -- 532
+(There were 2 error messages)
