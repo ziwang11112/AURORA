@@ -4,13 +4,13 @@ import time
 scripts = [
     
     
-    #"1_citation.py",
-    #"2deduplicated.py",
+    "1_citation.py",
+    "2deduplicated.py",
     "3_summary.py",
     "4merge.py",
     "5writing-Copy1.py",
     "6formatting.py",
-    #"arl_refinement.py"
+    "arl_refinement.py"
 ]
 
 total_start = time.time()
