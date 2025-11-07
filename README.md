@@ -1,13 +1,25 @@
-# AURORA: Agentic Rubric-guided Iterative Survey Engine for Automated Scholarly Paper Generation
+# AURORA: Agentic Rubric-Guided Iterative Survey Engine
 
-AURORA is an Agentic Rubric-guided Iterative Survey Engine for automated survey generation. It integrates citation-aware writing agents with a rubric-based evaluation loop to produce high-quality, self-improving survey papers.
+AURORA is an agentic, rubric-guided system for **automated survey paper generation**.  
+It combines multi-agent writing, citation-aware retrieval, and rubric-based review loops to iteratively produce higher-quality, traceable, and reproducible survey drafts.
 
-## 🌐 Project Highlights
+---
 
-- **Agentic Writing System**: Decomposes survey writing into agent-driven phases for retrieval,  drafting, editing, and refinement.
-- **Rubric-guided Agentic Peer-review**: Uses structured reviewer feedback (from GPT-4.1, Gemini 2.5, Claude 3.7) to guide stepwise improvements.
-- **Iterative Refinement**: Refinement is driven purely by agents' feedback.
-- **PDF Comparison Suite**: Multiple output rounds show how the refinement process improves draft quality in stages.
+## 🌐 Key Ideas
+
+- **Agentic Writing Pipeline**  
+  Survey generation is decomposed into dedicated agents for retrieval, drafting, editing, and refinement.
+
+- **Rubric-Guided Peer Review**  
+  Reviewer agents (e.g., GPT-4.1, Gemini 2.5, Claude 3.7) apply a structured rubric to score and critique drafts.
+
+- **Fully Iterative Refinement**  
+  Each round of feedback drives targeted rewrites until quality thresholds are met.
+
+- **Transparent Evolution**  
+  Multi-round outputs (Markdown, LaTeX, PDF) + logs show exactly how drafts improve over time.
+
+---
 
 ## 📁 Folder Structure
 
